@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ImageZoom default 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 kegFwU backdrop__BackdropStyled-sc-198x6p3-0 dekPmn"
+    data-test="zoom-popup"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 dUKwjQ image-zoom__CloseButton-sc-es5w1b-1 gmntHv"
+    >
+      <span
+        class="base-button__BaseButton-sc-1hqbwl-0 tertiary-button__TertiaryButton-sc-hxnf0z-0 gkjXHn gUzJrE"
+        data-test="zoom-popup-close"
+      >
+        <button
+          class="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_tertiary-info_rkzvx_gg_"
+          data-ui-name="Button"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="___SInner_rkzvx_gg_"
+            data-ui-name="Box"
+          >
+            <span
+              class="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+              data-ui-name="Button.Text"
+            >
+              svg-icon
+            </span>
+          </span>
+        </button>
+      </span>
+    </div>
+    <div
+      class="image-zoom__StyledBackground-sc-es5w1b-0 jnTrqN"
+    >
+      <div
+        class="styleRoot"
+      >
+        <img
+          alt="Zoomed Test"
+          class="styleChild"
+          data-test="zoom-popup-zoomed-image"
+          src="https://static.example.com/blog/uploads/media/a9/0e/a90e879159e862d0b3e49c792352520e/image.png"
+          width="660"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

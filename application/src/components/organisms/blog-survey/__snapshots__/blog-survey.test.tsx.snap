@@ -1,0 +1,548 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots BlogSurvey default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 cLyWBE blog-survey__Container-sc-uvyvgh-0 fXHQlF"
+>
+  <p
+    className="text-content__TextStyled-sc-1stkrsz-0 fQzgQx"
+    data-test="text-content"
+  >
+    How can you attract the right audience and generate leads with content in 2021?
+  </p>
+  <ul
+    className="answer-list__Container-sc-1a3reby-0 jtoawi"
+  >
+    <li
+      onClick={[Function]}
+    >
+      <label
+        className="radio-button__RadioButtonStyled-sc-hwi2fo-0 mKpMv ___SRadio_12oe0_gg_ _size_l_12oe0_gg_"
+        data-test="radio-label"
+        data-ui-name="Radio"
+        label={
+          <TextContent
+            fontSize={3}
+            level={7}
+            lineHeight={
+              Object {
+                "_": 1.6,
+              }
+            }
+            pl="9px"
+          >
+            Does Keyword Tool support different Amazon markets?
+          </TextContent>
+        }
+        size="l"
+        style={
+          Object {
+            "--theme_ahqhbl": undefined,
+          }
+        }
+      >
+        <input
+          checked={false}
+          className="___SControl_12oe0_gg_"
+          data-ui-name="Radio.Value"
+          disabled={false}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          style={
+            Object {
+              "--theme_ahqhbl": undefined,
+            }
+          }
+          tabIndex={0}
+          type="radio"
+        />
+        <div
+          className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+          data-ui-name="Box"
+          onMouseDown={[Function]}
+          size="l"
+          style={
+            Object {
+              "--theme_ahqhbl": "",
+            }
+          }
+        />
+        <span
+          className="___SText_12oe0_gg_ ___SText_1jbni_gg_ _size_200_1jbni_gg_"
+          data-ui-name="Radio.Text"
+          size={200}
+          style={
+            Object {
+              "--color_qh0omt": "",
+              "--decoration_qh0omt": undefined,
+              "--fontSize_qh0omt": undefined,
+              "--fontWeight_qh0omt": undefined,
+              "--lineHeight_qh0omt": undefined,
+              "--textAlign_qh0omt": undefined,
+              "--theme_ahqhbl": undefined,
+            }
+          }
+        >
+          <span
+            className="text-content__TextStyled-sc-1stkrsz-0 iyZNWh"
+            data-test="text-content"
+          >
+            Does Keyword Tool support different Amazon markets?
+          </span>
+        </span>
+      </label>
+    </li>
+    <li
+      onClick={[Function]}
+    >
+      <label
+        className="radio-button__RadioButtonStyled-sc-hwi2fo-0 mKpMv ___SRadio_12oe0_gg_ _size_l_12oe0_gg_"
+        data-test="radio-label"
+        data-ui-name="Radio"
+        label={
+          <TextContent
+            fontSize={3}
+            level={7}
+            lineHeight={
+              Object {
+                "_": 1.6,
+              }
+            }
+            pl="9px"
+          >
+            How to see the number of searches for Amazon keywords? Does Keyword Tool support different Amazon markets?
+          </TextContent>
+        }
+        size="l"
+        style={
+          Object {
+            "--theme_ahqhbl": undefined,
+          }
+        }
+      >
+        <input
+          checked={false}
+          className="___SControl_12oe0_gg_"
+          data-ui-name="Radio.Value"
+          disabled={false}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          style={
+            Object {
+              "--theme_ahqhbl": undefined,
+            }
+          }
+          tabIndex={0}
+          type="radio"
+        />
+        <div
+          className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+          data-ui-name="Box"
+          onMouseDown={[Function]}
+          size="l"
+          style={
+            Object {
+              "--theme_ahqhbl": "",
+            }
+          }
+        />
+        <span
+          className="___SText_12oe0_gg_ ___SText_1jbni_gg_ _size_200_1jbni_gg_"
+          data-ui-name="Radio.Text"
+          size={200}
+          style={
+            Object {
+              "--color_qh0omt": "",
+              "--decoration_qh0omt": undefined,
+              "--fontSize_qh0omt": undefined,
+              "--fontWeight_qh0omt": undefined,
+              "--lineHeight_qh0omt": undefined,
+              "--textAlign_qh0omt": undefined,
+              "--theme_ahqhbl": undefined,
+            }
+          }
+        >
+          <span
+            className="text-content__TextStyled-sc-1stkrsz-0 iyZNWh"
+            data-test="text-content"
+          >
+            How to see the number of searches for Amazon keywords? Does Keyword Tool support different Amazon markets?
+          </span>
+        </span>
+      </label>
+    </li>
+    <li
+      onClick={[Function]}
+    >
+      <label
+        className="radio-button__RadioButtonStyled-sc-hwi2fo-0 mKpMv ___SRadio_12oe0_gg_ _size_l_12oe0_gg_"
+        data-test="radio-label"
+        data-ui-name="Radio"
+        label={
+          <TextContent
+            fontSize={3}
+            level={7}
+            lineHeight={
+              Object {
+                "_": 1.6,
+              }
+            }
+            pl="9px"
+          >
+            Does Keyword Tool support different Amazon markets?
+          </TextContent>
+        }
+        size="l"
+        style={
+          Object {
+            "--theme_ahqhbl": undefined,
+          }
+        }
+      >
+        <input
+          checked={false}
+          className="___SControl_12oe0_gg_"
+          data-ui-name="Radio.Value"
+          disabled={false}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          style={
+            Object {
+              "--theme_ahqhbl": undefined,
+            }
+          }
+          tabIndex={0}
+          type="radio"
+        />
+        <div
+          className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+          data-ui-name="Box"
+          onMouseDown={[Function]}
+          size="l"
+          style={
+            Object {
+              "--theme_ahqhbl": "",
+            }
+          }
+        />
+        <span
+          className="___SText_12oe0_gg_ ___SText_1jbni_gg_ _size_200_1jbni_gg_"
+          data-ui-name="Radio.Text"
+          size={200}
+          style={
+            Object {
+              "--color_qh0omt": "",
+              "--decoration_qh0omt": undefined,
+              "--fontSize_qh0omt": undefined,
+              "--fontWeight_qh0omt": undefined,
+              "--lineHeight_qh0omt": undefined,
+              "--textAlign_qh0omt": undefined,
+              "--theme_ahqhbl": undefined,
+            }
+          }
+        >
+          <span
+            className="text-content__TextStyled-sc-1stkrsz-0 iyZNWh"
+            data-test="text-content"
+          >
+            Does Keyword Tool support different Amazon markets?
+          </span>
+        </span>
+      </label>
+    </li>
+  </ul>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 fMbvkX blog-survey__AnsweredContainer-sc-uvyvgh-1 cAivap"
+  >
+    <p
+      className="text-content__TextStyled-sc-1stkrsz-0 erXFlH"
+      data-test="text-content"
+    >
+      Answered:
+       
+      1110
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots BlogSurvey in block 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 kkwwKV blog-survey__Container-sc-uvyvgh-0 hIUtvj"
+>
+  <p
+    className="text-content__TextStyled-sc-1stkrsz-0 fQzgQx"
+    data-test="text-content"
+  >
+    How can you attract the right audience and generate leads with content in 2020?
+  </p>
+  <ul
+    className="answer-list__Container-sc-1a3reby-0 jfxnbT"
+  >
+    <li
+      onClick={[Function]}
+    >
+      <label
+        className="radio-button__RadioButtonStyled-sc-hwi2fo-0 mKpMv ___SRadio_12oe0_gg_ _size_l_12oe0_gg_"
+        data-test="radio-label"
+        data-ui-name="Radio"
+        disabled={false}
+        label={
+          <TextContent
+            fontSize={3}
+            level={7}
+            lineHeight={
+              Object {
+                "_": 1.6,
+              }
+            }
+            pl="9px"
+          >
+            Does Keyword Tool support different Amazon markets?
+          </TextContent>
+        }
+        size="l"
+        style={
+          Object {
+            "--theme_ahqhbl": undefined,
+          }
+        }
+      >
+        <input
+          checked={false}
+          className="___SControl_12oe0_gg_"
+          data-ui-name="Radio.Value"
+          disabled={false}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          style={
+            Object {
+              "--theme_ahqhbl": undefined,
+            }
+          }
+          tabIndex={0}
+          type="radio"
+        />
+        <div
+          className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+          data-ui-name="Box"
+          onMouseDown={[Function]}
+          size="l"
+          style={
+            Object {
+              "--theme_ahqhbl": "",
+            }
+          }
+        />
+        <span
+          className="___SText_12oe0_gg_ ___SText_1jbni_gg_ _size_200_1jbni_gg_"
+          data-ui-name="Radio.Text"
+          size={200}
+          style={
+            Object {
+              "--color_qh0omt": "",
+              "--decoration_qh0omt": undefined,
+              "--fontSize_qh0omt": undefined,
+              "--fontWeight_qh0omt": undefined,
+              "--lineHeight_qh0omt": undefined,
+              "--textAlign_qh0omt": undefined,
+              "--theme_ahqhbl": undefined,
+            }
+          }
+        >
+          <span
+            className="text-content__TextStyled-sc-1stkrsz-0 iyZNWh"
+            data-test="text-content"
+          >
+            Does Keyword Tool support different Amazon markets?
+          </span>
+        </span>
+      </label>
+    </li>
+    <li
+      onClick={[Function]}
+    >
+      <label
+        className="radio-button__RadioButtonStyled-sc-hwi2fo-0 mKpMv ___SRadio_12oe0_gg_ _size_l_12oe0_gg_"
+        data-test="radio-label"
+        data-ui-name="Radio"
+        disabled={false}
+        label={
+          <TextContent
+            fontSize={3}
+            level={7}
+            lineHeight={
+              Object {
+                "_": 1.6,
+              }
+            }
+            pl="9px"
+          >
+            How to see the number of searches for Amazon keywords? Does Keyword Tool support different Amazon markets?
+          </TextContent>
+        }
+        size="l"
+        style={
+          Object {
+            "--theme_ahqhbl": undefined,
+          }
+        }
+      >
+        <input
+          checked={false}
+          className="___SControl_12oe0_gg_"
+          data-ui-name="Radio.Value"
+          disabled={false}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          style={
+            Object {
+              "--theme_ahqhbl": undefined,
+            }
+          }
+          tabIndex={0}
+          type="radio"
+        />
+        <div
+          className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+          data-ui-name="Box"
+          onMouseDown={[Function]}
+          size="l"
+          style={
+            Object {
+              "--theme_ahqhbl": "",
+            }
+          }
+        />
+        <span
+          className="___SText_12oe0_gg_ ___SText_1jbni_gg_ _size_200_1jbni_gg_"
+          data-ui-name="Radio.Text"
+          size={200}
+          style={
+            Object {
+              "--color_qh0omt": "",
+              "--decoration_qh0omt": undefined,
+              "--fontSize_qh0omt": undefined,
+              "--fontWeight_qh0omt": undefined,
+              "--lineHeight_qh0omt": undefined,
+              "--textAlign_qh0omt": undefined,
+              "--theme_ahqhbl": undefined,
+            }
+          }
+        >
+          <span
+            className="text-content__TextStyled-sc-1stkrsz-0 iyZNWh"
+            data-test="text-content"
+          >
+            How to see the number of searches for Amazon keywords? Does Keyword Tool support different Amazon markets?
+          </span>
+        </span>
+      </label>
+    </li>
+    <li
+      onClick={[Function]}
+    >
+      <label
+        className="radio-button__RadioButtonStyled-sc-hwi2fo-0 mKpMv ___SRadio_12oe0_gg_ _size_l_12oe0_gg_"
+        data-test="radio-label"
+        data-ui-name="Radio"
+        disabled={false}
+        label={
+          <TextContent
+            fontSize={3}
+            level={7}
+            lineHeight={
+              Object {
+                "_": 1.6,
+              }
+            }
+            pl="9px"
+          >
+            Does Keyword Tool support different Amazon markets?
+          </TextContent>
+        }
+        size="l"
+        style={
+          Object {
+            "--theme_ahqhbl": undefined,
+          }
+        }
+      >
+        <input
+          checked={false}
+          className="___SControl_12oe0_gg_"
+          data-ui-name="Radio.Value"
+          disabled={false}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          style={
+            Object {
+              "--theme_ahqhbl": undefined,
+            }
+          }
+          tabIndex={0}
+          type="radio"
+        />
+        <div
+          className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+          data-ui-name="Box"
+          onMouseDown={[Function]}
+          size="l"
+          style={
+            Object {
+              "--theme_ahqhbl": "",
+            }
+          }
+        />
+        <span
+          className="___SText_12oe0_gg_ ___SText_1jbni_gg_ _size_200_1jbni_gg_"
+          data-ui-name="Radio.Text"
+          size={200}
+          style={
+            Object {
+              "--color_qh0omt": "",
+              "--decoration_qh0omt": undefined,
+              "--fontSize_qh0omt": undefined,
+              "--fontWeight_qh0omt": undefined,
+              "--lineHeight_qh0omt": undefined,
+              "--textAlign_qh0omt": undefined,
+              "--theme_ahqhbl": undefined,
+            }
+          }
+        >
+          <span
+            className="text-content__TextStyled-sc-1stkrsz-0 iyZNWh"
+            data-test="text-content"
+          >
+            Does Keyword Tool support different Amazon markets?
+          </span>
+        </span>
+      </label>
+    </li>
+  </ul>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 fMbvkX blog-survey__AnsweredContainer-sc-uvyvgh-1 cAivap"
+  >
+    <p
+      className="text-content__TextStyled-sc-1stkrsz-0 erXFlH"
+      data-test="text-content"
+    >
+      Answered:
+       
+      259
+    </p>
+  </div>
+</div>
+`;

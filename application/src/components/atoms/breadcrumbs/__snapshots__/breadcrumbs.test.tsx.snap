@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots Breadcrumbs empty 1`] = `null`;
+
+exports[`Match snapshots Breadcrumbs with empty url / 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gfnULt breadcrumbs__BreadcrumbsStyled-sc-1v67b40-0 buCJEi"
+  data-test="breadcrumbs"
+>
+  <ul
+    className="text-content__TextStyled-sc-1stkrsz-0 kAbtGH"
+    data-test="breadcrumbs-links"
+  >
+    <li
+      data-test="breadcrumbs-link-level-0"
+    >
+      <a
+        href="/"
+      >
+        Main page /
+      </a>
+    </li>
+    <li
+      data-test="breadcrumbs-link-level-1"
+    >
+      <a
+        href="seo/"
+      >
+        Seo
+      </a>
+    </li>
+    <li
+      data-test="breadcrumbs-link-level-2"
+    >
+      <a
+        href="link/"
+      >
+        Link
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Match snapshots Breadcrumbs with links 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gfnULt breadcrumbs__BreadcrumbsStyled-sc-1v67b40-0 buCJEi"
+  data-test="breadcrumbs"
+>
+  <ul
+    className="text-content__TextStyled-sc-1stkrsz-0 kAbtGH"
+    data-test="breadcrumbs-links"
+  >
+    <li
+      data-test="breadcrumbs-link-level-0"
+    >
+      <a
+        href="/"
+      >
+        Main page /
+      </a>
+    </li>
+    <li
+      data-test="breadcrumbs-link-level-1"
+    >
+      <a
+        href="seo/"
+      >
+        Seo
+      </a>
+    </li>
+    <li
+      data-test="breadcrumbs-link-level-2"
+    >
+      <a
+        href="link/"
+      >
+        Link
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Match snapshots Breadcrumbs with seo page link 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gfnULt breadcrumbs__BreadcrumbsStyled-sc-1v67b40-0 buCJEi"
+  data-test="breadcrumbs"
+>
+  <ul
+    className="text-content__TextStyled-sc-1stkrsz-0 kAbtGH"
+    data-test="breadcrumbs-links"
+  >
+    <li
+      data-test="breadcrumbs-link-level-0"
+    >
+      <a
+        href="/"
+      >
+        Main page /
+      </a>
+    </li>
+    <li
+      data-test="breadcrumbs-link-level-1"
+    >
+      <a
+        href="seo/"
+      >
+        Seo
+      </a>
+    </li>
+  </ul>
+</div>
+`;

@@ -1,0 +1,877 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots CategoriesTree default 1`] = `
+Array [
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/seo"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        SEO
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/seo-101"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            SEO 101
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/advanced-seo"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Advanced SEO
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/international-seo"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            International SEO
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/technical-seo"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Technical SEO
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/local-seo"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Local SEO
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/link-building"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Link Building
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/keyword-research"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Keyword Research
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/ecommerce"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        eCommerce
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/ecommerce-seo"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            eCommerce SEO
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/content"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        Content
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/content-marketing"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Content Marketing
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/market-research"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        Market Research
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/market-research"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Market Research
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/social-media"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        Social Media
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/social-media-marketing"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Social Media Marketing
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/advertising"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        Advertising
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/paid-search"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Paid Search (PPC)
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/display-advertising"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Display Advertising
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/advertising"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Advertising
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/discover-example"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        Discover example
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/data-studies"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Data Studies
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/example-news"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            example News
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Match snapshots CategoriesTree leveled 1`] = `
+Array [
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/seo?cache=no"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        SEO
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/seo/seo-101?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            SEO 101
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/seo/advanced-seo?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Advanced SEO
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/seo/international-seo?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            International SEO
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/seo/technical-seo?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Technical SEO
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/seo/local-seo?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Local SEO
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/seo/link-building?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Link Building
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/seo/keyword-research?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Keyword Research
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/ecommerce?cache=no"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        eCommerce
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/ecommerce/ecommerce-seo?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            eCommerce SEO
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/content?cache=no"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        Content
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/content/content-marketing?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Content Marketing
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/market-research?cache=no"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        Market Research
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/market-research/market-research?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Market Research
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/social-media?cache=no"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        Social Media
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/social-media/social-media-marketing?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Social Media Marketing
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/advertising?cache=no"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        Advertising
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/advertising/paid-search?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Paid Search (PPC)
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/advertising/display-advertising?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Display Advertising
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/advertising/advertising?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Advertising
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gTPblw categories-tree__Category-sc-1iez4pr-1 cEVjlL"
+    data-test="category"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 gkKYzy"
+      data-test="text-content"
+    >
+      <a
+        data-test="category-link"
+        href="/blog/category/discover-example?cache=no"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        Discover example
+      </a>
+    </h3>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subcategories"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/discover-example/data-studies?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            Data Studies
+          </span>
+        </a>
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kveImk"
+        data-test="text-content"
+      >
+        <a
+          data-test="subcategory-link"
+          href="/blog/category/discover-example/example-news?cache=no"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <span
+            className="categories-tree__SubcategoryName-sc-1iez4pr-0 ksxBbP"
+          >
+            example News
+          </span>
+        </a>
+      </span>
+    </div>
+  </div>,
+]
+`;

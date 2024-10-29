@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots BannerWide default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gwerbi"
+  data-test="banner-wide"
+/>
+`;
+
+exports[`Match snapshots BannerWide with label 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gwerbi"
+  data-test="banner-wide"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 jzxqvy"
+  >
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 ikPAGE"
+      data-test="text-content"
+    >
+      Ads
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots BannerWide with label and children 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gwerbi"
+  data-test="banner-wide"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 jzxqvy"
+  >
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 ikPAGE"
+      data-test="text-content"
+    >
+      Ads
+    </span>
+  </div>
+  <div
+    className="test"
+  />
+</div>
+`;

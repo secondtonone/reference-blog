@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot LinkText match snapshot default 1`] = `
+<a
+  className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+  data-test="link-text"
+  href="#"
+>
+  link
+</a>
+`;

@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ButtonIcon with up icon 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+  data-test="button-icon-up"
+  size="m"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="m"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="m"
+        style={Object {}}
+      >
+        svg-icon
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshots ButtonIcon with up icon and view="filled" 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 dNfjhV"
+  data-test="button-icon-up"
+  size="m"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="m"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="m"
+        style={Object {}}
+      >
+        svg-icon
+      </span>
+    </span>
+  </button>
+</span>
+`;

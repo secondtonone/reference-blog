@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots NavigationHeader default 1`] = `
+<nav
+  className="navigation-header__HeaderStyled-sc-hv7i9g-0 gtVDIv"
+  data-test="header"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 ibLhec example-navbar__MainMenuStyled-sc-xa9pbp-0 kPOXth"
+    data-test="main-menu"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 eHqbWL"
+      data-test="container"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 hUetXy"
+      >
+        <ul
+          className="main-menu__Menu-sc-3jwj0u-0 kjUdwX"
+          data-test="menu"
+        >
+          <li>
+            <a
+              className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+              data-test="link-text"
+              href="https://www.example.com/features/"
+            >
+              Features
+            </a>
+          </li>
+          <li>
+            <a
+              className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+              data-test="link-text"
+              href="https://www.example.com/prices/"
+            >
+              Pricing
+            </a>
+          </li>
+          <li>
+            <div
+              aria-describedby="dropdown"
+              className="___SBoxInline_1tphm_gg_"
+              data-test="dropdown-trigger"
+              data-ui-name="DropdownMenu.Trigger"
+              onKeyDown={[Function]}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              size="xl"
+              style={Object {}}
+            >
+              <span
+                className="text-content__TextStyled-sc-1stkrsz-0 fCUIgs"
+                data-test="text-content"
+              >
+                Resources
+              </span>
+              <div
+                className="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+              >
+                <span>
+                  up
+                </span>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div
+              aria-describedby="dropdown"
+              className="___SBoxInline_1tphm_gg_"
+              data-test="dropdown-trigger"
+              data-ui-name="DropdownMenu.Trigger"
+              onKeyDown={[Function]}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              size="xl"
+              style={Object {}}
+            >
+              <span
+                className="text-content__TextStyled-sc-1stkrsz-0 fCUIgs"
+                data-test="text-content"
+              >
+                Company
+              </span>
+              <div
+                className="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+              >
+                <span>
+                  up
+                </span>
+              </div>
+            </div>
+          </li>
+          <li>
+            <a
+              className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+              data-test="link-text"
+              href="https://www.example.com/apps/"
+            >
+              App Center
+            </a>
+          </li>
+          <li>
+            <div
+              aria-describedby="dropdown"
+              className="___SBoxInline_1tphm_gg_"
+              data-test="dropdown-trigger"
+              data-ui-name="DropdownMenu.Trigger"
+              onKeyDown={[Function]}
+              onMouseEnter={[Function]}
+              onMouseLeave={[Function]}
+              size="xl"
+              style={Object {}}
+            >
+              <span
+                className="text-content__TextStyled-sc-1stkrsz-0 fCUIgs"
+                data-test="text-content"
+              >
+                Extra tools
+              </span>
+              <div
+                className="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+              >
+                <span>
+                  up
+                </span>
+              </div>
+            </div>
+          </li>
+        </ul>
+        <ul
+          className="example-navbar__Menu-sc-xa9pbp-1 example-navbar__RightMenu-sc-xa9pbp-2 beQwWn khBREL"
+          data-test="right-menu"
+        />
+      </div>
+    </div>
+  </div>
+</nav>
+`;

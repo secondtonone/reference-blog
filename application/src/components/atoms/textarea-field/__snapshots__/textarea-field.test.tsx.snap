@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots Textarea empty field 1`] = `
+<span
+  className="field-container__Container-sc-qv1os7-0 jOqnRO"
+  data-test="field-container"
+>
+  <span>
+    <textarea
+      className="___STextarea_1vhq7_gg_ _size_xl_1vhq7_gg_ _state_normal_1vhq7_gg_"
+      data-ui-name="Textarea"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="Text"
+      size="xl"
+      style={
+        Object {
+          "--resize_s1bpz4": "none",
+        }
+      }
+      value=""
+    />
+  </span>
+</span>
+`;
+
+exports[`Match snapshots Textarea internal 1`] = `
+<span
+  className="field-container__Container-sc-qv1os7-0 trAty"
+  data-test="field-container"
+>
+  <span>
+    <textarea
+      className="___STextarea_1vhq7_gg_ _size_xl_1vhq7_gg_ _state_normal_1vhq7_gg_"
+      data-ui-name="Textarea"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      size="xl"
+      style={
+        Object {
+          "--resize_s1bpz4": "none",
+        }
+      }
+      value="Text"
+    />
+  </span>
+</span>
+`;
+
+exports[`Match snapshots Textarea with error 1`] = `
+<span
+  className="field-container__Container-sc-qv1os7-0 jOqnRO"
+  data-test="field-container"
+>
+  <span>
+    <textarea
+      className="___STextarea_1vhq7_gg_ _size_xl_1vhq7_gg_ _state_invalid_1vhq7_gg_"
+      data-ui-name="Textarea"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      size="xl"
+      style={
+        Object {
+          "--resize_s1bpz4": "none",
+        }
+      }
+      value="Text"
+    />
+  </span>
+</span>
+`;
+
+exports[`Match snapshots Textarea with value 1`] = `
+<span
+  className="field-container__Container-sc-qv1os7-0 jOqnRO"
+  data-test="field-container"
+>
+  <span>
+    <textarea
+      className="___STextarea_1vhq7_gg_ _size_xl_1vhq7_gg_ _state_normal_1vhq7_gg_"
+      data-ui-name="Textarea"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      size="xl"
+      style={
+        Object {
+          "--resize_s1bpz4": "none",
+        }
+      }
+      value="Text"
+    />
+  </span>
+</span>
+`;

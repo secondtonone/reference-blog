@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot Page default 1`] = `
+<div
+  className="page__PageStyled-sc-1uolz5z-0 fLUSeG"
+  data-test="page"
+/>
+`;

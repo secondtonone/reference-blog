@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordion match snapshots default 1`] = `
+<div
+  aria-controls="content-0"
+  aria-expanded={false}
+  className="___SItemToggle_ljkep_gg_"
+  data-test="accordion-item-toggle"
+  data-ui-name="Item.Toggle"
+  id="trigger-0"
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onMouseDown={[Function]}
+  style={Object {}}
+  tabIndex={0}
+>
+  <span
+    className="text-content__TextStyled-sc-1stkrsz-0 eHikOj"
+    data-test="text-content"
+  >
+    Resources
+  </span>
+</div>
+`;

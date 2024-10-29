@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dropdown match snapshots default 1`] = `
+<div
+  aria-describedby="dropdown"
+  className="___SBoxInline_1tphm_gg_"
+  data-test="dropdown-trigger"
+  data-ui-name="DropdownMenu.Trigger"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+  size="xl"
+  style={Object {}}
+>
+  <span>
+    svg-icon-up
+  </span>
+  Resources
+</div>
+`;

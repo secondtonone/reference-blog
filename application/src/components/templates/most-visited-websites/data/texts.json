@@ -1,0 +1,76 @@
+{
+  "industryBlock": {
+    "description": "To spot more granular market patterns and provide more useful insights, we decided to show the leading US websites in terms of traffic volume by different industries: Education, Fashion, Travel, Retail, Teamwork, Social Networks, Media, Food Delivery, and Streaming Services.",
+    "categories": {
+      "Education": {
+        "paragraphs": [
+          "April continued a months-long negative traffic pattern among the most visited US sites within the Education sector. The average traffic drop was 6.5%—a slower decline than the top 100 but if you keep in mind previous months’ losses in visits, things start to look grimmer.",
+          "Eight out of ten most popular US education sites witnessed a visitor decline, with Duolingo (-14%) being the hardest hit site.",
+          "The only two sites that experienced some positive traffic traction were mostly leisure education-related—Ted (+7.5%) and Coursera (+4%) saw an influx of visitors despite lowering traffic trends among the rest."
+        ]
+      },
+      "Fashion": {
+        "paragraphs": [
+          "If the retail sector’s notable traffic drop could be tied to the ongoing inflation, it didn’t seem to affect fashion-curious shoppers. In fact, Fashion was the only category across the ones we analyze here every month that was in the positive traffic territory.",
+          "The average traffic growth for the top 10 most visited US fashion sites was 1.3%. It doesn’t seem significant, but if you factor in downward trends across the board, this looks like a big win.",
+          "Six out of the ten apparel brands making it to the most popular US fashion sites list saw visitor numbers go down, but some of the highs were really high so they improved the overall picture. Academy’s digital footfall rose by 20%, with Fashion Nova (+15%) slightly lagging behind.",
+          "As for the lows, they were more modest. The only notable drop we’ve seen belongs to StockX which managed to lose 12% of its visitors in April. Nike, the second-hardest-hit fashion site, lost 4%."
+        ]
+      },
+      "Travel": {
+        "paragraphs": [
+          "A few-month-long traffic trend across the most visited US travel sites showed careful signs of revival for the otherwise slow travel sector. April, however, countered the positive traffic trend with the average visitor drops among the top 10 most popular travel sites in the US being at almost 7%.",
+          "All of the sites that made the list saw declining traffic numbers.",
+          "The biggest losers were Southwest (-12%) and Vrbo (-11.5%). Kayak (-2.6%) and Tripadvisor (-1.4%) saw more modest but still losses."
+        ]
+      },
+      "Retail": {
+        "paragraphs": [
+          "Blame it on inflation, the stock market uncertainty, or anything else, but April came with plummeting traffic numbers among retail sites.",
+          "If e-tailers’ March traffic stats (+7.7%) showed that shoppers were still willing to spend some cash online, in April, the top 10 most popular retail sites saw an almost 6% drop in visitors.",
+          "The tech giants Samsung (-17%) and Apple (-10%) saw the most significant decline.",
+          "In fact, 90% of the top-tenners saw their visitor numbers go down, with only one exception. Home Depot witnessed an upward traffic trend, gaining 2.6%  more visitors."
+        ]
+      },
+      "Teamwork": {
+        "paragraphs": [
+          "The typically consistent top 10 most popular teamwork-related software sites list saw some turbulence in April. One newcomer — MeisterTask—completely reshuffled the cards with its 1500% traffic growth.",
+          "The task management software — thanks to the sudden traffic surge—took over Skype’s spot within the top 10. Also, it completely overrode the average numbers for the category: with MeisterTask in the top 10, the average April traffic growth was at 140%. Without it, we see a negative -9% traffic trend.",
+          "Apart from the newcomer, only Microsoft Office managed to stay within the positive traffic territory.",
+          "All the rest of the most popular US teamwork software sites saw visitor drops, with months-long-struggling Zoom (-16%) continuing to lead the lows."
+        ]
+      },
+      "Social Networks": {
+        "paragraphs": [
+          "Social media was the second-slowest-growing category in April. The average traffic drop was at 13.6%, with all of the most visited social networks in the US showing negative traffic trends.",
+          "Only TikTok managed to somewhat keep its visitor numbers intact, losing an insignificant 0.15% of its traffic.",
+          "Pinterest (-70%), however, saw the most dramatic decline in visits, and that’s after losing almost 50% of its traffic back in March.",
+          "Even the usual category winners—YouTube and Twitter—lost a significant portion of their digital footfall, seeing 12% and 17% fewer visitors respectively."
+        ]
+      },
+      "Media": {
+        "paragraphs": [
+          "Back in March, the top 10 US media sites saw impressive growth of almost 18%—inflation, international tensions, and other factors got news consumers to tune in to daily updates.",
+          "While April has been marked by the same stories, it looks like people’s interest cooled down. The media industry lost almost all of its March gains in April, with its digital footfall going down by 15%. In fact, media is the fastest-falling category across the board.",
+          "All the sites making it to the top 10 most visited US news sites were in the negative traffic territory.",
+          "BBC (-28%) lost almost a third of its visitors, with CNN (-25.4%), Fox News (-21.4%), and Washington Post (-20.3%) being hit by comparable drops.",
+          "While this looks like a bounce back from the previous month’s highs, losses are at times higher than the previous gains."
+        ]
+      },
+      "Food Delivery": {
+        "paragraphs": [
+          "After March’s 7% rise in traffic to the top 10 most visited US food delivery sites, April showed a counter-trend. The average traffic within the category went down by 3%. Compared to other industries, however, this is a small decrease — it’s even smaller than the average decline for the top 100 most visited US sites list.",
+          "Six out of ten sites within the list saw lowering visitor numbers, with Seamless (-12%) and BeyondMenu (-11.6%) seeing the biggest drops.",
+          "Some, however, managed to expand their audience share, attracting more visitors in April. Postmates saw an impressive 15.5% visitor gain. Doordash (+4.4%), Slicelife (+2%), and UberEats (+0.06%) witnessed a smaller growth pace."
+        ]
+      },
+      "Streaming Services": {
+        "paragraphs": [
+          "The top 10 most popular streaming sites in the US broke the months-long positive traffic trend and saw their average audience numbers go down by 4%.",
+          "80% of online streaming services saw drops in visits, with Bitchute (-19.6%) and Netflix (-10%) leading the way.",
+          "The only two streaming sites that saw their audience numbers go up were Tubi (+11%) and MyDramaList (-1.4%). The former’s impressive growth, especially in contrast with others’ drastic traffic decline, got Tubi to move two positions up the most popular US streamers list."
+        ]
+      }
+    }
+  }
+}

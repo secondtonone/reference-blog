@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots PageError 500 page 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 fiLzXF"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 ktqaFz"
+    data-test="logo"
+  >
+    <a
+      aria-label="To example"
+      className="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+      data-test="logo-link-main"
+      href="/"
+      rel="noopener"
+      target="_blank"
+    >
+      <span>
+        brand
+      </span>
+      <span>
+        example
+      </span>
+    </a>
+    <a
+      aria-label="To Blog"
+      className="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+      href="/blog/"
+    >
+      <span
+        className="logo__LogoStyled-sc-1o2jhw6-1 eTHmPb"
+        data-test="logo-link-blog"
+      >
+        <span>
+          blog
+        </span>
+      </span>
+    </a>
+  </div>
+  <h2
+    className="text-content__TextStyled-sc-1stkrsz-0 dRRiqw container__HeadingStyled-sc-orj98h-1 ievuLA"
+    data-test="error-heading"
+  >
+    500 Internal Server Error
+  </h2>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 kuJVxh container__MessageStyled-sc-orj98h-0 goEbG"
+  >
+    <p
+      className="text-content__TextStyled-sc-1stkrsz-0 bUJWgm container__TextContentStyled-sc-orj98h-2 gWtmge"
+      data-test="error-text"
+    >
+      <article
+        className="page-error__MessageStyled-sc-o3ry6q-0 doKjNM"
+      >
+        You can visit 
+        <a
+          data-test="error-link-main"
+          href="/blog"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          homepage
+        </a>
+         
+        or contact
+         
+        <a
+          data-test="error-link-support"
+          href="mailto:mail@example.com?subject=example Blog"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          target="_blank"
+        >
+          support team
+        </a>
+        .
+      </article>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 eQqAyd"
+      >
+        <img
+          alt="Find anything"
+          data-test="error-png"
+          src="https://static.example.com/blog-next-static/banners/banner-find-dark.png"
+          width="416"
+        />
+      </div>
+    </p>
+  </div>
+</div>
+`;

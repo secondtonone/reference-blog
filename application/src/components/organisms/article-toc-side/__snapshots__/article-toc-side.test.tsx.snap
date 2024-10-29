@@ -1,0 +1,239 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ArticleTocSide default 1`] = `
+<ArticleTocSide
+  isEnabled={true}
+  levels={
+    Array [
+      "h2",
+    ]
+  }
+  width={193}
+>
+  <ForwardRef
+    display={
+      Object {
+        "_": "none",
+        "md": "block",
+      }
+    }
+    height="100%"
+    mr={40}
+    mt={22}
+    onIntersection={[Function]}
+    once={true}
+    position="sticky"
+    top="136px"
+  >
+    <ForwardRef
+      data-test="intersection-container"
+      display={
+        Object {
+          "_": "none",
+          "md": "block",
+        }
+      }
+      height="100%"
+      mr={40}
+      mt={22}
+      position="sticky"
+      top="136px"
+    >
+      <box-adaptive__BoxStyled
+        data-test="intersection-container"
+        display={
+          Object {
+            "_": "none",
+            "md": "block",
+          }
+        }
+        height="100%"
+        mr={40}
+        mt={22}
+        position="sticky"
+        top="136px"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 gCnxxI"
+          data-test="intersection-container"
+        >
+          <ArticleTocList
+            activeId=""
+            data-test="table-of-content"
+            width={193}
+          >
+            <article-toc-list__Toc
+              activeId=""
+              data-test="table-of-content"
+              onClick={[Function]}
+              width={193}
+            >
+              <div
+                className="article-toc-list__Toc-sc-1q5d9b4-0 dSjyWg"
+                data-test="table-of-content"
+                onClick={[Function]}
+                width={193}
+              >
+                <article-toc-side__Uppercased
+                  fontWeight={
+                    Object {
+                      "_": "accent",
+                    }
+                  }
+                  level={0}
+                  lineHeight={1.6}
+                  pb={4}
+                >
+                  <TextContent
+                    className="article-toc-side__Uppercased-sc-39qepd-0 hBccbL"
+                    fontWeight={
+                      Object {
+                        "_": "accent",
+                      }
+                    }
+                    level={0}
+                    lineHeight={1.6}
+                    pb={4}
+                  >
+                    <text-content__TextStyled
+                      as="p"
+                      className="article-toc-side__Uppercased-sc-39qepd-0 hBccbL"
+                      data-test="text-content"
+                      display="inline-block"
+                      fontFamily="Inter"
+                      fontWeight={
+                        Object {
+                          "_": "accent",
+                        }
+                      }
+                      lineHeight={1.6}
+                      pb={4}
+                    >
+                      <p
+                        className="text-content__TextStyled-sc-1stkrsz-0 dPGqwY article-toc-side__Uppercased-sc-39qepd-0 hBccbL"
+                        data-test="text-content"
+                      >
+                        Table of contents
+                      </p>
+                    </text-content__TextStyled>
+                  </TextContent>
+                </article-toc-side__Uppercased>
+                <ArticleToc
+                  headings={
+                    Array [
+                      Object {
+                        "id": "lead-generation-strategies-for-marketing-agencies",
+                        "tagName": "H2",
+                        "textContent": "Lead Generation Strategies for Marketing Agencies",
+                      },
+                      Object {
+                        "id": "social-media",
+                        "tagName": "H3",
+                        "textContent": "Social Media",
+                      },
+                      Object {
+                        "id": "linkedin",
+                        "tagName": "H4",
+                        "textContent": "LinkedIn",
+                      },
+                      Object {
+                        "id": "email",
+                        "tagName": "H2",
+                        "textContent": "Chatbots",
+                      },
+                    ]
+                  }
+                  isExpanded={true}
+                >
+                  <HierarchyList
+                    list={
+                      Object {
+                        "0": Object {
+                          "child": 1,
+                          "id": "lead-generation-strategies-for-marketing-agencies",
+                          "level": 2,
+                          "next": 3,
+                          "parent": null,
+                          "text": "Lead Generation Strategies for Marketing Agencies",
+                        },
+                        "1": Object {
+                          "child": 2,
+                          "id": "social-media",
+                          "level": 3,
+                          "next": null,
+                          "parent": 0,
+                          "text": "Social Media",
+                        },
+                        "2": Object {
+                          "child": null,
+                          "id": "linkedin",
+                          "level": 4,
+                          "next": null,
+                          "parent": 1,
+                          "text": "LinkedIn",
+                        },
+                        "3": Object {
+                          "child": null,
+                          "id": "email",
+                          "level": 2,
+                          "next": null,
+                          "parent": null,
+                          "text": "Chatbots",
+                        },
+                      }
+                    }
+                    wrapper={[Function]}
+                  >
+                    <ul>
+                      <li
+                        key="item-0"
+                      >
+                        <a
+                          href="#lead-generation-strategies-for-marketing-agencies"
+                        >
+                          Lead Generation Strategies for Marketing Agencies
+                        </a>
+                        <ul>
+                          <li
+                            key="item-1"
+                          >
+                            <a
+                              href="#social-media"
+                            >
+                              Social Media
+                            </a>
+                            <ul>
+                              <li
+                                key="item-2"
+                              >
+                                <a
+                                  href="#linkedin"
+                                >
+                                  LinkedIn
+                                </a>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
+                      <li
+                        key="item-3"
+                      >
+                        <a
+                          href="#email"
+                        >
+                          Chatbots
+                        </a>
+                      </li>
+                    </ul>
+                  </HierarchyList>
+                </ArticleToc>
+              </div>
+            </article-toc-list__Toc>
+          </ArticleTocList>
+        </div>
+      </box-adaptive__BoxStyled>
+    </ForwardRef>
+  </ForwardRef>
+</ArticleTocSide>
+`;

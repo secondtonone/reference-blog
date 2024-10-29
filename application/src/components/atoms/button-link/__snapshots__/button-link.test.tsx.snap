@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot Ghost ButtonLink match snapshot default 1`] = `
+<span
+  className="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC"
+  data-test="button-link-secondary"
+>
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+    data-test="link-text"
+  >
+    Link
+  </a>
+</span>
+`;
+
+exports[`Match snapshot Ghost ButtonLink match snapshot disabled 1`] = `
+<span
+  className="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC"
+  data-test="button-link-secondary"
+>
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink -disabled"
+    data-test="link-text"
+  >
+    Link
+  </a>
+</span>
+`;
+
+exports[`Match snapshot Ghost ButtonLink match snapshot selected 1`] = `
+<span
+  className="base-link__BaseButtonLink-sc-16cbcsq-0 selected-link__SelectedButtonLink-sc-oydr0g-0 jcuBOd jSCFRv"
+  data-test="button-link-selected"
+>
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+    data-test="link-text"
+  >
+    Link
+  </a>
+</span>
+`;
+
+exports[`Match snapshot Ghost ButtonLink match snapshot with border 1`] = `
+<span
+  className="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd ipyQnY"
+  data-test="button-link-secondary"
+>
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+    data-test="link-text"
+  >
+    Link
+  </a>
+</span>
+`;
+
+exports[`Match snapshot Main ButtonLink match snapshot default 1`] = `
+<span
+  className="base-link__BaseButtonLink-sc-16cbcsq-0 primary-link__PrimaryButtonLink-sc-akzrhv-0 jcuBOd GhuEW"
+  data-test="button-link-primary"
+>
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+    data-test="link-text"
+  >
+    Link
+  </a>
+</span>
+`;
+
+exports[`Match snapshot Main ButtonLink match snapshot disabled 1`] = `
+<span
+  className="base-link__BaseButtonLink-sc-16cbcsq-0 primary-link__PrimaryButtonLink-sc-akzrhv-0 jcuBOd GhuEW"
+  data-test="button-link-primary"
+>
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink -disabled"
+    data-test="link-text"
+  >
+    Link
+  </a>
+</span>
+`;

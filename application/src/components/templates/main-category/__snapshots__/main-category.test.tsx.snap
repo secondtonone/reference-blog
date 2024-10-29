@@ -1,0 +1,1645 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots MainCategoryPage default 1`] = `
+<DocumentFragment>
+  <div
+    class="page-section__SectionStyled-sc-rosswz-0 byJLpF"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 knChur articles-list__ArticlesStyled-sc-1ql5vrh-0"
+      data-test="articles-list-on-page-SEO"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+        data-test="container"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0"
+        >
+          <h1
+            class="text-content__TextStyled-sc-1stkrsz-0 juAimp articles-list__TextContentStyled-sc-1ql5vrh-1 icHrtT"
+            data-test="text-content"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 hLzCBq"
+              data-test="category-title"
+            >
+              SEO
+            </span>
+          </h1>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dnpSfj"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 hWaBeJ articles-list__TextContentStyled-sc-1ql5vrh-1 icHrtT"
+              data-test="category-caption"
+            >
+              The latest search industry news and major events happening in SEO - including Google updates and announcements. You can also find our unique data studies content, case studies and a few search-related quizzes and games.
+            </span>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 gMitnA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 gnSSuA tag-control__TagControlStyled-sc-5ljs9a-0 jXcIqA"
+              data-test="tag-control"
+            >
+              <a
+                href="/blog/category/seo/what-is-seo"
+              >
+                What is SEO
+              </a>
+            </span>
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 gnSSuA tag-control__TagControlStyled-sc-5ljs9a-0 jXcIqA"
+              data-test="tag-control"
+            >
+              <a
+                href="/blog/category/seo/keyword-research"
+              >
+                Keyword Research
+              </a>
+            </span>
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 gnSSuA tag-control__TagControlStyled-sc-5ljs9a-0 jXcIqA"
+              data-test="tag-control"
+            >
+              <a
+                href="/blog/category/seo/on-page-seo"
+              >
+                On-page SEO
+              </a>
+            </span>
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 gnSSuA tag-control__TagControlStyled-sc-5ljs9a-0 jXcIqA"
+              data-test="tag-control"
+            >
+              <a
+                href="/blog/category/seo/link-building"
+              >
+                Link Building
+              </a>
+            </span>
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 gnSSuA tag-control__TagControlStyled-sc-5ljs9a-0 jXcIqA"
+              data-test="tag-control"
+            >
+              <a
+                href="/blog/category/seo/technical-seo"
+              >
+                Technical SEO
+              </a>
+            </span>
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 gnSSuA tag-control__TagControlStyled-sc-5ljs9a-0 jXcIqA"
+              data-test="tag-control"
+            >
+              <a
+                href="/blog/category/seo/seo-copywriting"
+              >
+                SEO Copywriting
+              </a>
+            </span>
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 gnSSuA tag-control__TagControlStyled-sc-5ljs9a-0 jXcIqA"
+              data-test="tag-control"
+            >
+              <a
+                href="/blog/category/seo/website-architecture"
+              >
+                Website Architecture
+              </a>
+            </span>
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 gnSSuA tag-control__TagControlStyled-sc-5ljs9a-0 jXcIqA"
+              data-test="tag-control"
+            >
+              <a
+                href="/blog/category/seo/seo-tools"
+              >
+                SEO Tools
+              </a>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+      data-test="container"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 jgdVXb"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 jiiOp main-category__CardGridStyled-sc-1n0xp0u-0 hdrmDt"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 gtKoOI category-card__CategoryCardStyled-sc-1w3cln1-0 kMbNKD"
+            data-test="category-card"
+          >
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 gpxdYq category-card__CategoryCardImageStyled-sc-1w3cln1-1 knntfu"
+              data-test="category-card-image"
+            >
+              <a
+                class="category-card__LinkStyled-sc-1w3cln1-2 fvIMOH"
+                data-test="category-card-image-link"
+                href="/blog/category/seo/what-is-seo"
+                title="What is SEO"
+              >
+                <img
+                  alt="What is SEO"
+                  class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                  data-src="https://static.example.com/blog/uploads/files/e6/41/e641c28b51a89224ddf9681a19241ac2/keyword-research-desk-illustration.svg"
+                  height="250"
+                  width="310"
+                />
+              </a>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 ejaosw"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0"
+                data-test="category-card-title"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 hsAMAz"
+                  data-test="text-content"
+                >
+                  <a
+                    href="/blog/category/seo/what-is-seo"
+                    title="What is SEO"
+                  >
+                    What is SEO
+                  </a>
+                </span>
+              </div>
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 nwpxZ category-card__CategoryCardListStyled-sc-1w3cln1-3 rFnTE"
+                data-test="category-card-list"
+              >
+                <ul
+                  class="list__StyledList-sc-8a55c7-0 cHmrMb"
+                  data-test="list"
+                >
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/december-2021-product-review-update"
+                      >
+                        Why Google’s 10 Blue Links Will Have to Go (Eventually)
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/unwrap-new-growth-avenues"
+                      >
+                        SEO Clinic Episode III: How to Analyze Your Place in the Online Market and Unwrap New Growth Avenues
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/hands-on-landing-page-optimization-tips"
+                      >
+                        SEO Clinic Episode II: Hands-on Landing Page Optimization Tips
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-blog"
+                      >
+                        17 SEO Blogs for Everyone from Beginners to Experts
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/htaccess-file"
+                      >
+                        4 Ways to Use Your .htaccess File
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/bing-vs-google"
+                      >
+                        How to Boost Your E-commerce Store's SEO by Offering Promo Codes
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/google-core-update-trends"
+                      >
+                        Are Core Updates Becoming Less Powerful? [Study]
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-usability"
+                      >
+                        How & Why Usability Will Be the Future of SEO
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 jiiOp main-category__CardGridStyled-sc-1n0xp0u-0 hdrmDt"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 gtKoOI category-card__CategoryCardStyled-sc-1w3cln1-0 kMbNKD"
+            data-test="category-card"
+          >
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 gpxdYq category-card__CategoryCardImageStyled-sc-1w3cln1-1 knntfu"
+              data-test="category-card-image"
+            >
+              <a
+                class="category-card__LinkStyled-sc-1w3cln1-2 fvIMOH"
+                data-test="category-card-image-link"
+                href="/blog/category/seo/keyword-research"
+                title="Keyword Research"
+              >
+                <img
+                  alt="Keyword Research"
+                  class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                  data-src="https://static.example.com/blog/uploads/files/01/07/0107013bb4a3aaaf1a11c9930cdf6a4f/what-is-seo-desk-illustration.svg"
+                  height="250"
+                  width="310"
+                />
+              </a>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 ejaosw"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0"
+                data-test="category-card-title"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 hsAMAz"
+                  data-test="text-content"
+                >
+                  <a
+                    href="/blog/category/seo/keyword-research"
+                    title="Keyword Research"
+                  >
+                    Keyword Research
+                  </a>
+                </span>
+              </div>
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 nwpxZ category-card__CategoryCardListStyled-sc-1w3cln1-3 rFnTE"
+                data-test="category-card-list"
+              >
+                <ul
+                  class="list__StyledList-sc-8a55c7-0 cHmrMb"
+                  data-test="list"
+                >
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/december-2021-product-review-update"
+                      >
+                        Why Google’s 10 Blue Links Will Have to Go (Eventually)
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/unwrap-new-growth-avenues"
+                      >
+                        SEO Clinic Episode III: How to Analyze Your Place in the Online Market and Unwrap New Growth Avenues
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/hands-on-landing-page-optimization-tips"
+                      >
+                        SEO Clinic Episode II: Hands-on Landing Page Optimization Tips
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-blog"
+                      >
+                        17 SEO Blogs for Everyone from Beginners to Experts
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/htaccess-file"
+                      >
+                        4 Ways to Use Your .htaccess File
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/bing-vs-google"
+                      >
+                        How to Boost Your E-commerce Store's SEO by Offering Promo Codes
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/google-core-update-trends"
+                      >
+                        Are Core Updates Becoming Less Powerful? [Study]
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-usability"
+                      >
+                        How & Why Usability Will Be the Future of SEO
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 jiiOp main-category__CardGridStyled-sc-1n0xp0u-0 hdrmDt"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 gtKoOI category-card__CategoryCardStyled-sc-1w3cln1-0 kMbNKD"
+            data-test="category-card"
+          >
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 gpxdYq category-card__CategoryCardImageStyled-sc-1w3cln1-1 knntfu"
+              data-test="category-card-image"
+            >
+              <a
+                class="category-card__LinkStyled-sc-1w3cln1-2 fvIMOH"
+                data-test="category-card-image-link"
+                href="/blog/category/seo/on-page-seo"
+                title="On-page SEO"
+              >
+                <img
+                  alt="On-page SEO"
+                  class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                  data-src="https://static.example.com/blog/uploads/files/01/07/0107013bb4a3aaaf1a11c9930cdf6a4f/what-is-seo-desk-illustration.svg"
+                  height="250"
+                  width="310"
+                />
+              </a>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 ejaosw"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0"
+                data-test="category-card-title"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 hsAMAz"
+                  data-test="text-content"
+                >
+                  <a
+                    href="/blog/category/seo/on-page-seo"
+                    title="On-page SEO"
+                  >
+                    On-page SEO
+                  </a>
+                </span>
+              </div>
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 nwpxZ category-card__CategoryCardListStyled-sc-1w3cln1-3 rFnTE"
+                data-test="category-card-list"
+              >
+                <ul
+                  class="list__StyledList-sc-8a55c7-0 cHmrMb"
+                  data-test="list"
+                >
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/december-2021-product-review-update"
+                      >
+                        Why Google’s 10 Blue Links Will Have to Go (Eventually)
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/unwrap-new-growth-avenues"
+                      >
+                        SEO Clinic Episode III: How to Analyze Your Place in the Online Market and Unwrap New Growth Avenues
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/hands-on-landing-page-optimization-tips"
+                      >
+                        SEO Clinic Episode II: Hands-on Landing Page Optimization Tips
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-blog"
+                      >
+                        17 SEO Blogs for Everyone from Beginners to Experts
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/htaccess-file"
+                      >
+                        4 Ways to Use Your .htaccess File
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/bing-vs-google"
+                      >
+                        How to Boost Your E-commerce Store's SEO by Offering Promo Codes
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/google-core-update-trends"
+                      >
+                        Are Core Updates Becoming Less Powerful? [Study]
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-usability"
+                      >
+                        How & Why Usability Will Be the Future of SEO
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 jiiOp main-category__CardGridStyled-sc-1n0xp0u-0 hdrmDt"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 gtKoOI category-card__CategoryCardStyled-sc-1w3cln1-0 kMbNKD"
+            data-test="category-card"
+          >
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 gpxdYq category-card__CategoryCardImageStyled-sc-1w3cln1-1 knntfu"
+              data-test="category-card-image"
+            >
+              <a
+                class="category-card__LinkStyled-sc-1w3cln1-2 fvIMOH"
+                data-test="category-card-image-link"
+                href="/blog/category/seo/link-building"
+                title="Link Building"
+              >
+                <img
+                  alt="Link Building"
+                  class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                  data-src="https://static.example.com/blog/uploads/files/01/07/0107013bb4a3aaaf1a11c9930cdf6a4f/what-is-seo-desk-illustration.svg"
+                  height="250"
+                  width="310"
+                />
+              </a>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 ejaosw"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0"
+                data-test="category-card-title"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 hsAMAz"
+                  data-test="text-content"
+                >
+                  <a
+                    href="/blog/category/seo/link-building"
+                    title="Link Building"
+                  >
+                    Link Building
+                  </a>
+                </span>
+              </div>
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 nwpxZ category-card__CategoryCardListStyled-sc-1w3cln1-3 rFnTE"
+                data-test="category-card-list"
+              >
+                <ul
+                  class="list__StyledList-sc-8a55c7-0 cHmrMb"
+                  data-test="list"
+                >
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/december-2021-product-review-update"
+                      >
+                        Why Google’s 10 Blue Links Will Have to Go (Eventually)
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/unwrap-new-growth-avenues"
+                      >
+                        SEO Clinic Episode III: How to Analyze Your Place in the Online Market and Unwrap New Growth Avenues
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/hands-on-landing-page-optimization-tips"
+                      >
+                        SEO Clinic Episode II: Hands-on Landing Page Optimization Tips
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-blog"
+                      >
+                        17 SEO Blogs for Everyone from Beginners to Experts
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/htaccess-file"
+                      >
+                        4 Ways to Use Your .htaccess File
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/bing-vs-google"
+                      >
+                        How to Boost Your E-commerce Store's SEO by Offering Promo Codes
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/google-core-update-trends"
+                      >
+                        Are Core Updates Becoming Less Powerful? [Study]
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-usability"
+                      >
+                        How & Why Usability Will Be the Future of SEO
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 jiiOp main-category__CardGridStyled-sc-1n0xp0u-0 hdrmDt"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 gtKoOI category-card__CategoryCardStyled-sc-1w3cln1-0 kMbNKD"
+            data-test="category-card"
+          >
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 gpxdYq category-card__CategoryCardImageStyled-sc-1w3cln1-1 knntfu"
+              data-test="category-card-image"
+            >
+              <a
+                class="category-card__LinkStyled-sc-1w3cln1-2 fvIMOH"
+                data-test="category-card-image-link"
+                href="/blog/category/seo/technical-seo"
+                title="Technical SEO"
+              >
+                <img
+                  alt="Technical SEO"
+                  class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                  data-src="https://static.example.com/blog/uploads/files/01/07/0107013bb4a3aaaf1a11c9930cdf6a4f/what-is-seo-desk-illustration.svg"
+                  height="250"
+                  width="310"
+                />
+              </a>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 ejaosw"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0"
+                data-test="category-card-title"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 hsAMAz"
+                  data-test="text-content"
+                >
+                  <a
+                    href="/blog/category/seo/technical-seo"
+                    title="Technical SEO"
+                  >
+                    Technical SEO
+                  </a>
+                </span>
+              </div>
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 nwpxZ category-card__CategoryCardListStyled-sc-1w3cln1-3 rFnTE"
+                data-test="category-card-list"
+              >
+                <ul
+                  class="list__StyledList-sc-8a55c7-0 cHmrMb"
+                  data-test="list"
+                >
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/december-2021-product-review-update"
+                      >
+                        Why Google’s 10 Blue Links Will Have to Go (Eventually)
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/unwrap-new-growth-avenues"
+                      >
+                        SEO Clinic Episode III: How to Analyze Your Place in the Online Market and Unwrap New Growth Avenues
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/hands-on-landing-page-optimization-tips"
+                      >
+                        SEO Clinic Episode II: Hands-on Landing Page Optimization Tips
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-blog"
+                      >
+                        17 SEO Blogs for Everyone from Beginners to Experts
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/htaccess-file"
+                      >
+                        4 Ways to Use Your .htaccess File
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/bing-vs-google"
+                      >
+                        How to Boost Your E-commerce Store's SEO by Offering Promo Codes
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/google-core-update-trends"
+                      >
+                        Are Core Updates Becoming Less Powerful? [Study]
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-usability"
+                      >
+                        How & Why Usability Will Be the Future of SEO
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 jiiOp main-category__CardGridStyled-sc-1n0xp0u-0 hdrmDt"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 gtKoOI category-card__CategoryCardStyled-sc-1w3cln1-0 kMbNKD"
+            data-test="category-card"
+          >
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 gpxdYq category-card__CategoryCardImageStyled-sc-1w3cln1-1 knntfu"
+              data-test="category-card-image"
+            >
+              <a
+                class="category-card__LinkStyled-sc-1w3cln1-2 fvIMOH"
+                data-test="category-card-image-link"
+                href="/blog/category/seo/seo-copywriting"
+                title="SEO Copywriting"
+              >
+                <img
+                  alt="SEO Copywriting"
+                  class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                  data-src="https://static.example.com/blog/uploads/files/01/07/0107013bb4a3aaaf1a11c9930cdf6a4f/what-is-seo-desk-illustration.svg"
+                  height="250"
+                  width="310"
+                />
+              </a>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 ejaosw"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0"
+                data-test="category-card-title"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 hsAMAz"
+                  data-test="text-content"
+                >
+                  <a
+                    href="/blog/category/seo/seo-copywriting"
+                    title="SEO Copywriting"
+                  >
+                    SEO Copywriting
+                  </a>
+                </span>
+              </div>
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 nwpxZ category-card__CategoryCardListStyled-sc-1w3cln1-3 rFnTE"
+                data-test="category-card-list"
+              >
+                <ul
+                  class="list__StyledList-sc-8a55c7-0 cHmrMb"
+                  data-test="list"
+                >
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/december-2021-product-review-update"
+                      >
+                        Why Google’s 10 Blue Links Will Have to Go (Eventually)
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/unwrap-new-growth-avenues"
+                      >
+                        SEO Clinic Episode III: How to Analyze Your Place in the Online Market and Unwrap New Growth Avenues
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/hands-on-landing-page-optimization-tips"
+                      >
+                        SEO Clinic Episode II: Hands-on Landing Page Optimization Tips
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-blog"
+                      >
+                        17 SEO Blogs for Everyone from Beginners to Experts
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/htaccess-file"
+                      >
+                        4 Ways to Use Your .htaccess File
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/bing-vs-google"
+                      >
+                        How to Boost Your E-commerce Store's SEO by Offering Promo Codes
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/google-core-update-trends"
+                      >
+                        Are Core Updates Becoming Less Powerful? [Study]
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-usability"
+                      >
+                        How & Why Usability Will Be the Future of SEO
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 jiiOp main-category__CardGridStyled-sc-1n0xp0u-0 hdrmDt"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 ibQGMp category-card__CategoryCardStyled-sc-1w3cln1-0 kMbNKD"
+            data-test="category-card"
+          >
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 ejaosw"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0"
+                data-test="category-card-title"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 hsAMAz"
+                  data-test="text-content"
+                >
+                  <a
+                    href="/blog/category/seo/website-architecture"
+                    title="Website Architecture"
+                  >
+                    Website Architecture
+                  </a>
+                </span>
+              </div>
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 nwpxZ category-card__CategoryCardListStyled-sc-1w3cln1-3 rFnTE"
+                data-test="category-card-list"
+              >
+                <ul
+                  class="list__StyledList-sc-8a55c7-0 cHmrMb"
+                  data-test="list"
+                >
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/december-2021-product-review-update"
+                      >
+                        Why Google’s 10 Blue Links Will Have to Go (Eventually)
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/unwrap-new-growth-avenues"
+                      >
+                        SEO Clinic Episode III: How to Analyze Your Place in the Online Market and Unwrap New Growth Avenues
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/hands-on-landing-page-optimization-tips"
+                      >
+                        SEO Clinic Episode II: Hands-on Landing Page Optimization Tips
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-blog"
+                      >
+                        17 SEO Blogs for Everyone from Beginners to Experts
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/htaccess-file"
+                      >
+                        4 Ways to Use Your .htaccess File
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/bing-vs-google"
+                      >
+                        How to Boost Your E-commerce Store's SEO by Offering Promo Codes
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/google-core-update-trends"
+                      >
+                        Are Core Updates Becoming Less Powerful? [Study]
+                      </a>
+                    </div>
+                  </li>
+                  <li
+                    data-test="list-item"
+                  >
+                    <span
+                      data-list="bullet"
+                    >
+                      <span>
+                        bullet
+                      </span>
+                    </span>
+                    <div
+                      data-list="text"
+                    >
+                      <a
+                        href="/blog/seo-usability"
+                      >
+                        How & Why Usability Will Be the Future of SEO
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

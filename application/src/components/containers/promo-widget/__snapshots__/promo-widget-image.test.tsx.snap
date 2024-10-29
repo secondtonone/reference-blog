@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots PodcastWidgetImage default snapshots 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 promo-widget-image__ImageStyled-sc-1g7qlc4-0 hBVvOy"
+  >
+    <a
+      href="https://www.example.com/webinars/2022-trends-in-content-marketing-expert-discussion"
+      role="link"
+      target="_blank"
+    >
+      <img
+        alt="Join an interactive expert discussion with example"
+        class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+        data-src="https://static.example.com/blog-next-static/banners/join-discussion.png"
+        loading="lazy"
+      />
+    </a>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots PodcastWidgetImage snapshots with webp 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 promo-widget-image__ImageStyled-sc-1g7qlc4-0 hBVvOy"
+  >
+    <a
+      href="https://www.example.com/webinars/2022-trends-in-content-marketing-expert-discussion"
+      role="link"
+      target="_blank"
+    >
+      <picture
+        class="promo-widget-image__PictureStyled-sc-1g7qlc4-1 eYSIed"
+      >
+        <source
+          data-srcset="https://static.example.com/blogxt-static/banners/join-discussion.webp"
+          data-test="promo-widget-image-source"
+          type="image/webp"
+        />
+        <img
+          alt="Join an interactive expert discussion with example"
+          class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+          data-src="https://static.example.com/blogxt-static/banners/join-discussion.png"
+          loading="lazy"
+        />
+      </picture>
+    </a>
+  </div>
+</DocumentFragment>
+`;

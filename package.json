@@ -1,0 +1,34 @@
+{
+  "name": "blog-next",
+  "private": "true",
+  "workspaces": [
+    "application",
+    "storybook",
+    "backstop",
+    "scripts"
+  ],
+  "scripts": {
+    "lint:all": "yarn workspaces run lint",
+    "lint": "yarn workspace application lint",
+    "dev": "yarn workspace application dev",
+    "dev:prod": "yarn workspace application dev:prod",
+    "build": "yarn workspace application build",
+    "start": "yarn workspace application start",
+    "test": "yarn workspace application test",
+    "story": "yarn workspace storybook start",
+    "test:screenshots": "yarn workspace backstop start",
+    "build:storybook": "yarn workspace storybook build",
+    "scripts:navigation": "yarn workspace scripts navigation"
+  },
+  "lint-staged": {
+    "*/**/*.{ts,tsx,jsx,js}": [
+      "yarn lint",
+      "yarn test --findRelatedTests --verbose"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged && yarn build"
+    }
+  }
+}

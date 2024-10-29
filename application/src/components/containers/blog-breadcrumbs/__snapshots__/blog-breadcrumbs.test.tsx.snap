@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots BlogBreadcrumbs for category 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gfnULt breadcrumbs__BreadcrumbsStyled-sc-1v67b40-0 buCJEi"
+  data-test="breadcrumbs"
+>
+  <ul
+    className="text-content__TextStyled-sc-1stkrsz-0 kAbtGH"
+    data-test="breadcrumbs-links"
+  >
+    <li
+      data-test="breadcrumbs-link-level-0"
+    >
+      <a
+        href="/blog/"
+      >
+        Main page /
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Match snapshots BlogBreadcrumbs for subcategory 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gfnULt breadcrumbs__BreadcrumbsStyled-sc-1v67b40-0 buCJEi"
+  data-test="breadcrumbs"
+>
+  <ul
+    className="text-content__TextStyled-sc-1stkrsz-0 kAbtGH"
+    data-test="breadcrumbs-links"
+  >
+    <li
+      data-test="breadcrumbs-link-level-0"
+    >
+      <a
+        href="/blog/"
+      >
+        Main page /
+      </a>
+    </li>
+    <li
+      data-test="breadcrumbs-link-level-1"
+    >
+      <a
+        href="/blog/category/seo/"
+      >
+        SEO
+      </a>
+    </li>
+  </ul>
+</div>
+`;

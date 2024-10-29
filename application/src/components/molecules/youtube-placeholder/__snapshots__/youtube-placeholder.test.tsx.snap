@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots PostCardContent default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 haStNy youtube-placeholder__Container-sc-j6f37z-1 eLpmdB"
+>
+  <img
+    alt="Youtube video thumbnail"
+    className="lazyload youtube-thumbnail"
+    data-src="https://i.ytimg.com/vi/-tbD9c-feMU/hq720.jpg"
+    data-srcset="
+              https://i.ytimg.com/vi/-tbD9c-feMU/mqdefault.jpg 320w,
+              https://i.ytimg.com/vi/-tbD9c-feMU/sddefault.jpg 640w,
+              https://i.ytimg.com/vi/-tbD9c-feMU/hq720.jpg 960w"
+    height="340"
+    sizes=" (max-width: 320px) 95vw, (max-width: 640px) 95vw, calc(100vw - (100vw - 660px)) "
+  />
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 cFaYs youtube-placeholder__IconContainer-sc-j6f37z-0 eBmLdl"
+  >
+    <span>
+      youtube
+    </span>
+  </div>
+</div>
+`;

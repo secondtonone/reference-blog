@@ -1,0 +1,331 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch match snapshots checked state 1`] = `
+<label
+  className="___SSwitch_m51s2_gg_ _size_l_m51s2_gg_"
+  data-test="switch"
+  data-ui-name="Switch"
+  disabled={false}
+  size="l"
+  style={
+    Object {
+      "--color_1k1u1mc": undefined,
+    }
+  }
+>
+  <span
+    className="custom-switch__Container-sc-19xkkkl-0 ghVMEf"
+    size="l"
+  >
+    <div
+      checked={true}
+      className="___SToggle_m51s2_gg_ __checked_m51s2_gg_"
+      color="#2b94e1"
+      data-ui-name="Box"
+      onMouseDown={[Function]}
+      style={
+        Object {
+          "--color_1k1u1mc": "#2b94e1",
+        }
+      }
+    >
+      <input
+        aria-checked={true}
+        checked={true}
+        className="__checked_m51s2_gg_ ___SInput_m51s2_gg_"
+        data-ui-name="Switch.Value"
+        disabled={false}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        role="switch"
+        style={
+          Object {
+            "--color_1k1u1mc": undefined,
+          }
+        }
+        tabIndex={0}
+        type="checkbox"
+      />
+      <div
+        checked={true}
+        className="___SSlider_m51s2_gg_ __checked_m51s2_gg_"
+        data-ui-name="Box"
+        style={
+          Object {
+            "--color_1k1u1mc": undefined,
+          }
+        }
+      />
+    </div>
+  </span>
+</label>
+`;
+
+exports[`Switch match snapshots disabled checked state 1`] = `
+<label
+  className="___SSwitch_m51s2_gg_ _size_l_m51s2_gg_ __disabled_m51s2_gg_"
+  data-test="switch"
+  data-ui-name="Switch"
+  disabled={true}
+  size="l"
+  style={
+    Object {
+      "--color_1k1u1mc": undefined,
+    }
+  }
+>
+  <span
+    className="custom-switch__Container-sc-19xkkkl-0 ghVMEf"
+    size="l"
+  >
+    <div
+      checked={true}
+      className="___SToggle_m51s2_gg_ __checked_m51s2_gg_"
+      color="#2b94e1"
+      data-ui-name="Box"
+      onMouseDown={[Function]}
+      style={
+        Object {
+          "--color_1k1u1mc": "#2b94e1",
+        }
+      }
+    >
+      <input
+        aria-checked={true}
+        checked={true}
+        className="__disabled_m51s2_gg_ __checked_m51s2_gg_ ___SInput_m51s2_gg_"
+        data-ui-name="Switch.Value"
+        disabled={true}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        role="switch"
+        style={
+          Object {
+            "--color_1k1u1mc": undefined,
+          }
+        }
+        tabIndex={-1}
+        type="checkbox"
+      />
+      <div
+        checked={true}
+        className="___SSlider_m51s2_gg_ __checked_m51s2_gg_"
+        data-ui-name="Box"
+        style={
+          Object {
+            "--color_1k1u1mc": undefined,
+          }
+        }
+      />
+    </div>
+  </span>
+</label>
+`;
+
+exports[`Switch match snapshots off state 1`] = `
+<label
+  className="___SSwitch_m51s2_gg_ _size_l_m51s2_gg_"
+  data-test="switch"
+  data-ui-name="Switch"
+  size="l"
+  style={
+    Object {
+      "--color_1k1u1mc": undefined,
+    }
+  }
+>
+  <span
+    className="custom-switch__Container-sc-19xkkkl-0 ghVMEf"
+    size="l"
+  >
+    <div
+      checked={false}
+      className="___SToggle_m51s2_gg_"
+      color="#2b94e1"
+      data-ui-name="Box"
+      onMouseDown={[Function]}
+      style={
+        Object {
+          "--color_1k1u1mc": "#2b94e1",
+        }
+      }
+    >
+      <input
+        aria-checked={false}
+        checked={false}
+        className="___SInput_m51s2_gg_"
+        data-ui-name="Switch.Value"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        role="switch"
+        style={
+          Object {
+            "--color_1k1u1mc": undefined,
+          }
+        }
+        tabIndex={0}
+        type="checkbox"
+      />
+      <div
+        checked={false}
+        className="___SSlider_m51s2_gg_"
+        data-ui-name="Box"
+        style={
+          Object {
+            "--color_1k1u1mc": undefined,
+          }
+        }
+      />
+    </div>
+  </span>
+</label>
+`;
+
+exports[`Switch match snapshots with addon 1`] = `
+<label
+  className="___SSwitch_m51s2_gg_ _size_l_m51s2_gg_"
+  data-test="switch"
+  data-ui-name="Switch"
+  size="l"
+  style={
+    Object {
+      "--color_1k1u1mc": undefined,
+    }
+  }
+>
+  <span
+    className="custom-switch__Container-sc-19xkkkl-0 ghVMEf"
+    size="l"
+  >
+    <div
+      checked={false}
+      className="___SToggle_m51s2_gg_ _neighborLocation_right_m51s2_gg_"
+      color="#2b94e1"
+      data-ui-name="Box"
+      onMouseDown={[Function]}
+      style={
+        Object {
+          "--color_1k1u1mc": "#2b94e1",
+        }
+      }
+    >
+      <input
+        aria-checked={false}
+        checked={false}
+        className="___SInput_m51s2_gg_"
+        data-ui-name="Switch.Value"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        role="switch"
+        style={
+          Object {
+            "--color_1k1u1mc": undefined,
+          }
+        }
+        tabIndex={0}
+        type="checkbox"
+      />
+      <div
+        checked={false}
+        className="___SSlider_m51s2_gg_"
+        data-ui-name="Box"
+        style={
+          Object {
+            "--color_1k1u1mc": undefined,
+          }
+        }
+      />
+    </div>
+  </span>
+  <span
+    className="___SAddon_m51s2_gg_ _neighborLocation_left_m51s2_gg_"
+    data-ui-name="Switch.Addon"
+    style={
+      Object {
+        "--color_1k1u1mc": undefined,
+      }
+    }
+  >
+    Label
+  </span>
+</label>
+`;
+
+exports[`Switch match snapshots with icon in slider 1`] = `
+<label
+  className="___SSwitch_m51s2_gg_ _size_l_m51s2_gg_"
+  data-test="switch"
+  data-ui-name="Switch"
+  size="l"
+  style={
+    Object {
+      "--color_1k1u1mc": undefined,
+    }
+  }
+>
+  <span
+    className="custom-switch__Container-sc-19xkkkl-0 bHtQum"
+    size="l"
+  >
+    <span
+      checked={false}
+      className="custom-switch__IconContainer-sc-19xkkkl-1 kWunSQ"
+      data-ui-name="Slider"
+      size="l"
+    >
+      <span>
+        i
+      </span>
+    </span>
+    <div
+      checked={false}
+      className="___SToggle_m51s2_gg_"
+      color="#2b94e1"
+      data-ui-name="Box"
+      onMouseDown={[Function]}
+      style={
+        Object {
+          "--color_1k1u1mc": "#2b94e1",
+        }
+      }
+    >
+      <input
+        aria-checked={false}
+        checked={false}
+        className="___SInput_m51s2_gg_"
+        data-ui-name="Switch.Value"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        role="switch"
+        style={
+          Object {
+            "--color_1k1u1mc": undefined,
+          }
+        }
+        tabIndex={0}
+        type="checkbox"
+      />
+      <div
+        checked={false}
+        className="___SSlider_m51s2_gg_"
+        data-ui-name="Box"
+        style={
+          Object {
+            "--color_1k1u1mc": undefined,
+          }
+        }
+      />
+    </div>
+  </span>
+</label>
+`;

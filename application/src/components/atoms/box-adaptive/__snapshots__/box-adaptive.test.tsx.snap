@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots BoxAdaptive default 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0"
+  />
+</DocumentFragment>
+`;
+
+exports[`Match snapshots BoxAdaptive with children 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0"
+  >
+    <div
+      class="children"
+    />
+  </div>
+</DocumentFragment>
+`;

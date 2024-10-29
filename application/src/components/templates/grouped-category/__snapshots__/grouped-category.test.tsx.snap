@@ -1,0 +1,1107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots GroupedCategoryPage with large cards 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 bpbtxT"
+  >
+    <div
+      class="page-section__SectionStyled-sc-rosswz-0 byJLpF"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 knChur articles-list__ArticlesStyled-sc-1ql5vrh-0"
+        data-test="articles-list-on-page-SEO Reality Show"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h1
+              class="text-content__TextStyled-sc-1stkrsz-0 juAimp articles-list__TextContentStyled-sc-1ql5vrh-1 icHrtT"
+              data-test="text-content"
+            >
+              <span
+                class="text-content__TextStyled-sc-1stkrsz-0 hLzCBq"
+                data-test="category-title"
+              >
+                SEO Reality Show
+              </span>
+            </h1>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 dnpSfj"
+            >
+              <span
+                class="text-content__TextStyled-sc-1stkrsz-0 hWaBeJ articles-list__TextContentStyled-sc-1ql5vrh-1 icHrtT"
+                data-test="category-caption"
+              >
+                The latest search industry news and major events happening in SEO - including Google updates and announcements. You can also find our unique data studies content, case studies and a few search-related quizzes and games.
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 knChur articles-list__ArticlesStyled-sc-1ql5vrh-0"
+        data-test="articles-list-on-page-SEO Reality Show"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 gNgNfA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 juAimp articles-list__TextContentStyled-sc-1ql5vrh-1 icHrtT"
+              data-test="text-content"
+            >
+              <span
+                class="text-content__TextStyled-sc-1stkrsz-0 hLzCBq"
+                data-test="category-title"
+              >
+                <h2
+                  class="text-content__TextStyled-sc-1stkrsz-0 dBiOzL"
+                  data-test="text-content"
+                >
+                  First group
+                </h2>
+              </span>
+            </span>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dSDZBu"
+            data-test="columns"
+          >
+            <div
+              class="column__ColumnStyled-sc-xt4v4z-0 fJIbVv"
+              data-test="post-card-large"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 fQcxgu"
+                data-test="post-card-item-en"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 eBllGr post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+                  data-test="image"
+                >
+                  <a
+                    data-test="image-link"
+                    href="/white-hat-seo"
+                  >
+                    <img
+                      alt="Article Image"
+                      class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                      data-src="https://storage.googleapis.com/blog-rc/testing/article-list/1.jpg"
+                      height="250"
+                      width="310"
+                    />
+                  </a>
+                </div>
+                <article
+                  class="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+                  data-test="content-en"
+                >
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 jDLZGW"
+                  >
+                    <div
+                      class="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+                    >
+                      <p
+                        class="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                        data-test="category"
+                      >
+                        <a
+                          href="/blog/category/advertising"
+                          target="_blank"
+                        >
+                          Advertising
+                        </a>
+                      </p>
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 eljVVb"
+                          data-test="time-to-read"
+                        >
+                          15 min read
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+                  >
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 jWcwpr"
+                      data-test="text-content"
+                      style="word-break: break-word;"
+                    >
+                      <a
+                        class="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                        data-test="title"
+                        href="/white-hat-seo"
+                      >
+                        The Ultimate Guide to Google Search Operators and Google Search Commands
+                      </a>
+                    </span>
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 dVIgJO post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                      data-test="description"
+                    >
+                      In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+                    </span>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 dqCWsC post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                      data-test="meta"
+                    >
+                      <a
+                        data-test="author-name"
+                        href="/user/olga-andrienko"
+                        target="_blank"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 izRvWD post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                          data-test="text-content"
+                        >
+                          Olga Andrienko
+                        </span>
+                      </a>
+                      <span
+                        class="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                        data-test="date"
+                      >
+                        Aug 20, 2020
+                      </span>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <div
+              class="column__ColumnStyled-sc-xt4v4z-0 fJIbVv"
+              data-test="post-card-large"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 fQcxgu"
+                data-test="post-card-item-en"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 eBllGr post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+                  data-test="image"
+                >
+                  <a
+                    data-test="image-link"
+                    href="/how-to-rank-a-youtube-video"
+                  >
+                    <img
+                      alt="Article Image"
+                      class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                      data-src="https://storage.googleapis.com/blog/testing/article-list/3.jpg"
+                      height="250"
+                      width="310"
+                    />
+                  </a>
+                </div>
+                <article
+                  class="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+                  data-test="content-en"
+                >
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 jDLZGW"
+                  >
+                    <div
+                      class="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+                    >
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 jOGpd post-card-category__IconStyled-sc-yr5537-1 bLpcYW"
+                      >
+                        <span>
+                          ogonek
+                        </span>
+                      </div>
+                      <p
+                        class="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                        data-test="category"
+                      >
+                        <a
+                          href="/blog/category/seo"
+                          target="_blank"
+                        >
+                          Seo
+                        </a>
+                      </p>
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 eljVVb"
+                          data-test="time-to-read"
+                        >
+                          16 min read
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+                  >
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 jWcwpr"
+                      data-test="text-content"
+                      style="word-break: break-word;"
+                    >
+                      <a
+                        class="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                        data-test="title"
+                        href="/how-to-rank-a-youtube-video"
+                      >
+                        Some article text with captions and tool words and third party keys and other stuff
+                      </a>
+                    </span>
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 dVIgJO post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                      data-test="description"
+                    >
+                      In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+                    </span>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 dqCWsC post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                      data-test="meta"
+                    >
+                      <a
+                        data-test="author-name"
+                        href="/user/ivan-petrov"
+                        target="_blank"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 izRvWD post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                          data-test="text-content"
+                        >
+                          Ivan Petrov
+                        </span>
+                      </a>
+                      <span
+                        class="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                        data-test="date"
+                      >
+                        Aug 20, 2020
+                      </span>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 knChur articles-list__ArticlesStyled-sc-1ql5vrh-0"
+        data-test="articles-list-on-page-SEO Reality Show"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 gNgNfA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 juAimp articles-list__TextContentStyled-sc-1ql5vrh-1 icHrtT"
+              data-test="text-content"
+            >
+              <span
+                class="text-content__TextStyled-sc-1stkrsz-0 hLzCBq"
+                data-test="category-title"
+              >
+                <h2
+                  class="text-content__TextStyled-sc-1stkrsz-0 dBiOzL"
+                  data-test="text-content"
+                >
+                  Second group
+                </h2>
+              </span>
+            </span>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dSDZBu"
+            data-test="columns"
+          >
+            <div
+              class="column__ColumnStyled-sc-xt4v4z-0 fJIbVv"
+              data-test="post-card-large"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 fQcxgu"
+                data-test="post-card-item-en"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 eBllGr post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+                  data-test="image"
+                >
+                  <a
+                    data-test="image-link"
+                    href="/improve-seo"
+                  >
+                    <img
+                      alt="Article Image"
+                      class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                      data-src="https://storage.googleapis.com/blog/testing/article-list/4.jpg"
+                      height="250"
+                      width="310"
+                    />
+                  </a>
+                </div>
+                <article
+                  class="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+                  data-test="content-en"
+                >
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 jDLZGW"
+                  >
+                    <div
+                      class="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+                    >
+                      <p
+                        class="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                        data-test="category"
+                      >
+                        <a
+                          href="/blog/category/seo"
+                          target="_blank"
+                        >
+                          Seo
+                        </a>
+                      </p>
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 eljVVb"
+                          data-test="time-to-read"
+                        >
+                          2 min read
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+                  >
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 jWcwpr"
+                      data-test="text-content"
+                      style="word-break: break-word;"
+                    >
+                      <a
+                        class="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                        data-test="title"
+                        href="/improve-seo"
+                      >
+                        A article text with captions and tool words and third party keys and other stuff
+                      </a>
+                    </span>
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 dVIgJO post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                      data-test="description"
+                    >
+                      In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+                    </span>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 dqCWsC post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                      data-test="meta"
+                    >
+                      <a
+                        data-test="author-name"
+                        href="/user/olga-andrienko"
+                        target="_blank"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 izRvWD post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                          data-test="text-content"
+                        >
+                          Olga Andrienko
+                        </span>
+                      </a>
+                      <span
+                        class="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                        data-test="date"
+                      >
+                        Aug 20, 2020
+                      </span>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <div
+              class="column__ColumnStyled-sc-xt4v4z-0 fJIbVv"
+              data-test="post-card-large"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 fQcxgu"
+                data-test="post-card-item-en"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 eBllGr post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+                  data-test="image"
+                >
+                  <a
+                    data-test="image-link"
+                    href="/improve-seo"
+                  >
+                    <img
+                      alt="Article Image"
+                      class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                      data-src="https://storage.googleapis.com/blog/testing/article-list/2.jpg"
+                      height="250"
+                      width="310"
+                    />
+                  </a>
+                </div>
+                <article
+                  class="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+                  data-test="content-en"
+                >
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 jDLZGW"
+                  >
+                    <div
+                      class="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+                    >
+                      <p
+                        class="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                        data-test="category"
+                      >
+                        <a
+                          href="/blog/category/social-media"
+                          target="_blank"
+                        >
+                          Social Media
+                        </a>
+                      </p>
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 eljVVb"
+                          data-test="time-to-read"
+                        >
+                          44 min read
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+                  >
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 jWcwpr"
+                      data-test="text-content"
+                      style="word-break: break-word;"
+                    >
+                      <a
+                        class="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                        data-test="title"
+                        href="/improve-seo"
+                      >
+                        A article text with captions and tool words and third party keys and other stuff
+                      </a>
+                    </span>
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 dVIgJO post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                      data-test="description"
+                    >
+                      In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+                    </span>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 dqCWsC post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                      data-test="meta"
+                    >
+                      <a
+                        data-test="author-name"
+                        href="/user/ivan-petrov"
+                        target="_blank"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 izRvWD post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                          data-test="text-content"
+                        >
+                          Ivan Petrov
+                        </span>
+                      </a>
+                      <span
+                        class="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                        data-test="date"
+                      >
+                        Aug 20, 2020
+                      </span>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots GroupedCategoryPage with small cards 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 bpbtxT"
+  >
+    <div
+      class="page-section__SectionStyled-sc-rosswz-0 byJLpF"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 knChur articles-list__ArticlesStyled-sc-1ql5vrh-0"
+        data-test="articles-list-on-page-SEO Reality Show"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h1
+              class="text-content__TextStyled-sc-1stkrsz-0 juAimp articles-list__TextContentStyled-sc-1ql5vrh-1 icHrtT"
+              data-test="text-content"
+            >
+              <span
+                class="text-content__TextStyled-sc-1stkrsz-0 hLzCBq"
+                data-test="category-title"
+              >
+                SEO Reality Show
+              </span>
+            </h1>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 dnpSfj"
+            >
+              <span
+                class="text-content__TextStyled-sc-1stkrsz-0 hWaBeJ articles-list__TextContentStyled-sc-1ql5vrh-1 icHrtT"
+                data-test="category-caption"
+              >
+                The latest search industry news and major events happening in SEO - including Google updates and announcements. You can also find our unique data studies content, case studies and a few search-related quizzes and games.
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 knChur articles-list__ArticlesStyled-sc-1ql5vrh-0"
+        data-test="articles-list-on-page-SEO Reality Show"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 gNgNfA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 juAimp articles-list__TextContentStyled-sc-1ql5vrh-1 icHrtT"
+              data-test="text-content"
+            >
+              <span
+                class="text-content__TextStyled-sc-1stkrsz-0 hLzCBq"
+                data-test="category-title"
+              >
+                <h2
+                  class="text-content__TextStyled-sc-1stkrsz-0 dBiOzL"
+                  data-test="text-content"
+                >
+                  First group
+                </h2>
+              </span>
+            </span>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dSDZBu"
+            data-test="columns"
+          >
+            <div
+              class="column__ColumnStyled-sc-xt4v4z-0 bAzzVW"
+              data-test="post-card-small"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 uifxx"
+                data-test="post-card-item-en"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 VYInM post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+                  data-test="image"
+                >
+                  <a
+                    data-test="image-link"
+                    href="/white-hat-seo"
+                  >
+                    <img
+                      alt="Article Image"
+                      class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                      data-src="https://storage.googleapis.com/blog/testing/article-list/1.jpg"
+                      height="190"
+                      width="158"
+                    />
+                  </a>
+                </div>
+                <article
+                  class="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+                  data-test="content-en"
+                >
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 jDLZGW"
+                  >
+                    <div
+                      class="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+                    >
+                      <p
+                        class="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                        data-test="category"
+                      >
+                        <a
+                          href="/blog/category/advertising"
+                          target="_blank"
+                        >
+                          Advertising
+                        </a>
+                      </p>
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 eljVVb"
+                          data-test="time-to-read"
+                        >
+                          15 min read
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+                  >
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 hHiLZj"
+                      data-test="text-content"
+                      style="word-break: break-word;"
+                    >
+                      <a
+                        class="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                        data-test="title"
+                        href="/white-hat-seo"
+                      >
+                        The Ultimate Guide to Google Search Operators and Google Search Commands
+                      </a>
+                    </span>
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 kdmpti post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                      data-test="description"
+                    >
+                      In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+                    </span>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 cGxrni post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                      data-test="meta"
+                    >
+                      <a
+                        data-test="author-name"
+                        href="/user/olga-andrienko"
+                        target="_blank"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 izRvWD post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                          data-test="text-content"
+                        >
+                          Olga Andrienko
+                        </span>
+                      </a>
+                      <span
+                        class="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                        data-test="date"
+                      >
+                        Aug 20, 2020
+                      </span>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <div
+              class="column__ColumnStyled-sc-xt4v4z-0 bAzzVW"
+              data-test="post-card-small"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 uifxx"
+                data-test="post-card-item-en"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 VYInM post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+                  data-test="image"
+                >
+                  <a
+                    data-test="image-link"
+                    href="/how-to-rank-a-youtube-video"
+                  >
+                    <img
+                      alt="Article Image"
+                      class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                      data-src="https://storage.googleapis.com/blog/testing/article-list/3.jpg"
+                      height="190"
+                      width="158"
+                    />
+                  </a>
+                </div>
+                <article
+                  class="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+                  data-test="content-en"
+                >
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 jDLZGW"
+                  >
+                    <div
+                      class="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+                    >
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 dzytji post-card-category__IconStyled-sc-yr5537-1 bLpcYW"
+                      >
+                        <span>
+                          ogonek
+                        </span>
+                      </div>
+                      <p
+                        class="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                        data-test="category"
+                      >
+                        <a
+                          href="/blog/category/seo"
+                          target="_blank"
+                        >
+                          Seo
+                        </a>
+                      </p>
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 eljVVb"
+                          data-test="time-to-read"
+                        >
+                          16 min read
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+                  >
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 hHiLZj"
+                      data-test="text-content"
+                      style="word-break: break-word;"
+                    >
+                      <a
+                        class="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                        data-test="title"
+                        href="/how-to-rank-a-youtube-video"
+                      >
+                        Some article text with captions and tool words and third party keys and other stuff
+                      </a>
+                    </span>
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 kdmpti post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                      data-test="description"
+                    >
+                      In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+                    </span>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 cGxrni post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                      data-test="meta"
+                    >
+                      <a
+                        data-test="author-name"
+                        href="/user/ivan-petrov"
+                        target="_blank"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 izRvWD post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                          data-test="text-content"
+                        >
+                          Ivan Petrov
+                        </span>
+                      </a>
+                      <span
+                        class="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                        data-test="date"
+                      >
+                        Aug 20, 2020
+                      </span>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 knChur articles-list__ArticlesStyled-sc-1ql5vrh-0"
+        data-test="articles-list-on-page-SEO Reality Show"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 gNgNfA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 juAimp articles-list__TextContentStyled-sc-1ql5vrh-1 icHrtT"
+              data-test="text-content"
+            >
+              <span
+                class="text-content__TextStyled-sc-1stkrsz-0 hLzCBq"
+                data-test="category-title"
+              >
+                <h2
+                  class="text-content__TextStyled-sc-1stkrsz-0 dBiOzL"
+                  data-test="text-content"
+                >
+                  Second group
+                </h2>
+              </span>
+            </span>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dSDZBu"
+            data-test="columns"
+          >
+            <div
+              class="column__ColumnStyled-sc-xt4v4z-0 bAzzVW"
+              data-test="post-card-small"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 uifxx"
+                data-test="post-card-item-en"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 VYInM post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+                  data-test="image"
+                >
+                  <a
+                    data-test="image-link"
+                    href="/improve-seo"
+                  >
+                    <img
+                      alt="Article Image"
+                      class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                      data-src="https://storage.googleapis.com/blog/testing/article-list/4.jpg"
+                      height="190"
+                      width="158"
+                    />
+                  </a>
+                </div>
+                <article
+                  class="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+                  data-test="content-en"
+                >
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 jDLZGW"
+                  >
+                    <div
+                      class="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+                    >
+                      <p
+                        class="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                        data-test="category"
+                      >
+                        <a
+                          href="/blog/category/seo"
+                          target="_blank"
+                        >
+                          Seo
+                        </a>
+                      </p>
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 eljVVb"
+                          data-test="time-to-read"
+                        >
+                          2 min read
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+                  >
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 hHiLZj"
+                      data-test="text-content"
+                      style="word-break: break-word;"
+                    >
+                      <a
+                        class="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                        data-test="title"
+                        href="/improve-seo"
+                      >
+                        A article text with captions and tool words and third party keys and other stuff
+                      </a>
+                    </span>
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 kdmpti post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                      data-test="description"
+                    >
+                      In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+                    </span>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 cGxrni post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                      data-test="meta"
+                    >
+                      <a
+                        data-test="author-name"
+                        href="/user/olga-andrienko"
+                        target="_blank"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 izRvWD post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                          data-test="text-content"
+                        >
+                          Olga Andrienko
+                        </span>
+                      </a>
+                      <span
+                        class="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                        data-test="date"
+                      >
+                        Aug 20, 2020
+                      </span>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <div
+              class="column__ColumnStyled-sc-xt4v4z-0 bAzzVW"
+              data-test="post-card-small"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 uifxx"
+                data-test="post-card-item-en"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 VYInM post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+                  data-test="image"
+                >
+                  <a
+                    data-test="image-link"
+                    href="/improve-seo"
+                  >
+                    <img
+                      alt="Article Image"
+                      class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                      data-src="https://storage.googleapis.com/blog/testing/article-list/2.jpg"
+                      height="190"
+                      width="158"
+                    />
+                  </a>
+                </div>
+                <article
+                  class="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+                  data-test="content-en"
+                >
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 jDLZGW"
+                  >
+                    <div
+                      class="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+                    >
+                      <p
+                        class="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                        data-test="category"
+                      >
+                        <a
+                          href="/blog/category/social-media"
+                          target="_blank"
+                        >
+                          Social Media
+                        </a>
+                      </p>
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 eljVVb"
+                          data-test="time-to-read"
+                        >
+                          44 min read
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+                  >
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 hHiLZj"
+                      data-test="text-content"
+                      style="word-break: break-word;"
+                    >
+                      <a
+                        class="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                        data-test="title"
+                        href="/improve-seo"
+                      >
+                        A article text with captions and tool words and third party keys and other stuff
+                      </a>
+                    </span>
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 kdmpti post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                      data-test="description"
+                    >
+                      In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+                    </span>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 cGxrni post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                      data-test="meta"
+                    >
+                      <a
+                        data-test="author-name"
+                        href="/user/ivan-petrov"
+                        target="_blank"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 izRvWD post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                          data-test="text-content"
+                        >
+                          Ivan Petrov
+                        </span>
+                      </a>
+                      <span
+                        class="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                        data-test="date"
+                      >
+                        Aug 20, 2020
+                      </span>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,2460 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ArticleCardsList default 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 zFhGY"
+    data-test="article-cards-list"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iCrWsI"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            <img
+              alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/ec/23/ec23597b206c67f2845e3cc9f7ac7221/go-to-market-strategy-checklist-sm-1.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              >
+                The Ultimate Guide to Google Search Operators and Google Search Commands
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 gicJes"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            <img
+              alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/a6/55/a655f41ab8a81c760c3db3784d3f7330/perform-a-content-audit.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              >
+                The Ultimate Guide to Google Search Operators and Google Search Commands
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 cxlAcQ"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Top 10 Search Engines Today"
+          >
+            <img
+              alt="The Top 10 Search Engines Today"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/d6/6c/d66cd227c24cf1fb9ca43417e3cfda7f/improve-seo.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Top 10 Search Engines Today"
+              >
+                The Top 10 Search Engines Today
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              14 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iVNXWS"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Complete Guide to (Effective) Customer Analysis"
+          >
+            <img
+              alt="The Complete Guide to (Effective) Customer Analysis"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/d0/e1/d0e16a59f09f064f66f68c1bfa80e904/market-assessment.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Complete Guide to (Effective) Customer Analysis"
+              >
+                The Complete Guide to (Effective) Customer Analysis
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              13 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iVNXWS"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="How to Analyze Competitor Website Traffic with .Trends"
+          >
+            <img
+              alt="How to Analyze Competitor Website Traffic with .Trends"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/01/dd/01dd71a0e8acd1da9a9ac671e9d2566f/how-to-choose-long-tail-keywords.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="How to Analyze Competitor Website Traffic with .Trends"
+              >
+                How to Analyze Competitor Website Traffic with .Trends
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              12 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 gicJes"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+          >
+            <img
+              alt="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/f3/f9/f3f95a2b51ad1d2536c4de81b1880edf/what-is-seo.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              >
+                SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 dbpjXe"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="12 Essential SEO Tips for Beginners to Boost Traffic"
+          >
+            <img
+              alt="12 Essential SEO Tips for Beginners to Boost Traffic"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/18/ff/18fff960ff67c9db12b43013022a1a68/learning-technical-seo.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="12 Essential SEO Tips for Beginners to Boost Traffic"
+              >
+                12 Essential SEO Tips for Beginners to Boost Traffic
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              10 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iVNXWS"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+          >
+            <img
+              alt="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/9a/90/9a901e4780fc4e441faa8ee8deb71e48/splitsignal-case-study-18-sm.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              >
+                SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              14 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 UgXZF"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            <img
+              alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/11/52/11525d5a85322a3b163cfbd9684c9768/best-competitive-intelligence-tools-for-market-research.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              >
+                The Ultimate Guide to Google Search Operators and Google Search Commands
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 gicJes"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="What Is SEO? The 2022 Guide to Search Engine Optimization"
+          >
+            <img
+              alt="What Is SEO? The 2022 Guide to Search Engine Optimization"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/a6/55/a655f41ab8a81c760c3db3784d3f7330/perform-a-content-audit.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="What Is SEO? The 2022 Guide to Search Engine Optimization"
+              >
+                What Is SEO? The 2022 Guide to Search Engine Optimization
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              12 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iCrWsI"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            <img
+              alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/ec/23/ec23597b206c67f2845e3cc9f7ac7221/go-to-market-strategy-checklist-sm-1.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              >
+                The Ultimate Guide to Google Search Operators and Google Search Commands
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 gicJes"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            <img
+              alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/a6/55/a655f41ab8a81c760c3db3784d3f7330/perform-a-content-audit.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              >
+                The Ultimate Guide to Google Search Operators and Google Search Commands
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 cxlAcQ"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Top 10 Search Engines Today"
+          >
+            <img
+              alt="The Top 10 Search Engines Today"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/d6/6c/d66cd227c24cf1fb9ca43417e3cfda7f/improve-seo.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Top 10 Search Engines Today"
+              >
+                The Top 10 Search Engines Today
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              14 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iVNXWS"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Complete Guide to (Effective) Customer Analysis"
+          >
+            <img
+              alt="The Complete Guide to (Effective) Customer Analysis"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/d0/e1/d0e16a59f09f064f66f68c1bfa80e904/market-assessment.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Complete Guide to (Effective) Customer Analysis"
+              >
+                The Complete Guide to (Effective) Customer Analysis
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              13 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iVNXWS"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="How to Analyze Competitor Website Traffic with .Trends"
+          >
+            <img
+              alt="How to Analyze Competitor Website Traffic with .Trends"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/01/dd/01dd71a0e8acd1da9a9ac671e9d2566f/how-to-choose-long-tail-keywords.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="How to Analyze Competitor Website Traffic with .Trends"
+              >
+                How to Analyze Competitor Website Traffic with .Trends
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              12 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 gicJes"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+          >
+            <img
+              alt="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/f3/f9/f3f95a2b51ad1d2536c4de81b1880edf/what-is-seo.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              >
+                SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 dbpjXe"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="12 Essential SEO Tips for Beginners to Boost Traffic"
+          >
+            <img
+              alt="12 Essential SEO Tips for Beginners to Boost Traffic"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/18/ff/18fff960ff67c9db12b43013022a1a68/learning-technical-seo.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="12 Essential SEO Tips for Beginners to Boost Traffic"
+              >
+                12 Essential SEO Tips for Beginners to Boost Traffic
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              10 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iVNXWS"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+          >
+            <img
+              alt="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/9a/90/9a901e4780fc4e441faa8ee8deb71e48/splitsignal-case-study-18-sm.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              >
+                SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              14 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 UgXZF"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            <img
+              alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/11/52/11525d5a85322a3b163cfbd9684c9768/best-competitive-intelligence-tools-for-market-research.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              >
+                The Ultimate Guide to Google Search Operators and Google Search Commands
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 gicJes"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="What Is SEO? The 2022 Guide to Search Engine Optimization"
+          >
+            <img
+              alt="What Is SEO? The 2022 Guide to Search Engine Optimization"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/a6/55/a655f41ab8a81c760c3db3784d3f7330/perform-a-content-audit.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="What Is SEO? The 2022 Guide to Search Engine Optimization"
+              >
+                What Is SEO? The 2022 Guide to Search Engine Optimization
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              12 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iCrWsI"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            <img
+              alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/ec/23/ec23597b206c67f2845e3cc9f7ac7221/go-to-market-strategy-checklist-sm-1.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              >
+                The Ultimate Guide to Google Search Operators and Google Search Commands
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 gicJes"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            <img
+              alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/a6/55/a655f41ab8a81c760c3db3784d3f7330/perform-a-content-audit.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              >
+                The Ultimate Guide to Google Search Operators and Google Search Commands
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 cxlAcQ"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Top 10 Search Engines Today"
+          >
+            <img
+              alt="The Top 10 Search Engines Today"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/d6/6c/d66cd227c24cf1fb9ca43417e3cfda7f/improve-seo.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Top 10 Search Engines Today"
+              >
+                The Top 10 Search Engines Today
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              14 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iVNXWS"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Complete Guide to (Effective) Customer Analysis"
+          >
+            <img
+              alt="The Complete Guide to (Effective) Customer Analysis"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/d0/e1/d0e16a59f09f064f66f68c1bfa80e904/market-assessment.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Complete Guide to (Effective) Customer Analysis"
+              >
+                The Complete Guide to (Effective) Customer Analysis
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              13 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iVNXWS"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="How to Analyze Competitor Website Traffic with .Trends"
+          >
+            <img
+              alt="How to Analyze Competitor Website Traffic with .Trends"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/01/dd/01dd71a0e8acd1da9a9ac671e9d2566f/how-to-choose-long-tail-keywords.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="How to Analyze Competitor Website Traffic with .Trends"
+              >
+                How to Analyze Competitor Website Traffic with .Trends
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              12 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 gicJes"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+          >
+            <img
+              alt="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/f3/f9/f3f95a2b51ad1d2536c4de81b1880edf/what-is-seo.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              >
+                SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 dbpjXe"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="12 Essential SEO Tips for Beginners to Boost Traffic"
+          >
+            <img
+              alt="12 Essential SEO Tips for Beginners to Boost Traffic"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/18/ff/18fff960ff67c9db12b43013022a1a68/learning-technical-seo.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="12 Essential SEO Tips for Beginners to Boost Traffic"
+              >
+                12 Essential SEO Tips for Beginners to Boost Traffic
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              10 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iVNXWS"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+          >
+            <img
+              alt="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/9a/90/9a901e4780fc4e441faa8ee8deb71e48/splitsignal-case-study-18-sm.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              >
+                SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              14 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 UgXZF"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            <img
+              alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/11/52/11525d5a85322a3b163cfbd9684c9768/best-competitive-intelligence-tools-for-market-research.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              >
+                The Ultimate Guide to Google Search Operators and Google Search Commands
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 gicJes"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="What Is SEO? The 2022 Guide to Search Engine Optimization"
+          >
+            <img
+              alt="What Is SEO? The 2022 Guide to Search Engine Optimization"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/a6/55/a655f41ab8a81c760c3db3784d3f7330/perform-a-content-audit.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="What Is SEO? The 2022 Guide to Search Engine Optimization"
+              >
+                What Is SEO? The 2022 Guide to Search Engine Optimization
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              12 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iCrWsI"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            <img
+              alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/ec/23/ec23597b206c67f2845e3cc9f7ac7221/go-to-market-strategy-checklist-sm-1.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              >
+                The Ultimate Guide to Google Search Operators and Google Search Commands
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 gicJes"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            <img
+              alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/a6/55/a655f41ab8a81c760c3db3784d3f7330/perform-a-content-audit.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              >
+                The Ultimate Guide to Google Search Operators and Google Search Commands
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 cxlAcQ"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Top 10 Search Engines Today"
+          >
+            <img
+              alt="The Top 10 Search Engines Today"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/d6/6c/d66cd227c24cf1fb9ca43417e3cfda7f/improve-seo.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Top 10 Search Engines Today"
+              >
+                The Top 10 Search Engines Today
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              14 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iVNXWS"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Complete Guide to (Effective) Customer Analysis"
+          >
+            <img
+              alt="The Complete Guide to (Effective) Customer Analysis"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/d0/e1/d0e16a59f09f064f66f68c1bfa80e904/market-assessment.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Complete Guide to (Effective) Customer Analysis"
+              >
+                The Complete Guide to (Effective) Customer Analysis
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              13 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iVNXWS"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="How to Analyze Competitor Website Traffic with .Trends"
+          >
+            <img
+              alt="How to Analyze Competitor Website Traffic with .Trends"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/01/dd/01dd71a0e8acd1da9a9ac671e9d2566f/how-to-choose-long-tail-keywords.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="How to Analyze Competitor Website Traffic with .Trends"
+              >
+                How to Analyze Competitor Website Traffic with .Trends
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              12 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 gicJes"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+          >
+            <img
+              alt="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/f3/f9/f3f95a2b51ad1d2536c4de81b1880edf/what-is-seo.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              >
+                SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 dbpjXe"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="12 Essential SEO Tips for Beginners to Boost Traffic"
+          >
+            <img
+              alt="12 Essential SEO Tips for Beginners to Boost Traffic"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/18/ff/18fff960ff67c9db12b43013022a1a68/learning-technical-seo.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="12 Essential SEO Tips for Beginners to Boost Traffic"
+              >
+                12 Essential SEO Tips for Beginners to Boost Traffic
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              10 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 iVNXWS"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+          >
+            <img
+              alt="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/9a/90/9a901e4780fc4e441faa8ee8deb71e48/splitsignal-case-study-18-sm.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?"
+              >
+                SEO Split-Test Result: Does Emphasizing an H1 Impact Organic Traffic?
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              14 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 UgXZF"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            <img
+              alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/11/52/11525d5a85322a3b163cfbd9684c9768/best-competitive-intelligence-tools-for-market-research.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+              >
+                The Ultimate Guide to Google Search Operators and Google Search Commands
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              16 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bUGITh article-cards-list__ArticleCardStyled-sc-oz8hya-0 csySKl"
+      data-test="article-cards-list-item"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+        data-test="article-card"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+        >
+          <a
+            class="article-card__LinkStyled-sc-y8gq77-1 gicJes"
+            data-test="article-card-link-image"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="What Is SEO? The 2022 Guide to Search Engine Optimization"
+          >
+            <img
+              alt="What Is SEO? The 2022 Guide to Search Engine Optimization"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+              data-src="https://static.example.com/blog/uploads/media/a6/55/a655f41ab8a81c760c3db3784d3f7330/perform-a-content-audit.svg"
+              data-test="article-card-image"
+            />
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          >
+            <h3
+              class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+              data-test="text-content"
+            >
+              <a
+                data-test="article-card-link-title"
+                href="/blog/what-is-seo"
+                rel="noreferrer"
+                target="_blank"
+                title="What Is SEO? The 2022 Guide to Search Engine Optimization"
+              >
+                What Is SEO? The 2022 Guide to Search Engine Optimization
+              </a>
+            </h3>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+          >
+            <span
+              class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+              data-test="article-card-time-to-read"
+            >
+              12 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots ArticleCardsList empty 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 zFhGY"
+    data-test="article-cards-list"
+  />
+</DocumentFragment>
+`;

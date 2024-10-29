@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots BannerLabel default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 jzxqvy"
+>
+  <span
+    className="text-content__TextStyled-sc-1stkrsz-0 ikPAGE"
+    data-test="text-content"
+  >
+    Ads
+  </span>
+</div>
+`;
+
+exports[`Match snapshots BannerLabel with custom text 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 jzxqvy"
+>
+  <span
+    className="text-content__TextStyled-sc-1stkrsz-0 ikPAGE"
+    data-test="text-content"
+  >
+    test
+  </span>
+</div>
+`;

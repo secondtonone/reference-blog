@@ -1,0 +1,3527 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots Footer default 1`] = `
+<footer
+  className="navigation-footer__FooterStyled-sc-1j4mt6h-4 fHcyXY"
+  data-test="footer"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gnKigM"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 cUJtbl"
+      data-test="columns"
+    >
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 eqcwZq"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 iiyDlt"
+        >
+          <div
+            className="box-adaptive__BoxStyled-sc-g2wy39-0 bNvOWy"
+            data-test="example-logo"
+          >
+            <span>
+              example-footer
+            </span>
+          </div>
+          <span
+            data-test="address"
+          >
+            USA, 800 Boylston Street, Suite 2475, Boston, MA 02199
+          </span>
+          <br />
+          <br />
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+            data-test="example-email"
+            href="mailto:mail@example.com"
+          >
+            mail@example.com
+          </a>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 dZuqaV"
+        >
+          <div
+            className="box-adaptive__BoxStyled-sc-g2wy39-0 emlrUl navigation-footer__ButtonContainer-sc-1j4mt6h-2 gSEugQ"
+          >
+            <span
+              className="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd ipyQnY"
+              data-test="button-link-secondary"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fKSnsw SLink"
+                data-test="get-started-link"
+                href="/kb/15-getting-started/"
+              >
+                Get started with example
+              </a>
+            </span>
+          </div>
+          <br />
+          or see our
+           
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 izGVjZ SLink navigation-footer__PlansLinkStyled-sc-1j4mt6h-0 nBoMZ"
+            data-test="plans-and-pricing-link"
+            href="/prices/"
+          >
+            plans & pricing
+          </a>
+        </div>
+      </div>
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 ityTyj"
+        data-test="footer-navigation-menu"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-example"
+            >
+              example
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-features"
+                href="https://www.example.com/features/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Features
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-pricing"
+                href="https://www.example.com/prices/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Pricing
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-success stories"
+                href="https://www.example.com/company/stories/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Success Stories
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-stats and facts"
+                href="https://www.example.com/stats/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Stats and Facts
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-data studies"
+                href="https://www.example.com/company/trusted-data-provider/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Data Studies
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-news"
+                href="https://www.example.com/news/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  News
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-custom report"
+                href="https://www.example.com/company/custom_report/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Custom Report
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-more tools"
+            >
+              More tools
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-analytics reports"
+                href="https://www.example.com/info/ebay.com"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Analytics Reports
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-projects"
+                href="https://www.example.com/projects/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Projects
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-content marketplace"
+                href="https://www.example.com/marketplace/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Content Marketplace
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-agency partners"
+                href="https://www.example.com/agencies/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Agency Partners
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-affiliate program"
+                href="https://app.impact.com/advertiser-advertiser-info/example.brand"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Affiliate Program
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-seoquake"
+                href="https://www.seoquake.com/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  SEOquake
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-sensor"
+                href="https://www.example.com/sensor/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Sensor
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-tools for amazon"
+                href="https://www.sellzone.com/?utm_source=example&utm_medium=footer"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Tools for Amazon
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-prowly"
+                href="https://prowly.com/?utm_source=example&utm_medium=footer"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Prowly
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-app center"
+                href="https://www.example.com/apps/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  App Center
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-company"
+            >
+              Company
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-about us"
+                href="https://www.example.com/company/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  About Us
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-newsroom"
+                href="https://www.example.com/company/newsroom/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Newsroom
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-partners"
+                href="https://www.example.com/company/partners/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Partners
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-legal info"
+                href="https://www.example.com/company/legal/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Legal Info
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-privacy policy"
+                href="https://www.example.com/company/legal/privacy-policy/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Privacy Policy
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-cookie settings"
+                href="javascript:window.showConsentSettings();"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Cookie Settings
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-security info"
+                href="https://www.example.com/company/security/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Security Info
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-for investors"
+                href="https://investors.example.com"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  For Investors
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-contact us"
+                href="https://www.example.com/company/contacts/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Contact Us
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-help"
+            >
+              Help
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-knowledge base"
+                href="https://www.example.com/kb/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Knowledge Base
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-academy"
+                href="https://www.example.com/academy/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Academy
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-example api"
+                href="https://www.example.com/api-documentation/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  example API
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-community"
+            >
+              Community
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-example blog"
+                href="https://www.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  example Blog
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-webinars"
+                href="https://www.example.com/webinars/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Webinars
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-events"
+                href="https://www.example.com/blog/the-ultimate-calendar-of-digital-marketing-events/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Events
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-follow us"
+            >
+              Follow us
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-twitter"
+                href="https://twitter.com/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    twitter
+                  </span>
+                  Twitter
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-facebook"
+                href="https://www.facebook.com/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    facebook
+                  </span>
+                  Facebook
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-linkedin"
+                href="https://linkedin.com/company/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    linkedin
+                  </span>
+                  LinkedIn
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-instagram"
+                href="https://instagram.com/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    instagram
+                  </span>
+                  Instagram
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-youtube"
+                href="https://www.youtube.com/user/exampleHQ/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    youtube
+                  </span>
+                  YouTube
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-pinterest"
+                href="https://www.pinterest.ru/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    pinterest
+                  </span>
+                  Pinterest
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-language"
+            >
+              Language
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 dOgKmt"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-english"
+                href="https://www.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  English
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-español"
+                href="https://es.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Español
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-deutsch"
+                href="https://de.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Deutsch
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-français"
+                href="https://fr.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Français
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-italiano"
+                href="https://it.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Italiano
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-português (brasil)"
+                href="https://pt.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Português (Brasil)
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <span />
+      </div>
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 kEhVln"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 lbaxAM"
+        >
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://twitter.com/example/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-twitter"
+              size="m"
+            >
+              <button
+                aria-label="twitter"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      twitter
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://facebook.com/example/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-facebook"
+              size="m"
+            >
+              <button
+                aria-label="facebook"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      facebook
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://www.linkedin.com/company/example/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-linkedin"
+              size="m"
+            >
+              <button
+                aria-label="linkedin"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      linkedin
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://instagram.com/example/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-instagram"
+              size="m"
+            >
+              <button
+                aria-label="instagram"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      instagram
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://www.youtube.com/user/exampleHQ/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-youtube"
+              size="m"
+            >
+              <button
+                aria-label="youtube"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      youtube
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+        </div>
+      </div>
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 jyjLMr"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 iiyDlt navigation-footer__RightsText-sc-1j4mt6h-1 hRjTat"
+        >
+          © 2008–2021 example. All rights reserved.
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+`;
+
+exports[`Match snapshots Footer german version 1`] = `
+<footer
+  className="navigation-footer__FooterStyled-sc-1j4mt6h-4 fHcyXY"
+  data-test="footer"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gnKigM"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 cUJtbl"
+      data-test="columns"
+    >
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 eqcwZq"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 iiyDlt"
+        >
+          <div
+            className="box-adaptive__BoxStyled-sc-g2wy39-0 bNvOWy"
+            data-test="example-logo"
+          >
+            <span>
+              example-footer
+            </span>
+          </div>
+          <span
+            data-test="address"
+          >
+            USA, 800 Boylston Street, Suite 2475, Boston, MA 02199
+          </span>
+          <br />
+          <br />
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+            data-test="example-email"
+            href="mailto:mail@example.com"
+          >
+            mail@example.com
+          </a>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 dZuqaV"
+        >
+          <div
+            className="box-adaptive__BoxStyled-sc-g2wy39-0 emlrUl navigation-footer__ButtonContainer-sc-1j4mt6h-2 gSEugQ"
+          >
+            <span
+              className="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd ipyQnY"
+              data-test="button-link-secondary"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fKSnsw SLink"
+                data-test="get-started-link"
+                href="/kb/15-getting-started/"
+              >
+                Get started with example
+              </a>
+            </span>
+          </div>
+          <br />
+          or see our
+           
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 izGVjZ SLink navigation-footer__PlansLinkStyled-sc-1j4mt6h-0 nBoMZ"
+            data-test="plans-and-pricing-link"
+            href="/prices/"
+          >
+            plans & pricing
+          </a>
+        </div>
+      </div>
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 ityTyj"
+        data-test="footer-navigation-menu"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-example"
+            >
+              example
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-funktionen"
+                href="https://de.example.com/features/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Funktionen
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-preise"
+                href="https://de.example.com/prices/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Preise
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-erfolgsberichte"
+                href="https://de.example.com/company/stories/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Erfolgsberichte
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-example in zahlen"
+                href="https://de.example.com/stats/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  example in Zahlen
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-datenstudien"
+                href="https://de.example.com/company/trusted-data-provider/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Datenstudien
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-neuigkeiten"
+                href="https://de.example.com/news/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Neuigkeiten
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-benutzerdefinierter bericht"
+                href="https://de.example.com/company/custom_report/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Benutzerdefinierter Bericht
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-extra-tools"
+            >
+              Extra-Tools
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-analytics-berichte"
+                href="https://de.example.com/info/ebay.com"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Analytics-Berichte
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-projekte"
+                href="https://de.example.com/projects/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Projekte
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-content marketplace"
+                href="https://de.example.com/marketplace/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Content Marketplace
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-agenturpartner"
+                href="https://de.example.com/agencies/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Agenturpartner
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-affiliate-programm"
+                href="https://app.impact.com/advertiser-advertiser-info/example.brand"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Affiliate-Programm
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-seoquake"
+                href="https://www.seoquake.com/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  SEOquake
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-sensor"
+                href="https://de.example.com/sensor/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Sensor
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-tools for amazon"
+                href="https://www.sellzone.com/?utm_source=example&utm_medium=footer"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Tools for Amazon
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-prowly"
+                href="https://prowly.com/?utm_source=example&utm_medium=footer"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Prowly
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-app center"
+                href="https://de.example.com/apps/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  App Center
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-unternehmen"
+            >
+              Unternehmen
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-über uns"
+                href="https://de.example.com/company/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Über uns
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-newsroom"
+                href="https://de.example.com/company/newsroom/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Newsroom
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-partner"
+                href="https://de.example.com/company/partners/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Partner
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-rechtliche infos"
+                href="https://de.example.com/company/legal/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Rechtliche Infos
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-datenschutzrichtlinie"
+                href="https://de.example.com/company/legal/privacy-policy/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Datenschutzrichtlinie
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-cookie-einstellungen"
+                href="javascript:window.showConsentSettings();"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Cookie-Einstellungen
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-sicherheitsinformationen"
+                href="https://de.example.com/company/security/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Sicherheitsinformationen
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-für investoren"
+                href="https://investors.example.com"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Für Investoren
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-kontakt"
+                href="https://de.example.com/company/contacts/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Kontakt
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-hilfe"
+            >
+              Hilfe
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-wissen"
+                href="https://de.example.com/kb/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Wissen
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-akademie"
+                href="https://de.example.com/academy/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Akademie
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-example api"
+                href="https://de.example.com/api-documentation/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  example API
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-community"
+            >
+              Community
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-example-blog"
+                href="https://de.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  example-Blog
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-webinare"
+                href="https://de.example.com/webinars/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Webinare
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-events"
+                href="https://de.example.com/blog/the-ultimate-calendar-of-digital-marketing-events/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Events
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-folgen sie uns"
+            >
+              Folgen sie uns
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-twitter"
+                href="https://twitter.com/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    twitter
+                  </span>
+                  Twitter
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-facebook"
+                href="https://www.facebook.com/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    facebook
+                  </span>
+                  Facebook
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-linkedin"
+                href="https://linkedin.com/company/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    linkedin
+                  </span>
+                  LinkedIn
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-instagram"
+                href="https://instagram.com/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    instagram
+                  </span>
+                  Instagram
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-youtube"
+                href="https://www.youtube.com/user/exampleHQ/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    youtube
+                  </span>
+                  YouTube
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-pinterest"
+                href="https://www.pinterest.ru/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    pinterest
+                  </span>
+                  Pinterest
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-sprache"
+            >
+              Sprache
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-english"
+                href="https://www.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  English
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-español"
+                href="https://es.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Español
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 dOgKmt"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-deutsch"
+                href="https://de.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Deutsch
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-français"
+                href="https://fr.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Français
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-italiano"
+                href="https://it.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Italiano
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-português (brasil)"
+                href="https://pt.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Português (Brasil)
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <span />
+      </div>
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 kEhVln"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 lbaxAM"
+        >
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://twitter.com/example/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-twitter"
+              size="m"
+            >
+              <button
+                aria-label="twitter"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      twitter
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://facebook.com/example/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-facebook"
+              size="m"
+            >
+              <button
+                aria-label="facebook"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      facebook
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://www.linkedin.com/company/example/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-linkedin"
+              size="m"
+            >
+              <button
+                aria-label="linkedin"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      linkedin
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://instagram.com/example/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-instagram"
+              size="m"
+            >
+              <button
+                aria-label="instagram"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      instagram
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://www.youtube.com/user/exampleHQ/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-youtube"
+              size="m"
+            >
+              <button
+                aria-label="youtube"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      youtube
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+        </div>
+      </div>
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 jyjLMr"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 iiyDlt navigation-footer__RightsText-sc-1j4mt6h-1 hRjTat"
+        >
+          © 2008–2021 example. All rights reserved.
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+`;
+
+exports[`Match snapshots Footer in china 1`] = `
+<footer
+  className="navigation-footer__FooterStyled-sc-1j4mt6h-4 fHcyXY"
+  data-test="footer"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 gnKigM"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 cUJtbl"
+      data-test="columns"
+    >
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 eqcwZq"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 iiyDlt"
+        >
+          <div
+            className="box-adaptive__BoxStyled-sc-g2wy39-0 bNvOWy"
+            data-test="example-logo"
+          >
+            <span>
+              example-footer
+            </span>
+          </div>
+          <span
+            data-test="address"
+          >
+            USA, 800 Boylston Street, Suite 2475, Boston, MA 02199
+          </span>
+          <br />
+          <br />
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+            data-test="example-email"
+            href="mailto:mail@example.com"
+          >
+            mail@example.com
+          </a>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 dZuqaV"
+        >
+          <div
+            className="box-adaptive__BoxStyled-sc-g2wy39-0 emlrUl navigation-footer__ButtonContainer-sc-1j4mt6h-2 gSEugQ"
+          >
+            <span
+              className="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd ipyQnY"
+              data-test="button-link-secondary"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fKSnsw SLink"
+                data-test="get-started-link"
+                href="/kb/15-getting-started/"
+              >
+                Get started with example
+              </a>
+            </span>
+          </div>
+          <br />
+          or see our
+           
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 izGVjZ SLink navigation-footer__PlansLinkStyled-sc-1j4mt6h-0 nBoMZ"
+            data-test="plans-and-pricing-link"
+            href="/prices/"
+          >
+            plans & pricing
+          </a>
+        </div>
+      </div>
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 ityTyj"
+        data-test="footer-navigation-menu"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-example"
+            >
+              example
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-features"
+                href="https://www.example.com/features/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Features
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-pricing"
+                href="https://www.example.com/prices/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Pricing
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-success stories"
+                href="https://www.example.com/company/stories/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Success Stories
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-stats and facts"
+                href="https://www.example.com/stats/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Stats and Facts
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-data studies"
+                href="https://www.example.com/company/trusted-data-provider/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Data Studies
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-news"
+                href="https://www.example.com/news/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  News
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-custom report"
+                href="https://www.example.com/company/custom_report/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Custom Report
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-more tools"
+            >
+              More tools
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-analytics reports"
+                href="https://www.example.com/info/ebay.com"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Analytics Reports
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-projects"
+                href="https://www.example.com/projects/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Projects
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-content marketplace"
+                href="https://www.example.com/marketplace/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Content Marketplace
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-agency partners"
+                href="https://www.example.com/agencies/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Agency Partners
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-affiliate program"
+                href="https://app.impact.com/advertiser-advertiser-info/example.brand"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Affiliate Program
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-seoquake"
+                href="https://www.seoquake.com/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  SEOquake
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-sensor"
+                href="https://www.example.com/sensor/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Sensor
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-tools for amazon"
+                href="https://www.sellzone.com/?utm_source=example&utm_medium=footer"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Tools for Amazon
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-prowly"
+                href="https://prowly.com/?utm_source=example&utm_medium=footer"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Prowly
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-app center"
+                href="https://www.example.com/apps/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  App Center
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-company"
+            >
+              Company
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-about us"
+                href="https://www.example.com/company/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  About Us
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-newsroom"
+                href="https://www.example.com/company/newsroom/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Newsroom
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-partners"
+                href="https://www.example.com/company/partners/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Partners
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-legal info"
+                href="https://www.example.com/company/legal/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Legal Info
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-privacy policy"
+                href="https://www.example.com/company/legal/privacy-policy/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Privacy Policy
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-cookie settings"
+                href="javascript:window.showConsentSettings();"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Cookie Settings
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-security info"
+                href="https://www.example.com/company/security/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Security Info
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-for investors"
+                href="https://investors.example.com"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  For Investors
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-contact us"
+                href="https://www.example.com/company/contacts/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Contact Us
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-help"
+            >
+              Help
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-knowledge base"
+                href="https://www.example.com/kb/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Knowledge Base
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-academy"
+                href="https://www.example.com/academy/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Academy
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-example api"
+                href="https://www.example.com/api-documentation/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  example API
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-community"
+            >
+              Community
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-example blog"
+                href="https://www.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  example Blog
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-webinars"
+                href="https://www.example.com/webinars/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Webinars
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-events"
+                href="https://www.example.com/blog/the-ultimate-calendar-of-digital-marketing-events/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Events
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-follow us"
+            >
+              Follow us
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-twitter"
+                href="https://twitter.com/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    twitter
+                  </span>
+                  Twitter
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-facebook"
+                href="https://www.facebook.com/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    facebook
+                  </span>
+                  Facebook
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-linkedin"
+                href="https://linkedin.com/company/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    linkedin
+                  </span>
+                  LinkedIn
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-instagram"
+                href="https://instagram.com/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    instagram
+                  </span>
+                  Instagram
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-youtube"
+                href="https://www.youtube.com/user/exampleHQ/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    youtube
+                  </span>
+                  YouTube
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-pinterest"
+                href="https://www.pinterest.ru/example/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  <span>
+                    pinterest
+                  </span>
+                  Pinterest
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 ehhqQZ"
+          data-test=""
+        >
+          <ul
+            className="footer-links__Menu-sc-1qil1ka-0 jiKdwY"
+          >
+            <li
+              data-test="footer-title-language"
+            >
+              Language
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 dOgKmt"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-english"
+                href="https://www.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  English
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-español"
+                href="https://es.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Español
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-deutsch"
+                href="https://de.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Deutsch
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-français"
+                href="https://fr.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Français
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-italiano"
+                href="https://it.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Italiano
+                </span>
+              </a>
+            </li>
+            <li
+              className="footer-links__Item-sc-1qil1ka-1 hHYdsm"
+            >
+              <a
+                className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                data-test="footer-link-português (brasil)"
+                href="https://pt.example.com/blog/"
+                rel="nofollow"
+              >
+                <span
+                  className="footer-links__LinkStyled-sc-1qil1ka-2 bLXdOh"
+                >
+                  Português (Brasil)
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <span />
+      </div>
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 kEhVln"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 lbaxAM"
+        >
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://twitter.com/example/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-twitter"
+              size="m"
+            >
+              <button
+                aria-label="twitter"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      twitter
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://facebook.com/example/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-facebook"
+              size="m"
+            >
+              <button
+                aria-label="facebook"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      facebook
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://www.linkedin.com/company/example/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-linkedin"
+              size="m"
+            >
+              <button
+                aria-label="linkedin"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      linkedin
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://instagram.com/example/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-instagram"
+              size="m"
+            >
+              <button
+                aria-label="instagram"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      instagram
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+          <a
+            className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+            data-test="link-text"
+            href="https://www.youtube.com/user/exampleHQ/"
+            rel="noopener noreferrer nofollow"
+            style={
+              Object {
+                "marginBottom": "10px",
+                "marginRight": "10px",
+              }
+            }
+            target="_blank"
+          >
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+              data-test="button-icon-youtube"
+              size="m"
+            >
+              <button
+                aria-label="youtube"
+                className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="m"
+                style={Object {}}
+                tabIndex={0}
+                type="button"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="m"
+                    style={Object {}}
+                  >
+                    <span>
+                      youtube
+                    </span>
+                  </span>
+                </span>
+              </button>
+            </span>
+          </a>
+        </div>
+      </div>
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 jyjLMr"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 iiyDlt navigation-footer__RightsText-sc-1j4mt6h-1 hRjTat"
+        >
+          © 2008–2021 example. All rights reserved.
+           
+          <span
+            data-test="example-china-cert"
+          >
+            上海勤凯信息科技有限公司网站
+             
+            <a
+              className="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+              data-test="example-china-cert-link"
+              href="http://www.beian.miit.gov.cn"
+              rel="noreferrer"
+              target="_blank"
+            >
+              沪ICP备09000675号-8
+            </a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+`;

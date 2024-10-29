@@ -1,0 +1,532 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots PostCardContent default 1`] = `
+<article
+  className="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+  data-test="content-en"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 isyibR"
+  >
+    <div
+      className="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+    >
+      <p
+        className="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+        data-test="category"
+      >
+        <a
+          href="/blog/category/slug"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          target="_blank"
+        >
+          category
+        </a>
+      </p>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+      />
+    </div>
+  </div>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 hHiLZj"
+      data-test="text-content"
+      style={
+        Object {
+          "wordBreak": "break-word",
+        }
+      }
+    >
+      <a
+        className="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+        data-test="title"
+        href="url"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        title
+      </a>
+    </h3>
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 kdmpti post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+      data-test="description"
+    >
+      preview text
+    </span>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 cGxrni post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+      data-test="meta"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+        data-test="date"
+      >
+        Jan 01, 1970
+      </span>
+    </div>
+  </div>
+</article>
+`;
+
+exports[`Match snapshots PostCardContent horizontal 1`] = `
+<article
+  className="post-card-content__ContentStyled-sc-gda4z3-1 eCkoQz"
+  data-test="content-en"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 hiKBbj"
+      data-test="text-content"
+      style={
+        Object {
+          "wordBreak": "break-word",
+        }
+      }
+    >
+      <a
+        className="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+        data-test="title"
+        href="url"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        title
+      </a>
+    </h3>
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 cwaFih post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+      data-test="description"
+    >
+      preview text
+    </span>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 cGxrni post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+      data-test="meta"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 isyibR"
+      >
+        <div
+          className="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+        >
+          <p
+            className="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+            data-test="category"
+          >
+            <a
+              href="/blog/category/slug"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              target="_blank"
+            >
+              category
+            </a>
+          </p>
+          <div
+            className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+          />
+        </div>
+      </div>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+        data-test="date"
+      >
+        Jan 01, 1970
+      </span>
+    </div>
+  </div>
+</article>
+`;
+
+exports[`Match snapshots PostCardContent isLarge 1`] = `
+<article
+  className="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+  data-test="content-en"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 isyibR"
+  >
+    <div
+      className="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+    >
+      <p
+        className="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+        data-test="category"
+      >
+        <a
+          href="/blog/category/slug"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          target="_blank"
+        >
+          category
+        </a>
+      </p>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+      />
+    </div>
+  </div>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 jWcwpr"
+      data-test="text-content"
+      style={
+        Object {
+          "wordBreak": "break-word",
+        }
+      }
+    >
+      <a
+        className="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+        data-test="title"
+        href="url"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        title
+      </a>
+    </h3>
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 dVIgJO post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+      data-test="description"
+    >
+      preview text
+    </span>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 dqCWsC post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+      data-test="meta"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+        data-test="date"
+      >
+        Jan 01, 1970
+      </span>
+    </div>
+  </div>
+</article>
+`;
+
+exports[`Match snapshots PostCardContent timeToRead 1`] = `
+<article
+  className="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+  data-test="content-en"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 jDLZGW"
+  >
+    <div
+      className="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+    >
+      <p
+        className="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+        data-test="category"
+      >
+        <a
+          href="/blog/category/slug"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          target="_blank"
+        >
+          category
+        </a>
+      </p>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+      >
+        <span
+          className="text-content__TextStyled-sc-1stkrsz-0 eljVVb"
+          data-test="time-to-read"
+        >
+          1
+           
+          min read
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 hHiLZj"
+      data-test="text-content"
+      style={
+        Object {
+          "wordBreak": "break-word",
+        }
+      }
+    >
+      <a
+        className="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+        data-test="title"
+        href="url"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        title
+      </a>
+    </h3>
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 kdmpti post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+      data-test="description"
+    >
+      preview text
+    </span>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 cGxrni post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+      data-test="meta"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+        data-test="date"
+      >
+        Jan 01, 1970
+      </span>
+    </div>
+  </div>
+</article>
+`;
+
+exports[`Match snapshots PostCardContent with hidden author 1`] = `
+<article
+  className="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+  data-test="content-en"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 isyibR"
+  >
+    <div
+      className="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+    >
+      <p
+        className="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+        data-test="category"
+      >
+        <a
+          href="/blog/category/slug"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          target="_blank"
+        >
+          category
+        </a>
+      </p>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+      />
+    </div>
+  </div>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 jWcwpr"
+      data-test="text-content"
+      style={
+        Object {
+          "wordBreak": "break-word",
+        }
+      }
+    >
+      <a
+        className="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+        data-test="title"
+        href="url"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        title
+      </a>
+    </h3>
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 dVIgJO post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+      data-test="description"
+    >
+      preview text
+    </span>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 dqCWsC post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+      data-test="meta"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 izRvWD post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+        data-test="text-content"
+      >
+        name
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+        data-test="date"
+      >
+        Jan 01, 1970
+      </span>
+    </div>
+  </div>
+</article>
+`;
+
+exports[`Match snapshots PostCardContent with link by falsy prop 1`] = `
+<article
+  className="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+  data-test="content-en"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 isyibR"
+  >
+    <div
+      className="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+    >
+      <p
+        className="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+        data-test="category"
+      >
+        <a
+          href="/blog/category/slug"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          target="_blank"
+        >
+          category
+        </a>
+      </p>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+      />
+    </div>
+  </div>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 jWcwpr"
+      data-test="text-content"
+      style={
+        Object {
+          "wordBreak": "break-word",
+        }
+      }
+    >
+      <a
+        className="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+        data-test="title"
+        href="url"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        title
+      </a>
+    </h3>
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 dVIgJO post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+      data-test="description"
+    >
+      preview text
+    </span>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 dqCWsC post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+      data-test="meta"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 izRvWD post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+        data-test="text-content"
+      >
+        Mr. Hidden
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+        data-test="date"
+      >
+        Jan 01, 1970
+      </span>
+    </div>
+  </div>
+</article>
+`;
+
+exports[`Match snapshots PostCardContent without isPublic prop 1`] = `
+<article
+  className="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+  data-test="content-en"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 isyibR"
+  >
+    <div
+      className="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+    >
+      <p
+        className="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+        data-test="category"
+      >
+        <a
+          href="/blog/category/slug"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          target="_blank"
+        >
+          category
+        </a>
+      </p>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+      />
+    </div>
+  </div>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+  >
+    <h3
+      className="text-content__TextStyled-sc-1stkrsz-0 jWcwpr"
+      data-test="text-content"
+      style={
+        Object {
+          "wordBreak": "break-word",
+        }
+      }
+    >
+      <a
+        className="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+        data-test="title"
+        href="url"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        title
+      </a>
+    </h3>
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 dVIgJO post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+      data-test="description"
+    >
+      preview text
+    </span>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 dqCWsC post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+      data-test="meta"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 izRvWD post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+        data-test="text-content"
+      >
+        Mr. Hidden
+      </span>
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+        data-test="date"
+      >
+        Jan 01, 1970
+      </span>
+    </div>
+  </div>
+</article>
+`;

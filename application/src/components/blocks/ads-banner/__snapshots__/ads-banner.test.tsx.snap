@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots AdsBanner default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 lbpsMn ads-banner__BannerStyled-sc-1wfwcwy-0 qazdl"
+  data-test="banner-block"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 iKFWbg"
+    data-test="content"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 itonjj"
+    >
+      <p
+        className="text-content__TextStyled-sc-1stkrsz-0 cGexCL"
+        data-test="banner-heading"
+      >
+        Evaluating the Pandemic Impact
+      </p>
+      <p
+        className="text-content__TextStyled-sc-1stkrsz-0 dqlUBp"
+        data-test="banner-description"
+      >
+        You will be impressed. Real, it’s exactly what you waited
+         
+        for. You will be impressed.
+      </p>
+    </div>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 itmwtb"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 dQFscz"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 cjUDsT"
+        >
+          <span
+            className="base-link__BaseButtonLink-sc-16cbcsq-0 primary-link__PrimaryButtonLink-sc-akzrhv-0 jcuBOd bTFEQd"
+            data-test="button-link-primary"
+          >
+            <a
+              className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+              data-test="banner-link"
+              href="/blog"
+              onClick={[Function]}
+              target="_blank"
+            >
+              Let's see
+            </a>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 laVBiu"
+    >
+      <a
+        className="link-text__StyledLink-sc-a7posi-0 izGVjZ SLink"
+        data-test="link-text"
+        href="/blog"
+        onClick={[Function]}
+      >
+        Let's see
+      </a>
+    </div>
+  </div>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 knChur ads-banner__ImageStyled-sc-1wfwcwy-1 gnZhqV"
+    data-test="banner-image"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 gmromn"
+    >
+      <img
+        alt="ADS illustration"
+        data-test="banner-ads-png"
+        height="202"
+        src="https://storage.googleapis.com/blog-rc/front/rc/blog/banners/popup/ads-banner-id-greenGrassIllust.png"
+      />
+    </div>
+  </div>
+</div>
+`;

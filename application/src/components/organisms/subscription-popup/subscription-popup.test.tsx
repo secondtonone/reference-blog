@@ -1,0 +1,23 @@
+/**
+ * @jest-environment jsdom
+ */
+import renderer from 'react-test-renderer';
+import SubscriptionPopup from '.';
+
+jest.mock('~/components/containers/svg-icon', () => jest.fn().mockReturnValue('svg-icon'));
+
+jest.mock('~/hooks/use-with-popup', () => jest.fn(() => ({
+  show: jest.fn(),
+  hide: jest.fn(),
+  isVisible: false,
+  toggle: jest.fn()
+})));
+
+describe('Match snapshots SubscriptionPopup', () => {
+  it('default', () => {
+    const tree = renderer.create(
+      <SubscriptionPopup />
+    ).toJSON();
+    expect(tree).toMatchSnapshot();
+  });
+});

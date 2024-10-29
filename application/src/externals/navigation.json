@@ -1,0 +1,1130 @@
+{
+  "header": [
+    {
+      "title": {
+        "en": "Features",
+        "de": "Funktionen",
+        "es": "Funciones",
+        "fr": "Fonctionnalités",
+        "it": "Funzionalità",
+        "ja": "機能",
+        "pt": "Funções",
+        "ru": "Возможности",
+        "zh": "服务特色",
+        "vi": "Tính năng",
+        "ko": "기능",
+        "tr": "Özellikler"
+      },
+      "link": "/features/"
+    },
+    {
+      "title": {
+        "en": "Pricing",
+        "de": "Preise",
+        "es": "Precios",
+        "fr": "Tarifs",
+        "it": "Prezzi",
+        "ja": "価格",
+        "pt": "Preços",
+        "ru": "Тарифы",
+        "zh": "价格",
+        "vi": "Biểu giá",
+        "ko": "요금제",
+        "tr": "Fiyatlandırma"
+      },
+      "link": "/prices/"
+    },
+    {
+      "title": {
+        "en": "Resources",
+        "de": "Ressourcen",
+        "es": "Recursos",
+        "fr": "Ressources",
+        "it": "Risorse",
+        "ja": "リソース",
+        "pt": "Recursos",
+        "ru": "Ресурсы",
+        "zh": "资源",
+        "vi": "Tài nguyên",
+        "ko": "리소스",
+        "tr": "Kaynaklar"
+      },
+      "content": [
+        {
+          "title": {
+            "en": "Blog",
+            "de": "Blog",
+            "es": "Blog",
+            "fr": "Blog",
+            "it": "Blog",
+            "ja": "ブログ",
+            "pt": "Blog",
+            "ru": "Блог",
+            "zh": "博客",
+            "vi": "Blog",
+            "ko": "블로그",
+            "tr": "Blog"
+          },
+          "link": "/blog/",
+          "text": {
+            "en": "Read the industry's latest thoughts on digital marketing, content strategy, SEO, PPC, social media and more.",
+            "de": "Lesen Sie die neuesten Gedanken der Branche zu digitalem Marketing, Content-Strategien, SEO, PPC, Social Media und mehr.",
+            "es": "Lee las más recientes ideas del sector sobre marketing digital, estrategia de contenido, SEO, PCC, medios sociales y mucho más.",
+            "fr": "Lisez les dernières réflexions du secteur sur le marketing numérique, la stratégie de contenu, le référencement, le PPC, les réseaux sociaux, etc.",
+            "it": "Leggi le ultime riflessioni del settore in merito a marketing digitale, strategie relative ai contenuti, SEO, PPC, social media e molto altro.",
+            "ja": "デジタルマーケティング、コンテンツストラテジー、SEO、PPC、ソーシャルメディアなどに関する業界の最新の知見についてご覧ください。",
+            "pt": "Leia as ideias mais recentes do setor sobre marketing digital, estratégia de conteúdo, SEO, PPC, redes sociais e muito mais.",
+            "ru": "Узнайте актуальные мнения экспертов в таких областях, как интернет-маркетинг, контент-стратегия, SEO, PPC, продвижение в социальных сетях и многих других.",
+            "zh": "阅读行业针对数字营销、内容策略、SEO、PPC、社交媒体等领域的最新想法。",
+            "vi": "Đọc những ý tưởng mới nhất về ngành về tiếp thị kỹ thuật số, chiến lược nội dung, SEO, PPC, truyền thông xã hội và hơn thế nữa.",
+            "ko": "디지털 마케팅, 콘텐츠 전략, SEO, PPC, 소셜 미디어 등에 대한 업계의 최신 소식을 읽어 보세요.",
+            "tr": "Dijital pazarlama, içerik stratejisi, SEO, PPC, sosyal medya ve daha fazlası hakkında endüstrinin en son trendlerini okuyun."
+          }
+        },
+        {
+          "title": {
+            "en": "Help Center",
+            "de": "Hilfe-Center",
+            "es": "Centro de ayuda",
+            "fr": "Centre d'aide",
+            "it": "Aiuto",
+            "ja": "ヘルプセンター",
+            "pt": "Central de ajuda",
+            "ru": "Справочный центр",
+            "zh": "帮助中心",
+            "vi": "Bộ phận hỗ trợ",
+            "ko": "지원 센터",
+            "tr": "Yardım Merkezi"
+          },
+          "link": "/kb/",
+          "text": {
+            "en": "Learn how to use example with user manuals, how-to’s, videos and more!",
+            "de": "Erfahren Sie in Anleitungen für Benutzer, Tipps & Tricks, Videos und mehr, wie Sie example verwenden können!",
+            "es": "¡Accede a manuales de usuario, guías, vídeos y mucho más para aprender a utilizar example!",
+            "fr": "Apprenez à utiliser example avec des manuels utilisateurs, des modes d'emploi, des vidéos et plus encore !",
+            "it": "Scopri come usare example con i manuali per gli utenti, le istruzioni, i video e altro ancora!",
+            "ja": "ユーザーマニュアル、ハウツー、ビデオなどでexampleの使用方法を学びましょう！",
+            "pt": "Saiba como usar a example com manuais de usuário, guias práticos, vídeos e muito mais!",
+            "ru": "Изучите наше руководство пользователя, инструкции, видеоуроки и другие материалы, чтобы узнать, как работать с example.",
+            "zh": "通过用户手册、使用说明、视频等了解如何使用 example！",
+            "vi": "Tìm hiểu cách dùng example cùng với hướng dẫn sử dụng, cách thực hiện, video và hơn thế nữa!",
+            "ko": "사용자 매뉴얼, 안내 게시물, 동영상 등을 통해 example를 어떻게 사용하는지 배워 보세요!",
+            "tr": "example'u nasıl kullanacağınızı kullanım kılavuzları, talimatlar, videolar ve daha fazlası aracılığıyla öğrenin!"
+          }
+        },
+        {
+          "title": {
+            "en": "What's New",
+            "de": "Neuigkeiten",
+            "es": "Noticias",
+            "fr": "Quoi de neuf?",
+            "it": "Novità",
+            "ja": "最新情報",
+            "pt": "Novidades",
+            "ru": "Что нового?",
+            "zh": "最新动态",
+            "vi": "Có điều gì mới?",
+            "ko": "새로운 뉴스",
+            "tr": "Yenilikler"
+          },
+          "link": "/news/",
+          "text": {
+            "en": "Keep track of the newest example features and improvements.",
+            "de": "Behalten Sie die neuesten example-Funktionen und -Verbesserungen im Blick.",
+            "es": "Mantente al tanto de las más recientes funciones y mejoras de example.",
+            "fr": "Suivez les dernières fonctionnalités et améliorations de example.",
+            "it": "Tieniti aggiornato sulle nuove funzionalità e sui miglioramenti di example.",
+            "ja": "最新のexample機能と改善をフォローします。",
+            "pt": "Acompanhe os recursos e melhorias mais recentes da example.",
+            "ru": "Следите за выходом новых функций и дополнений example.",
+            "zh": "跟踪 example 的最新功能和改进。",
+            "vi": "Theo dõi các tính năng và cải tiến mới nhất cảu example.",
+            "ko": "example 기능 및 개선사항에 대한 최신 소식을 놓치지 마세요.",
+            "tr": "En yeni example özelliklerini ve iyileştirmelerini takip edin."
+          }
+        },
+        {
+          "title": {
+            "en": "Webinars",
+            "de": "Webinare",
+            "es": "Webinars",
+            "fr": "Webinaires",
+            "it": "Webinar",
+            "ja": "ウェビナー",
+            "pt": "Webinários",
+            "ru": "Вебинары",
+            "zh": "网络讲座",
+            "vi": "Hội thảo trực tuyến",
+            "ko": "웨비나",
+            "tr": "Webinars"
+          },
+          "link": "/webinars/",
+          "text": {
+            "en": "Register and take part in educational webinars conducted by the best digital marketing experts.",
+            "de": "Nehmen Sie an Schulungs-Webinaren der besten Experten des digitalen Marketings teil.",
+            "es": "Regístrate y participa en webinars educativos dirigidos por los mejores expertos en marketing digital.",
+            "fr": "Inscrivez-vous et participez à des webinaires de formation dispensés par les meilleurs experts du marketing numérique.",
+            "it": "Registrati e partecipa ai webinar formativi condotti dai migliori esperti di marketing digitale.",
+            "ja": "登録して、最高のデジタルマーケティング専門家が実施する教育ウェビナーに参加してください。",
+            "pt": "Cadastre-se e participe de webinários educativos realizados pelos melhores especialistas em marketing digital.",
+            "ru": "Зарегистрируйтесь и примите участие в обучающих вебинарах, которые проводят лучшие эксперты в области интернет-маркетинга.",
+            "zh": "注册并参加由最佳数字营销专家举办的教育网络讲座。",
+            "vi": "Đăng ký và tham gia các hội thảo hướng dẫn trực tuyến trên website do các chuyên gia tiếp thị kỹ thuật số hàng đầu thực hiện.",
+            "ko": "최고의 디지털 마케팅 전문가들이 진행하는 교육 웨비나에 등록하여 수강해 보세요.",
+            "tr": "En iyi dijital pazarlama uzmanları tarafından yürütülen eğitim web seminerlerine kaydolun ve katılın."
+          }
+        },
+        {
+          "title": {
+            "en": "Ebooks",
+            "de": "Ebooks",
+            "es": "Ebooks",
+            "fr": "Ebooks",
+            "it": "Ebook",
+            "ja": "Ebooks",
+            "pt": "Ebooks",
+            "ru": "Ebooks",
+            "zh": "电子书",
+            "vi": "Ebook",
+            "ko": "Ebook",
+            "tr": "Ebooks"
+          },
+          "link": "/ebooks/",
+          "text": {
+            "en": "A range of downloadable guides in PDF format that can help you broaden your knowledge and improve your skills.",
+            "de": "Anleitungen im PDF-Format, die Sie herunterladen können, um Ihre Kenntnisse und Kompetenzen zu erweitern.",
+            "es": "Gran variedad de guías, para descargar en formato PDF, que te servirán de ayuda para ampliar tus conocimientos y mejorar tus habilidades.",
+            "fr": "Une série de guides téléchargeables au format PDF qui peuvent vous aider à élargir vos connaissances et à améliorer vos compétences.",
+            "it": "Una vasta gamma di guide scaricabili in formato PDF che ti aiuteranno ad ampliare le tue conoscenze e migliorare le tue abilità.",
+            "ja": "知識を広げ、スキルを向上させるのに役立つ、PDF形式のダウンロード可能なガイドの範囲。",
+            "pt": "Uma série de guias para download em formato PDF que vão ajudar você a expandir seus conhecimentos e aprimorar suas habilidades.",
+            "ru": "Подборка доступных для скачивания руководств в формате PDF, которые помогут приобрести новые знания и навыки.",
+            "zh": "一系列可供下载的 PDF 格式指南，能够帮助您拓宽知识面并提高技能。",
+            "vi": "Các bộ sách hướng dẫn có thể tải xuống ở định dạng PDF có thể giúp bạn mở rộng kiến ​​thức vốn có và cải thiện kỹ năng chính mình.",
+            "ko": "더 많은 지식을 습득하고 역량을 개선하는 데 도움이 되는 PDF 형식의 다양한 가이드를 다운로드하실 수 있습니다.",
+            "tr": "Bilginizi genişletmenize ve becerilerinizi geliştirmenize yardımcı olabilecek PDF formatında bir dizi indirilebilir kılavuz."
+          }
+        },
+        {
+          "title": {
+            "en": "Podcast",
+            "de": "Podcast",
+            "es": "Podcast",
+            "fr": "Podcast",
+            "it": "Podcast",
+            "ja": "ポッドキャスト",
+            "pt": "Podcast",
+            "ru": "Подкаст",
+            "zh": "播客",
+            "vi": "Podcast",
+            "ko": "팟캐스트",
+            "tr": "Podcast"
+          },
+          "link": "/podcast/",
+          "text": {
+            "en": "Your weekly source of case-based stories about marketing growth from local businesses to global brands.",
+            "de": "Ihre wöchentliche Quelle für Fallberichte zum Wachstum dank Marketing, von lokalen Unternehmen bis hin zu globalen Marken.",
+            "es": "Fuente semanal de historias basadas en casos sobre el crecimiento de marketing de empresas locales a marcas internacionales.",
+            "fr": "Votre source hebdomadaire d'histoires basées sur des cas relatifs à la croissance du marketing, des entreprises locales aux marques mondiales.",
+            "it": "La tua fonte settimanale di storie basate su casi-studio relative ad attività locali diventate brand internazionali grazie al marketing.",
+            "ja": "地元の事業からグローバルブランドまでのマーケティングの成長に関する事例ベースの記事のウィークリーソース。",
+            "pt": "Sua fonte semanal de histórias baseadas em casos sobre crescimento de negócios locais a marcas internacionais por meio de marketing.",
+            "ru": "Ваш еженедельный источник вдохновения с конкретными примерами развития в сфере маркетинга от небольших компаний и международных брендов.",
+            "zh": "您每周都可以从中了解到有关本地企业通过营销成长为全球品牌的案例故事。",
+            "vi": "Nguồn câu chuyện của bạn dựa trên tình huống hàng tuần về việc tăng trưởng tiếp thị từ các doanh nghiệp địa phương đến thương hiệu toàn cầu.",
+            "ko": "지역 비즈니스부터 글로벌 브랜드에 이르기까지 마케팅 성장에 관한 사례 중심의 스토리를 매주 들어보세요.",
+            "tr": "Yerel işletmelerden küresel markalara kadar pazar büyümesiyle ilgili haftalık vaka temelli hikaye kaynağınız."
+          }
+        },
+        {
+          "title": {
+            "en": "Academy",
+            "de": "Academy",
+            "es": "Academia",
+            "fr": "Académie",
+            "it": "Academy",
+            "ja": "アカデミー",
+            "pt": "Academia",
+            "ru": "Академия",
+            "zh": "学院",
+            "vi": "Học viện",
+            "ko": "아카데미",
+            "tr": "Akademi"
+          },
+          "link": "/academy/",
+          "text": {
+            "en": "Get vital SEO skills, learn how to use our toolkits and get official certificates of your proficiency in SEO and example.",
+            "de": "Erwerben Sie wichtige SEO-Kompetenzen, erlernen Sie den Umgang mit unseren Toolkits, und erhalten Sie offizielle Zertifikate für Ihre SEO- und example-Kenntnisse.",
+            "es": "Aprende las habilidades esenciales de SEO, cómo usar nuestras herramientas y obtén certificados oficiales sobre tu dominio de SEO y example.",
+            "fr": "Procurez-vous les compétences vitales en SEO, apprenez à utiliser nos boîtes à outils et obtenez les certificats officiels attestant de vos compétences en matière de référencement et au niveau de example.",
+            "it": "Acquisisci capacità SEO fondamentali, impara come usare i nostri strumenti e consegui certificazioni ufficiali della tua competenza di SEO e example",
+            "ja": "重要なSEOスキルを身に付け、ツールキットの使用方法を学び、SEOとexampleの習熟度に関する公式証明書を取得してください",
+            "pt": "Aprenda competências fundamentais de SEO, saiba como usar nossos kits de ferramentas e receba certificados oficiais de proficiência em SEO e na example",
+            "ru": "Приобретите необходимые знания в области SEO, узнайте, как работать с нашими инструментами, и получите официальные сертификаты, подтверждающие ваши знания в SEO и example.",
+            "zh": "获得重要的 SEO 技能，了解如何使用我们的工具箱，并拿到 SEO 和 example 官方能力水平证书。",
+            "vi": "Thu thập các kỹ năng SEO quan trọng, học cách sử dụng các bộ công cụ của chúng tôi và nhận chứng chỉ chính thức minh chứng sự thành thạo của bạn trong SEO và example.",
+            "ko": "필수 SEO 기능을 사용하고, example 툴킷을 사용하는 방법을 배워보고, SEO와 example 숙련도를 증명하는 공식 인증을 받아 보세요.",
+            "tr": "Önemli SEO becerileri edinin, araç kitlerimizi nasıl kullanacağınızı öğrenin ve SEO ve example'taki yeterliliğinizi kanıtlayan resmi sertifikalar alın."
+          }
+        },
+        {
+          "title": {
+            "en": "Top Websites",
+            "de": "Top-Websites",
+            "es": "Principales sitios web",
+            "fr": "Principaux sites Web",
+            "it": "Siti web top",
+            "ja": "トップウェブサイト",
+            "pt": "Principais sites",
+            "ru": "Топовые веб-сайты",
+            "zh": "热门网站",
+            "vi": "Các trang web hàng đầu",
+            "ko": "상위 웹사이트",
+            "tr": "En İyi Web Siteleri"
+          },
+          "link": "/website/?from_page=header",
+          "text": {
+            "en": "Discover the most visited websites. Analyze their traffic and search rankings. Choose country or industry to find out who currently leads the market.",
+            "de": "Entdecken Sie die meistbesuchten Websites. Analysieren Sie ihren Traffic und ihre Suchmaschinen-Rankings. Wählen Sie Land oder Branche aus, um herauszufinden, wer derzeit Marktführer ist.",
+            "es": "Descubre los sitios web más visitados. Analiza su tráfico y ranking de búsquedas. Selecciona un país o sector para descubrir qué empresas lideran el mercado.",
+            "fr": "Découvrez les sites Web les plus visités. Analysez leur trafic et leur classement dans les résultats de recherche. Choisissez un pays ou un secteur pour découvrir qui domine actuellement le marché.",
+            "it": "Scopri i siti web più visitati. Analizza il loro traffico e i ranking nelle ricerche. Scegli paesi e settori per scoprire chi sono i leader del mercato.",
+            "ja": "最もアクセスの多いウェブサイトを発見。トラフィックや検索順位を分析します。国や業界を選択すると、現在市場をリードしている企業を見つけることができます。",
+            "pt": "Descubra os sites mais visitados. Analise o tráfego e rankings de pesquisa deles. Escolha o país e o setor para descobrir quem são os atuais líderes do mercado.",
+            "ru": "Находите самые посещаемые сайты. Анализируйте их трафик и позиции в поисковой выдаче. Выбирайте страну и отрасль, чтобы узнать, кто лидирует на рынке прямо сейчас.",
+            "zh": "发现访问量最大的网站。分析他们的流量和搜索排名。选择国家/地区或行业，了解目前市场的领先品牌。",
+            "vi": "Khám phá các trang web được truy cập nhiều nhất. Phân tích lưu lượng truy cập và thứ hạng tìm kiếm. Chọn quốc gia hoặc ngành để tìm ra ai hiện đang dẫn đầu thị trường.",
+            "ko": "방문자 수가 가장 많은 웹사이트를 파악하고 이러한 웹사이트의 트래픽과 검색 순위를 분석하세요. 어떤 국가와 업계가 최근 시장을 주도하고 있는지에 대해서도 알아보세요.",
+            "tr": "En çok ziyaret edilen web sitelerini keşfedin. Trafiklerinin durumunu ve arama sıralamalarını analiz edin. Şu anda piyasanın liderinin kim olduğunu öğrenmek için ülke veya sektör seçin."
+          }
+        }
+      ],
+      "horizontal": true
+    },
+    {
+      "title": {
+        "en": "Company",
+        "de": "Unternehmen",
+        "es": "Empresa",
+        "fr": "Société",
+        "it": "Azienda",
+        "ja": "企業",
+        "pt": "Empresa",
+        "ru": "О компании",
+        "zh": "公司",
+        "vi": "Công ty",
+        "ko": "회사 소개",
+        "tr": "Şirket"
+      },
+      "content": [
+        {
+          "title": {
+            "en": "About Us",
+            "de": "Über uns",
+            "es": "Quiénes somos",
+            "fr": "À notre propos",
+            "it": "Chi siamo",
+            "ja": "私たちについて",
+            "pt": "Sobre nós",
+            "ru": "О нас",
+            "zh": "关于我们",
+            "vi": "Về chúng tôi",
+            "ko": "소개",
+            "tr": "Hakkımızda"
+          },
+          "link": "/company/"
+        },
+        {
+          "title": {
+            "en": "Newsroom",
+            "de": "Newsroom",
+            "es": "Newsroom",
+            "fr": "Newsroom",
+            "it": "Newsroom",
+            "ja": "ニュースルーム",
+            "pt": "Newsroom",
+            "ru": "Новости example",
+            "zh": "公司新闻",
+            "vi": "Tin tức",
+            "ko": "뉴스룸",
+            "tr": "Haber Odası"
+          },
+          "link": "/company/newsroom/"
+        },
+        {
+          "title": {
+            "en": "Careers",
+            "de": "Karriere",
+            "es": "Empleo",
+            "fr": "Carrières",
+            "it": "Career",
+            "ja": "採用",
+            "pt": "Carreiras",
+            "ru": "Вакансии",
+            "zh": "招贤纳士",
+            "vi": "Cơ hội nghề nghiệp",
+            "ko": "채용",
+            "tr": "Kariyerler"
+          },
+          "link": "https://careers.example.com/"
+        },
+        {
+          "title": {
+            "en": "Success Stories",
+            "de": "Erfolgsberichte",
+            "fr": "Témoignages de réussite",
+            "it": "Storie di successo",
+            "pt": "Casos de sucesso",
+            "ru": "Истории успеха",
+            "ja": "成功事例",
+            "zh": "成功事例",
+            "vi": "Những câu chuyện thành công",
+            "ko": "성공 사례",
+            "tr": "Başarı Hikayeleri"
+          },
+          "link": "/company/stories/"
+        },
+        {
+          "title": {
+            "en": "Data Studies",
+            "de": "Datenstudien",
+            "es": "Estudios de datos",
+            "fr": "Études de données",
+            "it": "Studi sui dati",
+            "pt": "Estudos de dados",
+            "ru": "Наши исследования",
+            "ja": "データ研究",
+            "zh": "数据研究",
+            "vi": "Nghiên cứu dữ liệu",
+            "ko": "데이터 연구",
+            "tr": "Veri Çalışmaları"
+          },
+          "link": "/company/trusted-data-provider/"
+        },
+        {
+          "title": {
+            "en": "Affiliate Program",
+            "de": "Affiliate-Programm",
+            "es": "Programa de afiliados",
+            "fr": "Programme d'affiliation",
+            "it": "Affiliate program",
+            "ja": "アフィリエイト・プログラム",
+            "pt": "Programa de afiliados",
+            "ru": "Партнерская программа",
+            "zh": "联盟项目",
+            "vi": "Chương trình liên kết",
+            "ko": "제휴 프로그램",
+            "tr": "Ortaklık Programı"
+          },
+          "link": "https://app.impact.com/advertiser-advertiser-info/example.brand"
+        },
+        {
+          "title": {
+            "en": "For Investors",
+            "de": "Für Investoren",
+            "es": "Para inversores",
+            "fr": "Pour les investisseurs",
+            "it": "Per gli investitori",
+            "ja": "投資家向け",
+            "pt": "Para investidores",
+            "ru": "Инвесторам",
+            "zh": "投资者关系",
+            "vi": "Dành cho các nhà đầu tư",
+            "ko": "투자자용",
+            "tr": "Yatırımcılar için"
+          },
+          "link": "https://investors.example.com"
+        },
+        {
+          "title": {
+            "en": "Contacts",
+            "de": "Kontakte",
+            "es": "Contactos",
+            "fr": "Contacts",
+            "it": "Contatti",
+            "ja": "お問い合わせ",
+            "pt": "Contatos",
+            "ru": "Контакты",
+            "zh": "联系方式",
+            "vi": "Liên hệ",
+            "ko": "연락처",
+            "tr": "İletişimler"
+          },
+          "link": "/company/contacts/"
+        },
+        {
+          "title": {
+            "en": "Stats and Facts",
+            "de": "example in Zahlen",
+            "es": "example en cifras",
+            "fr": "example en chiffres",
+            "it": "example in cifre",
+            "pt": "example em números",
+            "ru": "Цифры и факты",
+            "ja": "数字で見る",
+            "zh": "数字成果",
+            "vi": "Số liệu thống kê example",
+            "ko": "통계 자료 및 수치",
+            "tr": "İstatistikler ve Bulgular"
+          },
+          "link": "/stats/"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "App Center"
+      },
+      "link": "/apps/"
+    },
+    {
+      "title": {
+        "en": "Extra tools",
+        "de": "Extra-Tools",
+        "es": "Herramientas extra",
+        "fr": "Outils extras",
+        "it": "Strumenti extra",
+        "ja": "その他のツール",
+        "pt": "Ferramentas extras",
+        "ru": "Еще",
+        "zh": "其他工具",
+        "vi": "Các công cụ bổ sung",
+        "ko": "추가 도구",
+        "tr": "Ekstra araçlar"
+      },
+      "content": [
+        {
+          "title": {
+            "en": "Content Marketplace",
+            "ko": "마켓플레이스",
+            "tr": "Content Marketplace"
+          },
+          "link": "/marketplace/"
+        },
+        {
+          "title": {
+            "en": "Content Outline Builder"
+          },
+          "link": "/outline-builder/"
+        },
+        {
+          "title": {
+            "en": "ImpactHero"
+          },
+          "link": "/impacthero/"
+        },
+        {
+          "title": {
+            "en": "Tools for Amazon"
+          },
+          "link": "https://lp.sellzone.com/amazon-marketing-tools.html?utm_source=example&utm_medium=extratools"
+        },
+        {
+          "title": {
+            "en": "Prowly"
+          },
+          "link": "https://prowly.com/?utm_source=example&utm_medium=extratools"
+        },
+        {
+          "title": {
+            "en": "SplitSignal"
+          },
+          "link": "/splitsignal/"
+        },
+        {
+          "title": {
+            "en": "Custom reports",
+            "de": "Benutzerdefinierte Berichte",
+            "es": "Informes personalizados",
+            "fr": "Rapports personnalisés",
+            "it": "Report personalizzato",
+            "pt": "Relatórios personalizados",
+            "ru": "Настраиваемые отчеты",
+            "ja": "カスタムレポート",
+            "zh": "定制报告",
+            "vi": "Báo cáo tùy chọn",
+            "ko": "맞춤 보고서",
+            "tr": "Özel Raporlar"
+          },
+          "link": "/company/custom_report/"
+        },
+        {
+          "title": {
+            "en": "Surround Sound"
+          },
+          "link": "/srm/"
+        },
+        {
+          "title": {
+            "en": "PageImprove"
+          },
+          "link": "/pageimprove/"
+        },
+        {
+          "title": {
+            "en": "Hire an agency",
+            "de": "Agentur beauftragen",
+            "es": "Contrate agencia",
+            "fr": "Recrutez une agence",
+            "it": "Assumi agenzia",
+            "ja": "エージェンシーを雇う",
+            "pt": "Contrate agência",
+            "ru": "Наймите агентство",
+            "zh": "聘请营销公司",
+            "vi": "Thuê agency",
+            "ko": "에이전시 찾기",
+            "tr": "Bir ajans kiralayın"
+          },
+          "link": "/agencies/"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "title": {
+        "en": "example"
+      },
+      "content": [
+        {
+          "title": {
+            "en": "Features",
+            "de": "Funktionen",
+            "es": "Funciones",
+            "fr": "Fonctionnalités",
+            "it": "Funzionalità",
+            "ja": "機能",
+            "pt": "Funções",
+            "ru": "Возможности",
+            "zh": "服务特色",
+            "ko": "기능",
+            "vi": "Tính năng",
+            "tr": "Özellikler"
+          },
+          "link": "/features/"
+        },
+        {
+          "title": {
+            "en": "Pricing",
+            "de": "Preise",
+            "es": "Precios",
+            "fr": "Tarifs",
+            "it": "Prezzi",
+            "ja": "価格",
+            "pt": "Preços",
+            "ru": "Тарифы",
+            "zh": "价格",
+            "ko": "요금제",
+            "vi": "Giá",
+            "tr": "Fiyatlandırma"
+          },
+          "link": "/prices/"
+        },
+        {
+          "title": {
+            "en": "Success Stories",
+            "de": "Erfolgsberichte",
+            "fr": "Témoignages de réussite",
+            "it": "Storie di successo",
+            "ja": "成功事例",
+            "pt": "Casos de sucesso",
+            "ru": "Истории успеха",
+            "zh": "成功事例",
+            "ko": "성공 사례",
+            "vi": "Câu chuyên thành công",
+            "tr": "Başarı Hikayeleri"
+          },
+          "link": "/company/stories/"
+        },
+        {
+          "title": {
+            "en": "Stats and Facts",
+            "de": "example in Zahlen",
+            "es": "example en cifras",
+            "fr": "example en chiffres",
+            "it": "example in cifre",
+            "pt": "example em números",
+            "ru": "Цифры и факты",
+            "ja": "数字で見る",
+            "zh": "数字成果",
+            "ko": "통계 자료 및 수치",
+            "vi": "Số liệu thống kê example",
+            "tr": "İstatistikler ve Bulgular"
+          },
+          "link": "/stats/"
+        },
+        {
+          "title": {
+            "en": "Data Studies",
+            "de": "Datenstudien",
+            "es": "Estudios de datos",
+            "fr": "Études de données",
+            "it": "Studi sui dati",
+            "pt": "Estudos de dados",
+            "ru": "Наши исследования",
+            "ja": "データ研究",
+            "zh": "数据研究",
+            "ko": "데이터 연구",
+            "vi": "Nghiên cứu dữ liệu",
+            "tr": "Veri Çalışmaları"
+          },
+          "link": "/company/trusted-data-provider/"
+        },
+        {
+          "title": {
+            "en": "News",
+            "de": "Neuigkeiten",
+            "es": "Noticias",
+            "fr": "Actualités",
+            "it": "Notizie",
+            "ja": "ニュース",
+            "pt": "Notícias",
+            "ru": "Новости",
+            "zh": "新闻",
+            "ko": "뉴스",
+            "vi": "Tin tức",
+            "tr": "Haberler"
+          },
+          "link": "/news/"
+        },
+        {
+          "title": {
+            "en": "Custom Report",
+            "de": "Benutzerdefinierter Bericht",
+            "es": "Informe personalizado",
+            "fr": "Rapport personnalisé",
+            "it": "Report personalizzato",
+            "ja": "カスタムレポート",
+            "pt": "Relatório personalizado",
+            "ru": "Настраиваемый отчет",
+            "zh": "定制报告",
+            "ko": "맞춤 보고서",
+            "vi": "Báo cáo tùy chọn",
+            "tr": "Özel Rapor"
+          },
+          "link": "/company/custom_report/"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "More tools",
+        "de": "Extra-Tools",
+        "es": "Herramientas extra",
+        "fr": "Outils extras",
+        "it": "Strumenti extra",
+        "ja": "その他のツール",
+        "pt": "Ferramentas extras",
+        "ru": "Другие инструменты",
+        "zh": "其他工具",
+        "ko": "추가 도구",
+        "vi": "Thêm các công cụ",
+        "tr": "Daha fazla araç"
+      },
+      "content": [
+        {
+          "title": {
+            "en": "Analytics Reports",
+            "de": "Analytics-Berichte",
+            "es": "Informes de analíticas",
+            "fr": "Rapports d'analyse",
+            "it": "Report analisi",
+            "ja": "分析レポート",
+            "pt": "Relatórios analíticos",
+            "ru": "Аналитические отчеты",
+            "zh": "分析报告",
+            "ko": "분석 보고서",
+            "vi": "Báo cáo phân tích",
+            "tr": "Analytics Raporları"
+          },
+          "link": "/info/ebay.com"
+        },
+        {
+          "title": {
+            "en": "Projects",
+            "de": "Projekte",
+            "es": "Proyectos",
+            "fr": "Projets",
+            "it": "Progetti",
+            "ja": "プロジェクト",
+            "pt": "Projetos",
+            "ru": "Проекты",
+            "zh": "项目",
+            "ko": "프로젝트",
+            "vi": "Dự án",
+            "tr": "Projeler"
+          },
+          "link": "/projects/"
+        },
+        {
+          "title": {
+            "en": "Content Marketplace"
+          },
+          "link": "/marketplace/"
+        },
+        {
+          "title": {
+            "en": "Agency Partners",
+            "de": "Agenturpartner",
+            "es": "Agencia Partner",
+            "fr": "Agence partenaire",
+            "it": "Agency Partner",
+            "ja": "Agency Partners",
+            "pt": "Agência parceira",
+            "ru": "Agency Partners",
+            "zh": "Agency Partners",
+            "ko": "에이전시 파트너",
+            "vi": "Agency Partners",
+            "tr": "Agency Partners"
+          },
+          "link": "/agencies/"
+        },
+        {
+          "title": {
+            "en": "Affiliate Program",
+            "de": "Affiliate-Programm",
+            "es": "Programa de afiliados",
+            "fr": "Programme d'affiliation",
+            "it": "Affiliate program",
+            "ja": "アフィリエイト・プログラム",
+            "pt": "Programa de afiliados",
+            "ru": "Партнерская программа",
+            "zh": "联盟项目",
+            "ko": "제휴 프로그램",
+            "vi": "Chương trình liên kết",
+            "tr": "Ortaklık Programı"
+          },
+          "link": "https://app.impact.com/advertiser-advertiser-info/example.brand"
+        },
+        {
+          "title": {
+            "en": "SEOquake"
+          },
+          "link": "https://www.seoquake.com/"
+        },
+        {
+          "title": {
+            "en": "Sensor"
+          },
+          "link": "/sensor/"
+        },
+        {
+          "title": {
+            "en": "Tools for Amazon"
+          },
+          "link": "https://www.sellzone.com/?utm_source=example&utm_medium=footer"
+        },
+        {
+          "title": {
+            "en": "Prowly"
+          },
+          "link": "https://prowly.com/?utm_source=example&utm_medium=footer"
+        },
+        {
+          "title": {
+            "en": "App Center"
+          },
+          "link": "/apps/"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Company",
+        "de": "Unternehmen",
+        "es": "Empresa",
+        "fr": "Société",
+        "it": "Azienda",
+        "ja": "企業",
+        "pt": "Empresa",
+        "ru": "О компании",
+        "zh": "公司",
+        "ko": "회사 소개",
+        "vi": "Công ty",
+        "tr": "Şirket"
+      },
+      "content": [
+        {
+          "title": {
+            "en": "About Us",
+            "de": "Über uns",
+            "es": "Quiénes somos",
+            "fr": "À notre propos",
+            "it": "Chi siamo",
+            "ja": "私たちについて",
+            "pt": "Sobre nós",
+            "ru": "О нас",
+            "zh": "关于我们",
+            "ko": "회사 정보",
+            "vi": "Về chúng tôi",
+            "tr": "Hakkımızda"
+          },
+          "link": "/company/"
+        },
+        {
+          "title": {
+            "en": "Newsroom",
+            "de": "Newsroom",
+            "es": "Newsroom",
+            "fr": "Newsroom",
+            "it": "Newsroom",
+            "ja": "ニュースルーム",
+            "pt": "Newsroom",
+            "ru": "Новости компании",
+            "zh": "公司新闻",
+            "ko": "뉴스룸",
+            "vi": "Tin tức",
+            "tr": "Haber Odası"
+          },
+          "link": "/company/newsroom/"
+        },
+        {
+          "title": {
+            "en": "Partners",
+            "de": "Partner",
+            "es": "Colaboradores",
+            "fr": "Partenaires",
+            "it": "Partner",
+            "ja": "パートナー",
+            "pt": "Parceiros",
+            "ru": "Наши партнеры",
+            "zh": "合作伙伴",
+            "ko": "파트너",
+            "vi": "Đối tác",
+            "tr": "Ortaklar"
+          },
+          "link": "/company/partners/"
+        },
+        {
+          "title": {
+            "en": "Legal Info",
+            "de": "Rechtliche Infos",
+            "es": "Información legal",
+            "fr": "Mentions légales",
+            "it": "Informazioni legali",
+            "ja": "法律的な情報",
+            "pt": "Informações jurídicas",
+            "ru": "Правовая информация",
+            "zh": "法律信息",
+            "ko": "법률 정보",
+            "vi": "Thông tin pháp lý",
+            "tr": "Yasal Bilgi"
+          },
+          "link": "/company/legal/"
+        },
+        {
+          "title": {
+            "en": "Privacy Policy",
+            "de": "Datenschutzrichtlinie",
+            "es": "Política de privacidad",
+            "fr": "Politique de confidentialité",
+            "it": "Informativa sulla privacy",
+            "ja": "個人情報保護ポリシー",
+            "pt": "Política de privacidade",
+            "ru": "Политика конфиденциальности",
+            "zh": "隐私政策",
+            "ko": "개인정보처리방침",
+            "vi": "Chính sách bảo mật",
+            "tr": "Gizlilik Politikası"
+          },
+          "link": "/company/legal/privacy-policy/"
+        },
+        {
+          "title": {
+            "en": "Cookie Settings",
+            "de": "Cookie-Einstellungen",
+            "es": "Configuración de cookies",
+            "fr": "Paramètres des cookies",
+            "it": "Impostazioni sui cookie",
+            "ja": "Cookie設定",
+            "pt": "Configurações dos cookies",
+            "ru": "Настройки cookie",
+            "zh": "Cookie 设置",
+            "tr": "Çerez Ayarı",
+            "vi": "Tùy chỉnh Cookie",
+            "ko": "쿠키 설정"
+          },
+          "link": "javascript:window.showConsentSettings();"
+        },
+        {
+          "title": {
+            "en": "Security Info",
+            "de": "Sicherheitsinformationen",
+            "es": "Información de seguridad",
+            "fr": "Infos sur la sécurité",
+            "it": "Sicurezza",
+            "ja": "セキュリティ情報",
+            "pt": "Informações de segurança",
+            "ru": "Безопасность",
+            "zh": "安全信息",
+            "ko": "보안 정보",
+            "vi": "Thông tin bảo mật",
+            "tr": "Güvenlik Bilgisi"
+          },
+          "link": "/company/security/"
+        },
+        {
+          "title": {
+            "en": "For Investors",
+            "de": "Für Investoren",
+            "es": "Para inversores",
+            "fr": "Pour les investisseurs",
+            "it": "Per gli investitori",
+            "ja": "投資家向け",
+            "pt": "Para investidores",
+            "ru": "Инвесторам",
+            "zh": "投资者关系",
+            "vi": "Đối với các nhà đầu tư",
+            "ko": "투자자용",
+            "tr": "Yatırımcılar için"
+          },
+          "link": "https://investors.example.com"
+        },
+        {
+          "title": {
+            "en": "Contact Us",
+            "de": "Kontakt",
+            "es": "Contacto",
+            "fr": "Contacts",
+            "it": "Contattaci",
+            "ja": "お問い合わせ",
+            "pt": "Fale conosco",
+            "ru": "Контакты",
+            "zh": "联系我们",
+            "ko": "연락처",
+            "vi": "Liên hệ chúng tôi",
+            "tr": "Bizimle iletişime geçin"
+          },
+          "link": "/company/contacts/"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Help",
+        "de": "Hilfe",
+        "es": "Ayuda",
+        "fr": "Aide",
+        "it": "Guida",
+        "ja": "ヘルプ",
+        "pt": "Ajuda",
+        "ru": "Справка",
+        "zh": "帮助",
+        "ko": "지원",
+        "vi": "Hỗ trợ",
+        "tr": "Yardım"
+      },
+      "content": [
+        {
+          "title": {
+            "en": "Knowledge Base",
+            "de": "Wissen",
+            "es": "Conocimiento",
+            "fr": "Connaissances",
+            "it": "Conoscenza",
+            "ja": "ナレッジベース",
+            "pt": "Conhecimento",
+            "ru": "База знаний",
+            "zh": "教程",
+            "ko": "지식 베이스",
+            "vi": "Cơ sở kiến thức",
+            "tr": "Bilgi Tabanı"
+          },
+          "link": "/kb/"
+        },
+        {
+          "title": {
+            "en": "Academy",
+            "de": "Akademie",
+            "es": "Academia",
+            "fr": "Académie",
+            "it": "Academy",
+            "ja": "アカデミー",
+            "pt": "Academia",
+            "ru": "Академия",
+            "zh": "学院",
+            "ko": "아카데미",
+            "vi": "Học viện",
+            "tr": "Akademi"
+          },
+          "link": "/academy/"
+        },
+        {
+          "title": {
+            "en": "example API"
+          },
+          "link": "/api-documentation/"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Community",
+        "de": "Community",
+        "es": "Comunidad",
+        "fr": "Communauté",
+        "it": "Community",
+        "ja": "コミュニティ",
+        "pt": "Comunidade",
+        "ru": "Сообщество",
+        "zh": "社区",
+        "ko": "커뮤니티",
+        "vi": "Cộng đồng",
+        "tr": "Topluluk"
+      },
+      "content": [
+        {
+          "title": {
+            "en": "example Blog",
+            "de": "example-Blog",
+            "es": "Blog example",
+            "fr": "Blog example",
+            "it": "Blog example",
+            "ja": "exampleブログ",
+            "pt": "Blog da example",
+            "ru": "Блог example",
+            "zh": "example 博客",
+            "ko": "example 블로그",
+            "vi": "example Blog",
+            "tr": "example Blog"
+          },
+          "link": "/blog/"
+        },
+        {
+          "title": {
+            "en": "Webinars",
+            "de": "Webinare",
+            "es": "Webinars",
+            "fr": "Webinaires",
+            "it": "Webinar",
+            "ja": "ウェビナー",
+            "pt": "Webinários",
+            "ru": "Вебинары",
+            "zh": "网络研讨会",
+            "ko": "웨비나",
+            "vi": "Hội thảo trực tuyến",
+            "tr": "Webinars"
+          },
+          "link": "/webinars/"
+        },
+        {
+          "title": {
+            "en": "Events",
+            "de": "Events",
+            "es": "Eventos",
+            "fr": "Événements",
+            "it": "Eventi",
+            "ja": "イベント",
+            "pt": "Eventos",
+            "ru": "События",
+            "zh": "活动",
+            "ko": "이벤트",
+            "vi": "Sự kiện",
+            "tr": "Etkinlikler"
+          },
+          "link": "/blog/the-ultimate-calendar-of-digital-marketing-events/"
+        }
+      ]
+    }
+  ]
+}

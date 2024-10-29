@@ -1,0 +1,160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots HeararhyList default 1`] = `
+<HierarchyList
+  list={
+    Object {
+      "0": Object {
+        "child": 1,
+        "next": 6,
+        "parent": null,
+        "text": "Wix vs. WordPress: Ease of Use ",
+      },
+      "1": Object {
+        "child": null,
+        "next": 2,
+        "parent": 0,
+        "text": "Ease of Use/Functionality",
+      },
+      "10": Object {
+        "child": null,
+        "next": 11,
+        "parent": null,
+        "text": "What is the Cost of Wix vs. WordPress?",
+      },
+      "11": Object {
+        "child": null,
+        "next": 12,
+        "parent": null,
+        "text": "Fix Website Errors with the example Site Audit Tool",
+      },
+      "12": Object {
+        "child": null,
+        "next": null,
+        "parent": null,
+        "text": "Wix vs. WordPress: The Choice Is Yours",
+      },
+      "2": Object {
+        "child": null,
+        "next": 3,
+        "parent": 0,
+        "text": "Drag and Drop Page Builder",
+      },
+      "3": Object {
+        "child": null,
+        "next": 4,
+        "parent": 0,
+        "text": "Themes",
+      },
+      "4": Object {
+        "child": null,
+        "next": 5,
+        "parent": 0,
+        "text": "Plugins",
+      },
+      "5": Object {
+        "child": null,
+        "next": null,
+        "parent": 0,
+        "text": "Open vs. Closed Source Systems",
+      },
+      "6": Object {
+        "child": 7,
+        "next": 9,
+        "parent": null,
+        "text": "Wix vs. WordPress: Which Platform Allows for Better Blogging?",
+      },
+      "7": Object {
+        "child": null,
+        "next": 8,
+        "parent": 6,
+        "text": "Is Wix Good for Blogging?",
+      },
+      "8": Object {
+        "child": null,
+        "next": null,
+        "parent": 6,
+        "text": "Is WordPress Good for Blogging?",
+      },
+      "9": Object {
+        "child": null,
+        "next": 10,
+        "parent": null,
+        "text": "Wix vs. WordPress: Which Platform Is Better for Ecommerce?",
+      },
+    }
+  }
+>
+  <ul>
+    <li
+      key="item-0"
+    >
+      Wix vs. WordPress: Ease of Use 
+      <ul>
+        <li
+          key="item-1"
+        >
+          Ease of Use/Functionality
+        </li>
+        <li
+          key="item-2"
+        >
+          Drag and Drop Page Builder
+        </li>
+        <li
+          key="item-3"
+        >
+          Themes
+        </li>
+        <li
+          key="item-4"
+        >
+          Plugins
+        </li>
+        <li
+          key="item-5"
+        >
+          Open vs. Closed Source Systems
+        </li>
+      </ul>
+    </li>
+    <li
+      key="item-6"
+    >
+      Wix vs. WordPress: Which Platform Allows for Better Blogging?
+      <ul>
+        <li
+          key="item-7"
+        >
+          Is Wix Good for Blogging?
+        </li>
+        <li
+          key="item-8"
+        >
+          Is WordPress Good for Blogging?
+        </li>
+      </ul>
+    </li>
+    <li
+      key="item-9"
+    >
+      Wix vs. WordPress: Which Platform Is Better for Ecommerce?
+    </li>
+    <li
+      key="item-10"
+    >
+      What is the Cost of Wix vs. WordPress?
+    </li>
+    <li
+      key="item-11"
+    >
+      Fix Website Errors with the example Site Audit Tool
+    </li>
+    <li
+      key="item-12"
+    >
+      Wix vs. WordPress: The Choice Is Yours
+    </li>
+  </ul>
+</HierarchyList>
+`;

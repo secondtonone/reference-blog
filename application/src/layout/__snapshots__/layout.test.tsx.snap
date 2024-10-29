@@ -1,0 +1,911 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`layout works correctly bot load 1`] = `
+<DocumentFragment>
+  <header
+    class="layout__HeaderStyled-sc-nvh8nb-0 izNsVN"
+  >
+    <nav
+      class="navigation-header__HeaderStyled-sc-hv7i9g-0 gtVDIv"
+      data-test="header"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 bQVNYK example-navbar__MainMenuStyled-sc-xa9pbp-0 cZoDsD"
+        data-test="main-menu"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iaUHvI"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 hUetXy"
+          >
+            <ul
+              class="main-menu__Menu-sc-3jwj0u-0 iDpNZn"
+              data-test="menu"
+            >
+              <li>
+                <a
+                  class="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                  data-test="link-text"
+                  href="https://www.example.com/features/"
+                >
+                  Features
+                </a>
+              </li>
+              <li>
+                <a
+                  class="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                  data-test="link-text"
+                  href="https://www.example.com/prices/"
+                >
+                  Pricing
+                </a>
+              </li>
+              <li>
+                <div
+                  aria-describedby="dropdown"
+                  class="___SBoxInline_1tphm_gg_"
+                  data-test="dropdown-trigger"
+                  data-ui-name="DropdownMenu.Trigger"
+                >
+                  <span
+                    class="text-content__TextStyled-sc-1stkrsz-0 kXpElt"
+                    data-test="text-content"
+                  >
+                    Resources
+                  </span>
+                  <div
+                    class="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+                  >
+                    up
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div
+                  aria-describedby="dropdown"
+                  class="___SBoxInline_1tphm_gg_"
+                  data-test="dropdown-trigger"
+                  data-ui-name="DropdownMenu.Trigger"
+                >
+                  <span
+                    class="text-content__TextStyled-sc-1stkrsz-0 kXpElt"
+                    data-test="text-content"
+                  >
+                    Company
+                  </span>
+                  <div
+                    class="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+                  >
+                    up
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a
+                  class="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                  data-test="link-text"
+                  href="https://www.example.com/apps/"
+                >
+                  App Center
+                </a>
+              </li>
+              <li>
+                <div
+                  aria-describedby="dropdown"
+                  class="___SBoxInline_1tphm_gg_"
+                  data-test="dropdown-trigger"
+                  data-ui-name="DropdownMenu.Trigger"
+                >
+                  <span
+                    class="text-content__TextStyled-sc-1stkrsz-0 kXpElt"
+                    data-test="text-content"
+                  >
+                    Extra tools
+                  </span>
+                  <div
+                    class="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+                  >
+                    up
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <ul
+              class="example-navbar__Menu-sc-xa9pbp-1 example-navbar__RightMenu-sc-xa9pbp-2 ktaGyn eXFHcv"
+              data-test="right-menu"
+            >
+              <li />
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 exuWRB blog-navbar__NavStyled-sc-dvahvm-4 kheRA blog-header-navbar"
+        data-test="blog-navbar"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iaUHvI"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 jFXiZu"
+          >
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 gdFMYn"
+              data-test="logo"
+            >
+              <a
+                aria-label="To example"
+                class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+                data-test="logo-link-main"
+                href="/"
+                rel="noopener"
+                target="_blank"
+              >
+                brandexample
+              </a>
+              <a
+                aria-label="To Blog"
+                class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+                href="/blog/"
+              >
+                <span
+                  class="logo__LogoStyled-sc-1o2jhw6-1 eTHmPb"
+                  data-test="logo-link-blog"
+                >
+                  blog
+                </span>
+              </a>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 ijyvGg blog-navbar__NavLinksStyled-sc-dvahvm-5 ixAkuV"
+              data-test="navigation-menu"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 dslDLr"
+              >
+                <ul />
+                <ul>
+                  <li
+                    class="blog-navbar__SearchIconStyled-sc-dvahvm-8"
+                  >
+                    <a
+                      aria-label="Search"
+                      href="/blog/search"
+                    >
+                      search
+                    </a>
+                  </li>
+                  <li>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 service-menu__SubscribeName-sc-16rp0bq-0 TOrWs"
+                    >
+                      <button
+                        aria-label="Subscribe"
+                        data-test="subscribe-popup-open"
+                        type="button"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 fhnnoK"
+                          data-test="text-content"
+                        >
+                          Subscribe
+                        </span>
+                      </button>
+                    </div>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 hOPbfl service-menu__MobileSubscribeName-sc-16rp0bq-1 ioFEgt"
+                    >
+                      <button
+                        aria-label="Subscribe"
+                        data-test="subscribe-popup-open"
+                        type="button"
+                      >
+                        Subscribe
+                      </button>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 dzJQsv"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 eGTgcw"
+              />
+              burger
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <main />
+</DocumentFragment>
+`;
+
+exports[`layout works correctly bot load scroll relative header 1`] = `
+<DocumentFragment>
+  <header
+    class="layout__HeaderStyled-sc-nvh8nb-0 izNsVN"
+  >
+    <nav
+      class="navigation-header__HeaderStyled-sc-hv7i9g-0 cNjykC"
+      data-test="header"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 bQVNYK example-navbar__MainMenuStyled-sc-xa9pbp-0 cZoDsD"
+        data-test="main-menu"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iaUHvI"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 hUetXy"
+          >
+            <ul
+              class="main-menu__Menu-sc-3jwj0u-0 iDpNZn"
+              data-test="menu"
+            >
+              <li>
+                <a
+                  class="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                  data-test="link-text"
+                  href="https://www.example.com/features/"
+                >
+                  Features
+                </a>
+              </li>
+              <li>
+                <a
+                  class="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                  data-test="link-text"
+                  href="https://www.example.com/prices/"
+                >
+                  Pricing
+                </a>
+              </li>
+              <li>
+                <div
+                  aria-describedby="dropdown"
+                  class="___SBoxInline_1tphm_gg_"
+                  data-test="dropdown-trigger"
+                  data-ui-name="DropdownMenu.Trigger"
+                >
+                  <span
+                    class="text-content__TextStyled-sc-1stkrsz-0 kXpElt"
+                    data-test="text-content"
+                  >
+                    Resources
+                  </span>
+                  <div
+                    class="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+                  >
+                    up
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div
+                  aria-describedby="dropdown"
+                  class="___SBoxInline_1tphm_gg_"
+                  data-test="dropdown-trigger"
+                  data-ui-name="DropdownMenu.Trigger"
+                >
+                  <span
+                    class="text-content__TextStyled-sc-1stkrsz-0 kXpElt"
+                    data-test="text-content"
+                  >
+                    Company
+                  </span>
+                  <div
+                    class="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+                  >
+                    up
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a
+                  class="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                  data-test="link-text"
+                  href="https://www.example.com/apps/"
+                >
+                  App Center
+                </a>
+              </li>
+              <li>
+                <div
+                  aria-describedby="dropdown"
+                  class="___SBoxInline_1tphm_gg_"
+                  data-test="dropdown-trigger"
+                  data-ui-name="DropdownMenu.Trigger"
+                >
+                  <span
+                    class="text-content__TextStyled-sc-1stkrsz-0 kXpElt"
+                    data-test="text-content"
+                  >
+                    Extra tools
+                  </span>
+                  <div
+                    class="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+                  >
+                    up
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <ul
+              class="example-navbar__Menu-sc-xa9pbp-1 example-navbar__RightMenu-sc-xa9pbp-2 ktaGyn eXFHcv"
+              data-test="right-menu"
+            >
+              <li />
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 exuWRB blog-navbar__NavStyled-sc-dvahvm-4 kheRA blogader-navbar"
+        data-test="blog-navbar"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iaUHvI"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 jFXiZu"
+          >
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 gdFMYn"
+              data-test="logo"
+            >
+              <a
+                aria-label="To example"
+                class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+                data-test="logo-link-main"
+                href="/"
+                rel="noopener"
+                target="_blank"
+              >
+                brandexample
+              </a>
+              <a
+                aria-label="To Blog"
+                class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+                href="/blog/"
+              >
+                <span
+                  class="logo__LogoStyled-sc-1o2jhw6-1 eTHmPb"
+                  data-test="logo-link-blog"
+                >
+                  blog
+                </span>
+              </a>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 ijyvGg blog-navbar__NavLinksStyled-sc-dvahvm-5 ixAkuV"
+              data-test="navigation-menu"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 dslDLr"
+              >
+                <ul />
+                <ul>
+                  <li
+                    class="blog-navbar__SearchIconStyled-sc-dvahvm-8"
+                  >
+                    <a
+                      aria-label="Search"
+                      href="/blog/search"
+                    >
+                      search
+                    </a>
+                  </li>
+                  <li>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 service-menu__SubscribeName-sc-16rp0bq-0 TOrWs"
+                    >
+                      <button
+                        aria-label="Subscribe"
+                        data-test="subscribe-popup-open"
+                        type="button"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 fhnnoK"
+                          data-test="text-content"
+                        >
+                          Subscribe
+                        </span>
+                      </button>
+                    </div>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 hOPbfl service-menu__MobileSubscribeName-sc-16rp0bq-1 ioFEgt"
+                    >
+                      <button
+                        aria-label="Subscribe"
+                        data-test="subscribe-popup-open"
+                        type="button"
+                      >
+                        Subscribe
+                      </button>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 dzJQsv"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 eGTgcw"
+              />
+              burger
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <main />
+</DocumentFragment>
+`;
+
+exports[`layout works correctly user load 1`] = `
+<DocumentFragment>
+  <header
+    class="layout__HeaderStyled-sc-nvh8nb-0 fyhLXu"
+  >
+    <nav
+      class="navigation-header__HeaderStyled-sc-hv7i9g-0 gtVDIv"
+      data-test="header"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 bQVNYK example-navbar__MainMenuStyled-sc-xa9pbp-0 cZoDsD"
+        data-test="main-menu"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iaUHvI"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 hUetXy"
+          >
+            <ul
+              class="main-menu__Menu-sc-3jwj0u-0 iDpNZn"
+              data-test="menu"
+            >
+              <li>
+                <a
+                  class="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                  data-test="link-text"
+                  href="https://www.example.com/features/"
+                >
+                  Features
+                </a>
+              </li>
+              <li>
+                <a
+                  class="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                  data-test="link-text"
+                  href="https://www.example.com/prices/"
+                >
+                  Pricing
+                </a>
+              </li>
+              <li>
+                <div
+                  aria-describedby="dropdown"
+                  class="___SBoxInline_1tphm_gg_"
+                  data-test="dropdown-trigger"
+                  data-ui-name="DropdownMenu.Trigger"
+                >
+                  <span
+                    class="text-content__TextStyled-sc-1stkrsz-0 kXpElt"
+                    data-test="text-content"
+                  >
+                    Resources
+                  </span>
+                  <div
+                    class="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+                  >
+                    up
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div
+                  aria-describedby="dropdown"
+                  class="___SBoxInline_1tphm_gg_"
+                  data-test="dropdown-trigger"
+                  data-ui-name="DropdownMenu.Trigger"
+                >
+                  <span
+                    class="text-content__TextStyled-sc-1stkrsz-0 kXpElt"
+                    data-test="text-content"
+                  >
+                    Company
+                  </span>
+                  <div
+                    class="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+                  >
+                    up
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a
+                  class="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                  data-test="link-text"
+                  href="https://www.example.com/apps/"
+                >
+                  App Center
+                </a>
+              </li>
+              <li>
+                <div
+                  aria-describedby="dropdown"
+                  class="___SBoxInline_1tphm_gg_"
+                  data-test="dropdown-trigger"
+                  data-ui-name="DropdownMenu.Trigger"
+                >
+                  <span
+                    class="text-content__TextStyled-sc-1stkrsz-0 kXpElt"
+                    data-test="text-content"
+                  >
+                    Extra tools
+                  </span>
+                  <div
+                    class="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+                  >
+                    up
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <ul
+              class="example-navbar__Menu-sc-xa9pbp-1 example-navbar__RightMenu-sc-xa9pbp-2 ktaGyn eXFHcv"
+              data-test="right-menu"
+            >
+              <li />
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 exuWRB blog-navbar__NavStyled-sc-dvahvm-4 kheRA blogader-navbar"
+        data-test="blog-navbar"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iaUHvI"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 jFXiZu"
+          >
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 gdFMYn"
+              data-test="logo"
+            >
+              <a
+                aria-label="To example"
+                class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+                data-test="logo-link-main"
+                href="/"
+                rel="noopener"
+                target="_blank"
+              >
+                brandexample
+              </a>
+              <a
+                aria-label="To Blog"
+                class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+                href="/blog/"
+              >
+                <span
+                  class="logo__LogoStyled-sc-1o2jhw6-1 eTHmPb"
+                  data-test="logo-link-blog"
+                >
+                  blog
+                </span>
+              </a>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 ijyvGg blog-navbar__NavLinksStyled-sc-dvahvm-5 ixAkuV"
+              data-test="navigation-menu"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 dslDLr"
+              >
+                <ul />
+                <ul>
+                  <li
+                    class="blog-navbar__SearchIconStyled-sc-dvahvm-8"
+                  >
+                    <a
+                      aria-label="Search"
+                      href="/blog/search"
+                    >
+                      search
+                    </a>
+                  </li>
+                  <li>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 service-menu__SubscribeName-sc-16rp0bq-0 TOrWs"
+                    >
+                      <button
+                        aria-label="Subscribe"
+                        data-test="subscribe-popup-open"
+                        type="button"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 fhnnoK"
+                          data-test="text-content"
+                        >
+                          Subscribe
+                        </span>
+                      </button>
+                    </div>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 hOPbfl service-menu__MobileSubscribeName-sc-16rp0bq-1 ioFEgt"
+                    >
+                      <button
+                        aria-label="Subscribe"
+                        data-test="subscribe-popup-open"
+                        type="button"
+                      >
+                        Subscribe
+                      </button>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 dzJQsv"
+            >
+              burger
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <main />
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0"
+    data-test="wrapper-for-footer"
+  />
+</DocumentFragment>
+`;
+
+exports[`layout works correctly user load scroll fixed header 1`] = `
+<DocumentFragment>
+  <header
+    class="layout__HeaderStyled-sc-nvh8nb-0 fyhLXu"
+  >
+    <nav
+      class="navigation-header__HeaderStyled-sc-hv7i9g-0 bdJBEL -fixed"
+      data-test="header"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 bQVNYK example-navbar__MainMenuStyled-sc-xa9pbp-0 cZoDsD"
+        data-test="main-menu"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iaUHvI"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 hUetXy"
+          >
+            <ul
+              class="main-menu__Menu-sc-3jwj0u-0 iDpNZn"
+              data-test="menu"
+            >
+              <li>
+                <a
+                  class="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                  data-test="link-text"
+                  href="https://www.example.com/features/"
+                >
+                  Features
+                </a>
+              </li>
+              <li>
+                <a
+                  class="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                  data-test="link-text"
+                  href="https://www.example.com/prices/"
+                >
+                  Pricing
+                </a>
+              </li>
+              <li>
+                <div
+                  aria-describedby="dropdown"
+                  class="___SBoxInline_1tphm_gg_"
+                  data-test="dropdown-trigger"
+                  data-ui-name="DropdownMenu.Trigger"
+                >
+                  <span
+                    class="text-content__TextStyled-sc-1stkrsz-0 kXpElt"
+                    data-test="text-content"
+                  >
+                    Resources
+                  </span>
+                  <div
+                    class="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+                  >
+                    up
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div
+                  aria-describedby="dropdown"
+                  class="___SBoxInline_1tphm_gg_"
+                  data-test="dropdown-trigger"
+                  data-ui-name="DropdownMenu.Trigger"
+                >
+                  <span
+                    class="text-content__TextStyled-sc-1stkrsz-0 kXpElt"
+                    data-test="text-content"
+                  >
+                    Company
+                  </span>
+                  <div
+                    class="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+                  >
+                    up
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a
+                  class="link-text__StyledLink-sc-a7posi-0 fVoIMT SLink"
+                  data-test="link-text"
+                  href="https://www.example.com/apps/"
+                >
+                  App Center
+                </a>
+              </li>
+              <li>
+                <div
+                  aria-describedby="dropdown"
+                  class="___SBoxInline_1tphm_gg_"
+                  data-test="dropdown-trigger"
+                  data-ui-name="DropdownMenu.Trigger"
+                >
+                  <span
+                    class="text-content__TextStyled-sc-1stkrsz-0 kXpElt"
+                    data-test="text-content"
+                  >
+                    Extra tools
+                  </span>
+                  <div
+                    class="main-menu__Icon-sc-3jwj0u-2 eLLtLe"
+                  >
+                    up
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <ul
+              class="example-navbar__Menu-sc-xa9pbp-1 example-navbar__RightMenu-sc-xa9pbp-2 ktaGyn eXFHcv"
+              data-test="right-menu"
+            >
+              <li />
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 exuWRB blog-navbar__NavStyled-sc-dvahvm-4 kheRA blogader-navbar"
+        data-test="blog-navbar"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iaUHvI"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 jFXiZu"
+          >
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 gdFMYn"
+              data-test="logo"
+            >
+              <a
+                aria-label="To example"
+                class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+                data-test="logo-link-main"
+                href="/"
+                rel="noopener"
+                target="_blank"
+              >
+                brandexample
+              </a>
+              <a
+                aria-label="To Blog"
+                class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+                href="/blog/"
+              >
+                <span
+                  class="logo__LogoStyled-sc-1o2jhw6-1 eTHmPb"
+                  data-test="logo-link-blog"
+                >
+                  blog
+                </span>
+              </a>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 ijyvGg blog-navbar__NavLinksStyled-sc-dvahvm-5 ixAkuV"
+              data-test="navigation-menu"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 dslDLr"
+              >
+                <ul />
+                <ul>
+                  <li
+                    class="blog-navbar__SearchIconStyled-sc-dvahvm-8"
+                  >
+                    <a
+                      aria-label="Search"
+                      href="/blog/search"
+                    >
+                      search
+                    </a>
+                  </li>
+                  <li>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 service-menu__SubscribeName-sc-16rp0bq-0 TOrWs"
+                    >
+                      <button
+                        aria-label="Subscribe"
+                        data-test="subscribe-popup-open"
+                        type="button"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 fhnnoK"
+                          data-test="text-content"
+                        >
+                          Subscribe
+                        </span>
+                      </button>
+                    </div>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 hOPbfl service-menu__MobileSubscribeName-sc-16rp0bq-1 ioFEgt"
+                    >
+                      <button
+                        aria-label="Subscribe"
+                        data-test="subscribe-popup-open"
+                        type="button"
+                      >
+                        Subscribe
+                      </button>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 dzJQsv"
+            >
+              burger
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <main />
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0"
+    data-test="wrapper-for-footer"
+  />
+</DocumentFragment>
+`;

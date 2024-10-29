@@ -1,0 +1,204 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot Pagination default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 pagination__PaginationStyled-sc-1gnypgk-0 bzaxrQ"
+  data-test="pagination-controls"
+>
+  <ul
+    className="rc-pagination"
+    style={Object {}}
+    unselectable="unselectable"
+  >
+    <li
+      aria-disabled={true}
+      className="rc-pagination-prev rc-pagination-disabled"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      tabIndex={null}
+      title={null}
+    />
+    <li
+      className="rc-pagination-item rc-pagination-item-1 rc-pagination-item-active"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      tabIndex="0"
+      title={null}
+    >
+      <span
+        className="base-link__BaseButtonLink-sc-16cbcsq-0 selected-link__SelectedButtonLink-sc-oydr0g-0 jcuBOd jSCFRv pagination-page"
+        data-test="button-link-selected"
+      >
+        <a
+          className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+          data-test="pagination-page-selected"
+          href="/blog/"
+          onClick={[Function]}
+          style={
+            Object {
+              "minWidth": 42,
+            }
+          }
+        >
+          1
+        </a>
+      </span>
+    </li>
+    <li
+      className="rc-pagination-item rc-pagination-item-2"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      tabIndex="0"
+      title={null}
+    >
+      <span
+        className="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC pagination-page"
+        data-test="button-link-secondary"
+      >
+        <a
+          className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+          data-test="pagination-page"
+          href="/blog/?page=2"
+          onClick={[Function]}
+          style={
+            Object {
+              "minWidth": 42,
+            }
+          }
+        >
+          2
+        </a>
+      </span>
+    </li>
+    <li
+      className="rc-pagination-item rc-pagination-item-3"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      tabIndex="0"
+      title={null}
+    >
+      <span
+        className="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC pagination-page"
+        data-test="button-link-secondary"
+      >
+        <a
+          className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+          data-test="pagination-page"
+          href="/blog/?page=3"
+          onClick={[Function]}
+          style={
+            Object {
+              "minWidth": 42,
+            }
+          }
+        >
+          3
+        </a>
+      </span>
+    </li>
+    <li
+      className="rc-pagination-item rc-pagination-item-4"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      tabIndex="0"
+      title={null}
+    >
+      <span
+        className="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC pagination-page"
+        data-test="button-link-secondary"
+      >
+        <a
+          className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+          data-test="pagination-page"
+          href="/blog/?page=4"
+          onClick={[Function]}
+          style={
+            Object {
+              "minWidth": 42,
+            }
+          }
+        >
+          4
+        </a>
+      </span>
+    </li>
+    <li
+      className="rc-pagination-item rc-pagination-item-5 rc-pagination-item-before-jump-next"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      tabIndex="0"
+      title={null}
+    >
+      <span
+        className="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC pagination-page"
+        data-test="button-link-secondary"
+      >
+        <a
+          className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+          data-test="pagination-page"
+          href="/blog/?page=5"
+          onClick={[Function]}
+          style={
+            Object {
+              "minWidth": 42,
+            }
+          }
+        >
+          5
+        </a>
+      </span>
+    </li>
+    <li
+      className="rc-pagination-jump-next"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      tabIndex="0"
+      title={null}
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 fWCcpx pagination__PageEmptyStyled-sc-1gnypgk-1 iHZQIy"
+        data-test="pagination-page-empty"
+      >
+        ...
+      </div>
+    </li>
+    <li
+      className="rc-pagination-item rc-pagination-item-10"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      tabIndex="0"
+      title={null}
+    >
+      <span
+        className="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC pagination-page"
+        data-test="button-link-secondary"
+      >
+        <a
+          className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+          data-test="pagination-page"
+          href="/blog/?page=10"
+          onClick={[Function]}
+          style={
+            Object {
+              "minWidth": 42,
+            }
+          }
+        >
+          10
+        </a>
+      </span>
+    </li>
+    <li
+      aria-disabled={false}
+      className="rc-pagination-next"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      tabIndex={0}
+      title={null}
+    />
+    <li
+      className="rc-pagination-options"
+    />
+  </ul>
+</div>
+`;

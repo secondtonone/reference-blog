@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots CarouselDots default 1`] = `
+<div
+  className="carousel-dots__CarouselDotsStyled-sc-1jvm0q-0 kduxjQ"
+  data-test="carousel-dots"
+/>
+`;
+
+exports[`Match snapshots CarouselDots with className 1`] = `
+<div
+  className="carousel-dots__CarouselDotsStyled-sc-1jvm0q-0 kduxjQ some"
+  data-test="carousel-dots"
+/>
+`;

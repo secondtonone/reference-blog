@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots CarouselScroll default 1`] = `
+<div
+  className="carousel-scroll__CarouselScrollStyled-sc-joueob-0 wThAN"
+  data-test="carousel-scroll"
+/>
+`;

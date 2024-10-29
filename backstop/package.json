@@ -1,0 +1,27 @@
+{
+  "name": "backstop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --ext .ts,.tsx,.jsx,.js",
+    "lint:fix": "yarn lint --fix",
+    "reference": "LOCAL=true backstop reference --config='backstop.config.js'",
+    "test": "LOCAL=true backstop test --config='backstop.config.js'",
+    "report": "LOCAL=true backstop openReport --config='backstop.config.js'",
+    "approve": "LOCAL=true backstop approve --config='backstop.config.js'",
+    "start": "yarn reference && yarn test && yarn report",
+    "local": "LOCAL=true node backstop-runner.js"
+  },
+  "dependencies": {
+    "backstopjs": "^5.4.4",
+    "eslint": "^7.23.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.23.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-unicorn": "^29.0.0"
+  }
+}

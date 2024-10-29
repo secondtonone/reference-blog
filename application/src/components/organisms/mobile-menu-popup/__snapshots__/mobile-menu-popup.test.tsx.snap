@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots MobileMenuPopup default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 xufbs backdrop__BackdropStyled-sc-198x6p3-0 dekPmn"
+  data-test="backdrop"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 fgpfPB mobile-menu-popup__CloseButton-sc-8n722-1 eSggmG"
+  >
+    <span
+      className="base-button__BaseButton-sc-1hqbwl-0 tertiary-button__TertiaryButton-sc-hxnf0z-0 gkjXHn gUzJrE"
+      data-test="mobile-menu-popup-close"
+      size="xl"
+    >
+      <button
+        className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_tertiary-info_rkzvx_gg_"
+        data-ui-name="Button"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        size="xl"
+        style={
+          Object {
+            "minWidth": "",
+          }
+        }
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+          style={Object {}}
+        >
+          <span
+            className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+            size="xl"
+            style={Object {}}
+          >
+            <span>
+              close
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </div>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 iiNmrl mobile-menu-popup__MenuContainer-sc-8n722-0 hKZIgO"
+    data-test="mobile-menu-container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 dAqiHK"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+        data-test="container"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 hUetXy"
+        >
+          <div
+            className="box-adaptive__BoxStyled-sc-g2wy39-0 bHVFre"
+            data-test="logo"
+          >
+            <a
+              aria-label="To example"
+              className="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+              data-test="logo-link-main"
+              href="/"
+              rel="noopener"
+              target="_blank"
+            >
+              <span>
+                brand
+              </span>
+              <span>
+                example
+              </span>
+            </a>
+            <a
+              aria-label="To Blog"
+              className="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+              href="/blog/"
+            >
+              <span
+                className="logo__LogoStyled-sc-1o2jhw6-1 eTHmPb"
+                data-test="logo-link-blog"
+              >
+                <span>
+                  blog
+                </span>
+              </span>
+            </a>
+          </div>
+          <div
+            className="language-selector__ChangeLang-sc-1c6f5vf-0 jxjogp"
+            data-test="change-lang-open"
+            onClick={[Function]}
+          >
+            
+            
+          </div>
+        </div>
+        <button
+          onClick={[Function]}
+          type="button"
+        >
+          To Main
+        </button>
+        <button
+          onClick={[Function]}
+          type="button"
+        >
+          To Second
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot TagControl with button 1`] = `
+<span
+  className="text-content__TextStyled-sc-1stkrsz-0 gnSSuA tag-control__TagControlStyled-sc-5ljs9a-0 fuGmRv"
+  data-test="tag-control"
+>
+  <button
+    type="button"
+  />
+</span>
+`;
+
+exports[`Match snapshot TagControl with link 1`] = `
+<span
+  className="text-content__TextStyled-sc-1stkrsz-0 gnSSuA tag-control__TagControlStyled-sc-5ljs9a-0 fuGmRv"
+  data-test="tag-control"
+>
+  link
+</span>
+`;

@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ArticleSummary default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 jRHWsa"
+  data-test="intersection-container"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 hRNZeC"
+  >
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 jfwfmm"
+      data-test="text-content"
+    >
+      Article metrics
+    </span>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jbuPxL summary__SummaryContainer-sc-vkw5fm-0 fOOshB"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 bhkzHL metric__MetricContainer-sc-1da10dm-0 jwfGFk"
+      >
+        <span
+          className="text-content__TextStyled-sc-1stkrsz-0 bvjSLx"
+          data-test="text-content"
+        >
+          99
+        </span>
+        <span
+          className="text-content__TextStyled-sc-1stkrsz-0 gFAwBQ"
+          data-test="text-content"
+          title="The total number of referring domains that have at least one link pointing to an analyzed domain/URL. Only referring domains that we have seen in the last few months are taken into account."
+        >
+          Referring Domains
+          <span>
+            info
+          </span>
+        </span>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 bhkzHL metric__MetricContainer-sc-1da10dm-0 jwfGFk"
+      >
+        <span
+          className="text-content__TextStyled-sc-1stkrsz-0 bvjSLx"
+          data-test="text-content"
+        >
+          999
+        </span>
+        <span
+          className="text-content__TextStyled-sc-1stkrsz-0 gFAwBQ"
+          data-test="text-content"
+          title="The total number of backlinks leading to an analyzed domain/URL. Only backlinks that we have seen in the last few months are taken into account."
+        >
+          Backlinks
+          <span>
+            info
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 bJDGdU"
+    >
+      Data from
+       
+      <a
+        className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+        data-test="link-text"
+        href="https://www.example.com/analytics/backlinks/"
+        onClick={[Function]}
+        target="_blank"
+      >
+        Backlink Analytics
+      </a>
+      .
+    </div>
+  </div>
+</div>
+`;

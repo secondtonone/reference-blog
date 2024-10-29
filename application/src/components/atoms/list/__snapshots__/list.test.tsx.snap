@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot List match snapshot default 1`] = `
+<ul
+  className="list__StyledList-sc-8a55c7-0 ckDNnM"
+  data-test="list"
+>
+  <li
+    data-test="list-item"
+  >
+    <span
+      data-list="bullet"
+    />
+    <div
+      data-list="text"
+    >
+      Ensure words are spelled correctly.
+    </div>
+  </li>
+  <li
+    data-test="list-item"
+  >
+    <span
+      data-list="bullet"
+    />
+    <div
+      data-list="text"
+    >
+      Try rephrasing keywords or using synonyms.
+    </div>
+  </li>
+  <li
+    data-test="list-item"
+  >
+    <span
+      data-list="bullet"
+    />
+    <div
+      data-list="text"
+    >
+      Try more general keywords.
+    </div>
+  </li>
+  <li
+    data-test="list-item"
+  >
+    <span
+      data-list="bullet"
+    />
+    <div
+      data-list="text"
+    >
+      Make your queries as concise as possible.
+    </div>
+  </li>
+</ul>
+`;
+
+exports[`Match snapshot List match snapshot ordered 1`] = `
+<ol
+  className="list__StyledList-sc-8a55c7-0 ckDNnM"
+  data-test="list"
+>
+  <li
+    data-test="list-item"
+  >
+    <span
+      data-list="number"
+    >
+      1.
+    </span>
+    <div
+      data-list="text"
+    >
+      Ensure words are spelled correctly.
+    </div>
+  </li>
+  <li
+    data-test="list-item"
+  >
+    <span
+      data-list="number"
+    >
+      2.
+    </span>
+    <div
+      data-list="text"
+    >
+      Try rephrasing keywords or using synonyms.
+    </div>
+  </li>
+  <li
+    data-test="list-item"
+  >
+    <span
+      data-list="number"
+    >
+      3.
+    </span>
+    <div
+      data-list="text"
+    >
+      Try more general keywords.
+    </div>
+  </li>
+  <li
+    data-test="list-item"
+  >
+    <span
+      data-list="number"
+    >
+      4.
+    </span>
+    <div
+      data-list="text"
+    >
+      Make your queries as concise as possible.
+    </div>
+  </li>
+</ol>
+`;

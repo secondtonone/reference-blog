@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Trial block default 1`] = `
+<div
+  className="trial-block__TrialBlockStyled-sc-fpko5t-1 eBYmwH"
+  data-test="trial-block"
+  id="trial"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 hUetXy"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 cHPSJt trial-block__ImageStyled-sc-fpko5t-2 fXkIgr"
+        data-test="image"
+      >
+        <img
+          alt="Trial example banner"
+          data-test="banner-trial-png"
+          src="https://storage.googleapis.com/blog-rc/front/rc/blog/banners/trial-gift.png"
+        />
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 jgefUV"
+        data-test="content"
+      >
+        <p
+          className="text-content__TextStyled-sc-1stkrsz-0 kuaOlU"
+          data-test="trial-text"
+        >
+          Boost your digital marketing efforts
+        </p>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 iTAFXV"
+        >
+          <span
+            className="base-link__BaseButtonLink-sc-16cbcsq-0 primary-link__PrimaryButtonLink-sc-akzrhv-0 jcuBOd GhuEW trial-block__ButtonLinkStyled-sc-fpko5t-0 bSUmSk"
+            data-test="button-link-primary"
+          >
+            <a
+              className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink trial-block__ButtonLinkStyled-sc-fpko5t-0 bSUmSk"
+              data-test="trial-link"
+              href="https://www.example.com/signup/?src=footer"
+              target="_blank"
+            >
+              Get free trial
+            </a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

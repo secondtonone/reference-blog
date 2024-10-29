@@ -1,0 +1,436 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`meta tags main renders correctly by page 1 with default domain 1`] = `
+Array [
+  <title>
+    The SEO, exmpl, PPC and Content Marketing Blog - example
+  </title>,
+  <meta
+    content="example's digital marketing blog is an innovative resource for content strategy, content marketing, SEO, exmpl, PPC, social media and more."
+    name="description"
+  />,
+  "",
+  <link
+    href="https://www.example.com/blog/"
+    rel="canonical"
+  />,
+  <link
+    href="https://es.example.com/blog/perspectiva-digital-juegos-olimpicos-2020/"
+    hrefLang="es"
+    rel="alternate"
+  />,
+  <link
+    href="https://it.example.com/blog/olimpiadi-2020-prospettiva-digitale/"
+    hrefLang="it"
+    rel="alternate"
+  />,
+  <link
+    href="https://pt.example.com/blog/perspectiva-digital-olimpiadas-2020/"
+    hrefLang="pt"
+    rel="alternate"
+  />,
+  <link
+    href="https://www.example.com/blog/olympics-2020-digital-perspective/"
+    hrefLang="en"
+    rel="alternate"
+  />,
+  <h1
+    className="visually-hidden__VisuallyHiddenStyled-sc-t0eoyd-0 gRLrBF"
+  >
+    The SEO, exmpl, PPC and Content Marketing Blog - example
+  </h1>,
+]
+`;
+
+exports[`meta tags main renders correctly by page 1 with invalid en domain 1`] = `
+Array [
+  <title>
+    The SEO, exmpl, PPC and Content Marketing Blog - example
+  </title>,
+  <meta
+    content="example's digital marketing blog is an innovative resource for content strategy, content marketing, SEO, exmpl, PPC, social media and more."
+    name="description"
+  />,
+  "",
+  <link
+    href="https://www.example.com/blog/"
+    rel="canonical"
+  />,
+  <link
+    href="https://es.example.com/blog/perspectiva-digital-juegos-olimpicos-2020/"
+    hrefLang="es"
+    rel="alternate"
+  />,
+  <link
+    href="https://it.example.com/blog/olimpiadi-2020-prospettiva-digitale/"
+    hrefLang="it"
+    rel="alternate"
+  />,
+  <link
+    href="https://pt.example.com/blog/perspectiva-digital-olimpiadas-2020/"
+    hrefLang="pt"
+    rel="alternate"
+  />,
+  <link
+    href="https://www.example.com/blog/olympics-2020-digital-perspective/"
+    hrefLang="en"
+    rel="alternate"
+  />,
+  <h1
+    className="visually-hidden__VisuallyHiddenStyled-sc-t0eoyd-0 gRLrBF"
+  >
+    The SEO, exmpl, PPC and Content Marketing Blog - example
+  </h1>,
+]
+`;
+
+exports[`meta tags main renders correctly by page 2 and en domain 1`] = `
+Array [
+  <title>
+    Page 2 - The SEO, exmpl, PPC and Content Marketing Blog - example
+  </title>,
+  <meta
+    content="example's digital marketing blog is an innovative resource for content strategy, content marketing, SEO, exmpl, PPC, social media and more. - Page 2"
+    name="description"
+  />,
+  "",
+  <link
+    href="https://www.example.com/blog/?page=2"
+    rel="canonical"
+  />,
+  <link
+    href="https://es.example.com/blog/perspectiva-digital-juegos-olimpicos-2020/"
+    hrefLang="es"
+    rel="alternate"
+  />,
+  <link
+    href="https://it.example.com/blog/olimpiadi-2020-prospettiva-digitale/"
+    hrefLang="it"
+    rel="alternate"
+  />,
+  <link
+    href="https://pt.example.com/blog/perspectiva-digital-olimpiadas-2020/"
+    hrefLang="pt"
+    rel="alternate"
+  />,
+  <link
+    href="https://www.example.com/blog/olympics-2020-digital-perspective/"
+    hrefLang="en"
+    rel="alternate"
+  />,
+  <h1
+    className="visually-hidden__VisuallyHiddenStyled-sc-t0eoyd-0 gRLrBF"
+  >
+    The SEO, exmpl, PPC and Content Marketing Blog - example
+  </h1>,
+]
+`;
+
+exports[`meta tags main renders correctly by page 3 and es domain 1`] = `
+Array [
+  <title>
+    Page 3 - example - Blog en Español
+  </title>,
+  <meta
+    content="Blog en español de example - Toda la información de Marketing digital, Social Media, SEO… que tu negocio necesita para destacar en Internet. - Page 3"
+    name="description"
+  />,
+  "",
+  <link
+    href="https://es.example.com/blog/?page=3"
+    rel="canonical"
+  />,
+  <link
+    href="https://es.example.com/blog/perspectiva-digital-juegos-olimpicos-2020/"
+    hrefLang="es"
+    rel="alternate"
+  />,
+  <link
+    href="https://it.example.com/blog/olimpiadi-2020-prospettiva-digitale/"
+    hrefLang="it"
+    rel="alternate"
+  />,
+  <link
+    href="https://pt.example.com/blog/perspectiva-digital-olimpiadas-2020/"
+    hrefLang="pt"
+    rel="alternate"
+  />,
+  <link
+    href="https://www.example.com/blog/olympics-2020-digital-perspective/"
+    hrefLang="en"
+    rel="alternate"
+  />,
+  <h1
+    className="visually-hidden__VisuallyHiddenStyled-sc-t0eoyd-0 gRLrBF"
+  >
+    example - Blog en Español
+  </h1>,
+]
+`;
+
+exports[`meta tags main renders correctly by page 4 and de domain 1`] = `
+Array [
+  <title>
+    Page 4 - Online Marketing Blog für Deutschland - SEO, Google Ads und mehr - example
+  </title>,
+  <meta
+    content="Interessante Artikel, Recherchen, Analysen und Studien aus dem Online-Marketing. Eingeladene Experten teilen ihr Wissen und geben nützliche Tipps. - Page 4"
+    name="description"
+  />,
+  "",
+  <link
+    href="https://de.example.com/blog/?page=4"
+    rel="canonical"
+  />,
+  <link
+    href="https://es.example.com/blog/perspectiva-digital-juegos-olimpicos-2020/"
+    hrefLang="es"
+    rel="alternate"
+  />,
+  <link
+    href="https://it.example.com/blog/olimpiadi-2020-prospettiva-digitale/"
+    hrefLang="it"
+    rel="alternate"
+  />,
+  <link
+    href="https://pt.example.com/blog/perspectiva-digital-olimpiadas-2020/"
+    hrefLang="pt"
+    rel="alternate"
+  />,
+  <link
+    href="https://www.example.com/blog/olympics-2020-digital-perspective/"
+    hrefLang="en"
+    rel="alternate"
+  />,
+  <h1
+    className="visually-hidden__VisuallyHiddenStyled-sc-t0eoyd-0 gRLrBF"
+  >
+    Online Marketing Blog für Deutschland - SEO, Google Ads und mehr - example
+  </h1>,
+]
+`;
+
+exports[`meta tags main renders correctly by page 5 and fr domain 1`] = `
+Array [
+  <title>
+    Page 5 - Blog example | SEO, exmpl, Content Marketing et PPC
+  </title>,
+  <meta
+    content="Blog example - Toutes les informations sur le marketing digital, le SEO, le content marketing… dont votre entreprise a besoin pour se démarquer sur Internet. - Page 5"
+    name="description"
+  />,
+  "",
+  <link
+    href="https://fr.example.com/blog/?page=5"
+    rel="canonical"
+  />,
+  <link
+    href="https://es.example.com/blog/perspectiva-digital-juegos-olimpicos-2020/"
+    hrefLang="es"
+    rel="alternate"
+  />,
+  <link
+    href="https://it.example.com/blog/olimpiadi-2020-prospettiva-digitale/"
+    hrefLang="it"
+    rel="alternate"
+  />,
+  <link
+    href="https://pt.example.com/blog/perspectiva-digital-olimpiadas-2020/"
+    hrefLang="pt"
+    rel="alternate"
+  />,
+  <link
+    href="https://www.example.com/blog/olympics-2020-digital-perspective/"
+    hrefLang="en"
+    rel="alternate"
+  />,
+  <h1
+    className="visually-hidden__VisuallyHiddenStyled-sc-t0eoyd-0 gRLrBF"
+  >
+    Blog example | SEO, exmpl, Content Marketing et PPC
+  </h1>,
+]
+`;
+
+exports[`meta tags main renders correctly by page 6 and it domain 1`] = `
+Array [
+  <title>
+    Page 6 - example Blog
+  </title>,
+  <meta
+    content="Tutte le notizie sul mondo SEO, exmpl, PPC e Content Marketing. Guest post dei grandi esperti italiani e tutorial dei tool example - Page 6"
+    name="description"
+  />,
+  "",
+  <link
+    href="https://it.example.com/blog/?page=6"
+    rel="canonical"
+  />,
+  <link
+    href="https://es.example.com/blog/perspectiva-digital-juegos-olimpicos-2020/"
+    hrefLang="es"
+    rel="alternate"
+  />,
+  <link
+    href="https://it.example.com/blog/olimpiadi-2020-prospettiva-digitale/"
+    hrefLang="it"
+    rel="alternate"
+  />,
+  <link
+    href="https://pt.example.com/blog/perspectiva-digital-olimpiadas-2020/"
+    hrefLang="pt"
+    rel="alternate"
+  />,
+  <link
+    href="https://www.example.com/blog/olympics-2020-digital-perspective/"
+    hrefLang="en"
+    rel="alternate"
+  />,
+  <h1
+    className="visually-hidden__VisuallyHiddenStyled-sc-t0eoyd-0 gRLrBF"
+  >
+    example Blog
+  </h1>,
+]
+`;
+
+exports[`meta tags main renders correctly by page 7ч and pt domain 1`] = `
+Array [
+  <title>
+    Page 7 - Blog example Brasil
+  </title>,
+  <meta
+    content="Blog de marketing digital da example como foco em estratégia digital, marketing de conteúdo, SEO, exmpl, PPC, mídias sociais e muito mais. - Page 7"
+    name="description"
+  />,
+  "",
+  <link
+    href="https://pt.example.com/blog/?page=7"
+    rel="canonical"
+  />,
+  <link
+    href="https://es.example.com/blog/perspectiva-digital-juegos-olimpicos-2020/"
+    hrefLang="es"
+    rel="alternate"
+  />,
+  <link
+    href="https://it.example.com/blog/olimpiadi-2020-prospettiva-digitale/"
+    hrefLang="it"
+    rel="alternate"
+  />,
+  <link
+    href="https://pt.example.com/blog/perspectiva-digital-olimpiadas-2020/"
+    hrefLang="pt"
+    rel="alternate"
+  />,
+  <link
+    href="https://www.example.com/blog/olympics-2020-digital-perspective/"
+    hrefLang="en"
+    rel="alternate"
+  />,
+  <h1
+    className="visually-hidden__VisuallyHiddenStyled-sc-t0eoyd-0 gRLrBF"
+  >
+    Blog example Brasil
+  </h1>,
+]
+`;
+
+exports[`meta tags main renders correctly with preview top article 1`] = `
+Array [
+  <title>
+    The SEO, exmpl, PPC and Content Marketing Blog - example
+  </title>,
+  <meta
+    content="example's digital marketing blog is an innovative resource for content strategy, content marketing, SEO, exmpl, PPC, social media and more."
+    name="description"
+  />,
+  "",
+  <link
+    href="https://www.example.com/blog/"
+    rel="canonical"
+  />,
+  <link
+    as="image"
+    href="/previewImage.jpg"
+    rel="preload"
+  />,
+  <link
+    href="https://es.example.com/blog/perspectiva-digital-juegos-olimpicos-2020/"
+    hrefLang="es"
+    rel="alternate"
+  />,
+  <link
+    href="https://it.example.com/blog/olimpiadi-2020-prospettiva-digitale/"
+    hrefLang="it"
+    rel="alternate"
+  />,
+  <link
+    href="https://pt.example.com/blog/perspectiva-digital-olimpiadas-2020/"
+    hrefLang="pt"
+    rel="alternate"
+  />,
+  <link
+    href="https://www.example.com/blog/olympics-2020-digital-perspective/"
+    hrefLang="en"
+    rel="alternate"
+  />,
+  <h1
+    className="visually-hidden__VisuallyHiddenStyled-sc-t0eoyd-0 gRLrBF"
+  >
+    The SEO, exmpl, PPC and Content Marketing Blog - example
+  </h1>,
+]
+`;
+
+exports[`meta tags main renders correctly with two preview big articles 1`] = `
+Array [
+  <title>
+    The SEO, exmpl, PPC and Content Marketing Blog - example
+  </title>,
+  <meta
+    content="example's digital marketing blog is an innovative resource for content strategy, content marketing, SEO, exmpl, PPC, social media and more."
+    name="description"
+  />,
+  "",
+  <link
+    href="https://www.example.com/blog/"
+    rel="canonical"
+  />,
+  <link
+    as="image"
+    href="/previewImage.jpg"
+    rel="preload"
+  />,
+  <link
+    as="image"
+    href="/previewImage1.jpg"
+    rel="preload"
+  />,
+  <link
+    href="https://es.example.com/blog/perspectiva-digital-juegos-olimpicos-2020/"
+    hrefLang="es"
+    rel="alternate"
+  />,
+  <link
+    href="https://it.example.com/blog/olimpiadi-2020-prospettiva-digitale/"
+    hrefLang="it"
+    rel="alternate"
+  />,
+  <link
+    href="https://pt.example.com/blog/perspectiva-digital-olimpiadas-2020/"
+    hrefLang="pt"
+    rel="alternate"
+  />,
+  <link
+    href="https://www.example.com/blog/olympics-2020-digital-perspective/"
+    hrefLang="en"
+    rel="alternate"
+  />,
+  <h1
+    className="visually-hidden__VisuallyHiddenStyled-sc-t0eoyd-0 gRLrBF"
+  >
+    The SEO, exmpl, PPC and Content Marketing Blog - example
+  </h1>,
+]
+`;

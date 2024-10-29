@@ -1,0 +1,208 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots CategoryCard default 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 gtKoOI category-card__CategoryCardStyled-sc-1w3cln1-0 kMbNKD"
+    data-test="category-card"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 gHiXuz category-card__CategoryCardImageStyled-sc-1w3cln1-1 knntfu"
+      data-test="category-card-image"
+    >
+      <a
+        class="category-card__LinkStyled-sc-1w3cln1-2 fvIMOH"
+        data-test="category-card-image-link"
+        href="/blog/category/seo/what-is-seo"
+        title="What Is SEO"
+      >
+        <img
+          alt="What Is SEO"
+          class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+          data-src="https://static.example.com/blog/uploads/media/d6/6c/d66cd227c24cf1fb9ca43417e3cfda7f/improve-seo.svg"
+          height="250"
+          width="310"
+        />
+      </a>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 ejaosw"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0"
+        data-test="category-card-title"
+      >
+        <span
+          class="text-content__TextStyled-sc-1stkrsz-0 hsAMAz"
+          data-test="text-content"
+        >
+          <a
+            href="/blog/category/seo/what-is-seo"
+            title="What Is SEO"
+          >
+            What Is SEO
+          </a>
+        </span>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 nwpxZ category-card__CategoryCardListStyled-sc-1w3cln1-3 rFnTE"
+        data-test="category-card-list"
+      >
+        <ul
+          class="list__StyledList-sc-8a55c7-0 cHmrMb"
+          data-test="list"
+        >
+          <li
+            data-test="list-item"
+          >
+            <span
+              data-list="bullet"
+            >
+              bullet
+            </span>
+            <div
+              data-list="text"
+            >
+              <a
+                href="/blog/what-is-seo"
+              >
+                State of Content Ops & Outsourcing Report 2021 — How Businesses Scale
+              </a>
+            </div>
+          </li>
+          <li
+            data-test="list-item"
+          >
+            <span
+              data-list="bullet"
+            >
+              bullet
+            </span>
+            <div
+              data-list="text"
+            >
+              <a
+                href="/blog/learn-seo"
+              >
+                4 Ways to Use Your .htaccess File
+              </a>
+            </div>
+          </li>
+          <li
+            data-test="list-item"
+          >
+            <span
+              data-list="bullet"
+            >
+              bullet
+            </span>
+            <div
+              data-list="text"
+            >
+              <a
+                href="/blog/seo-best-practices"
+              >
+                Content Spam: How to Detect & Combat Negative SEO Tactics
+              </a>
+            </div>
+          </li>
+          <li
+            data-test="list-item"
+          >
+            <span
+              data-list="bullet"
+            >
+              bullet
+            </span>
+            <div
+              data-list="text"
+            >
+              <a
+                href="/blog/serp-features-guide"
+              >
+                Google Maps Marketing: The Full Guide
+              </a>
+            </div>
+          </li>
+          <li
+            data-test="list-item"
+          >
+            <span
+              data-list="bullet"
+            >
+              bullet
+            </span>
+            <div
+              data-list="text"
+            >
+              <a
+                href="/blog/google-search-algorithm"
+              >
+                How to Write Explosive Content: The Do's and Don'ts of Marketing
+              </a>
+            </div>
+          </li>
+          <li
+            data-test="list-item"
+          >
+            <span
+              data-list="bullet"
+            >
+              bullet
+            </span>
+            <div
+              data-list="text"
+            >
+              <a
+                href="/blog/metasearch-engine"
+              >
+                What Is Content Localization? How to Build a Strategy
+              </a>
+            </div>
+          </li>
+          <li
+            data-test="list-item"
+          >
+            <span
+              data-list="bullet"
+            >
+              bullet
+            </span>
+            <div
+              data-list="text"
+            >
+              <a
+                href="/blog/metrics-in-google-analytics"
+              >
+                Ways to Build Expertise, Authority
+              </a>
+            </div>
+          </li>
+          <li
+            data-test="list-item"
+          >
+            <span
+              data-list="bullet"
+            >
+              bullet
+            </span>
+            <div
+              data-list="text"
+            >
+              <a
+                href="/blog/bing-search"
+              >
+                What Is Enterprise SEO and How Is It Different to Traditional SEO?
+              </a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots CategoryCard empty 1`] = `<DocumentFragment />`;
+
+exports[`Match snapshots CategoryCard without pages 1`] = `<DocumentFragment />`;

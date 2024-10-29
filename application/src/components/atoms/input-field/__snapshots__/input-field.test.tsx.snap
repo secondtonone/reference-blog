@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots InputField empty field 1`] = `
+<span
+  className="field-container__Container-sc-qv1os7-0 jOqnRO"
+  data-test="field-container"
+>
+  <span>
+    <div
+      className="___SInput_ig413_gg_ _size_xl_ig413_gg_ _state_normal_ig413_gg_"
+      data-ui-name="Input"
+      size="xl"
+      style={Object {}}
+    >
+      <input
+        className="___SValue_ig413_gg_ _size_xl_ig413_gg_"
+        data-ui-name="Input.Value"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="Field"
+        size="xl"
+        style={Object {}}
+        value=""
+      />
+      <div
+        className="___SOutline_ig413_gg_"
+      />
+    </div>
+  </span>
+</span>
+`;
+
+exports[`Match snapshots InputField internal 1`] = `
+<span
+  className="field-container__Container-sc-qv1os7-0 trAty"
+  data-test="field-container"
+>
+  <span>
+    <div
+      className="___SInput_ig413_gg_ _size_xl_ig413_gg_ _state_normal_ig413_gg_"
+      data-ui-name="Input"
+      size="xl"
+      style={Object {}}
+    >
+      <input
+        className="___SValue_ig413_gg_ _size_xl_ig413_gg_"
+        data-ui-name="Input.Value"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        size="xl"
+        style={Object {}}
+        value="Value"
+      />
+      <div
+        className="___SOutline_ig413_gg_"
+      />
+    </div>
+  </span>
+</span>
+`;
+
+exports[`Match snapshots InputField with error 1`] = `
+<span
+  className="field-container__Container-sc-qv1os7-0 jOqnRO"
+  data-test="field-container"
+>
+  <span>
+    <div
+      className="___SInput_ig413_gg_ _size_xl_ig413_gg_ _state_invalid_ig413_gg_"
+      data-ui-name="Input"
+      size="xl"
+      style={Object {}}
+    >
+      <input
+        className="___SValue_ig413_gg_ _size_xl_ig413_gg_"
+        data-ui-name="Input.Value"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        size="xl"
+        style={Object {}}
+        value="Value"
+      />
+      <div
+        className="___SOutline_ig413_gg_"
+      />
+    </div>
+  </span>
+</span>
+`;
+
+exports[`Match snapshots InputField with value 1`] = `
+<span
+  className="field-container__Container-sc-qv1os7-0 jOqnRO"
+  data-test="field-container"
+>
+  <span>
+    <div
+      className="___SInput_ig413_gg_ _size_xl_ig413_gg_ _state_normal_ig413_gg_"
+      data-ui-name="Input"
+      size="xl"
+      style={Object {}}
+    >
+      <input
+        className="___SValue_ig413_gg_ _size_xl_ig413_gg_"
+        data-ui-name="Input.Value"
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        size="xl"
+        style={Object {}}
+        value="Value"
+      />
+      <div
+        className="___SOutline_ig413_gg_"
+      />
+    </div>
+  </span>
+</span>
+`;

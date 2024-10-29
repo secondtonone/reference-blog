@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots BlogThemes empty 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 buVnYK blog-themes__ThemesStyled-sc-ljhrbc-0 fPoRGV"
+  data-test="blog-themes"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 iIumuk"
+      data-test="themes-heading"
+    >
+      Heading
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots BlogThemes filled 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 buVnYK blog-themes__ThemesStyled-sc-ljhrbc-0 fPoRGV"
+  data-test="blog-themes"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 iIumuk"
+      data-test="themes-heading"
+    >
+      Heading
+    </span>
+    <div
+      className="text-content__TextStyled-sc-1stkrsz-0 bAhiGl"
+      data-test="themes-links"
+    >
+      <ul
+        className="blog-themes__CategoriesStyled-sc-ljhrbc-1 CCBbA"
+        data-test="blog-themes"
+      >
+        <li
+          className="blog-themes__CategoryStyled-sc-ljhrbc-2 hnKVNr"
+        >
+          <a
+            data-test="themes-link"
+            href="/blog/category/content"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Content
+          </a>
+        </li>
+        <li
+          className="blog-themes__CategoryStyled-sc-ljhrbc-2 hnKVNr"
+        >
+          <a
+            data-test="themes-link"
+            href="/blog/category/ecommerce"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            eCommerce
+          </a>
+        </li>
+        <li
+          className="blog-themes__CategoryStyled-sc-ljhrbc-2 hnKVNr"
+        >
+          <a
+            data-test="themes-link"
+            href="/blog/category/seo"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Seo
+          </a>
+        </li>
+        <li
+          className="blog-themes__CategoryStyled-sc-ljhrbc-2 hnKVNr"
+        >
+          <a
+            data-test="themes-link"
+            href="/blog/category/marketresearch"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Market Research
+          </a>
+        </li>
+        <li
+          className="blog-themes__CategoryStyled-sc-ljhrbc-2 hnKVNr"
+        >
+          <a
+            data-test="themes-link"
+            href="/blog/category/socialmedia"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Social Media
+          </a>
+        </li>
+        <li
+          className="blog-themes__CategoryStyled-sc-ljhrbc-2 hnKVNr"
+        >
+          <a
+            data-test="themes-link"
+            href="/blog/category/advertising"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Advertising
+          </a>
+        </li>
+        <li
+          className="blog-themes__CategoryStyled-sc-ljhrbc-2 hnKVNr"
+        >
+          <a
+            data-test="themes-link"
+            href="/blog/category/discoverexample"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Discover example
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;

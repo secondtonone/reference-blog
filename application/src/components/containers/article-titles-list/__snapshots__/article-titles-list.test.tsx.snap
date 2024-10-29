@@ -1,0 +1,367 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ArticleTitlesList default 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 bUchdV article-titles-list__ArticleTitlesListStyled-sc-gtead9-0 cRxOVh"
+    data-test="article-titles-list"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0"
+    >
+      <h3
+        class="text-content__TextStyled-sc-1stkrsz-0 frBSzr"
+        data-test="article-titles-list-title"
+      >
+        Start explore with
+      </h3>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bSvQZL article-titles-list__ArticleTitlesListListStyled-sc-gtead9-1 iKdEIW"
+      data-test="article-titles-list-list"
+    >
+      <ul
+        class="list__StyledList-sc-8a55c7-0 cHmrMb"
+        data-test="list"
+      >
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/what-is-seo"
+              title="State of Content Ops & Outsourcing Report 2021 — How Businesses Scale"
+            >
+              State of Content Ops & Outsourcing Report 2021 — How Businesses Scale
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/learn-seo"
+              title="4 Ways to Use Your .htaccess File"
+            >
+              4 Ways to Use Your .htaccess File
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/seo-best-practices"
+              title="Content Spam: How to Detect & Combat Negative SEO Tactics"
+            >
+              Content Spam: How to Detect & Combat Negative SEO Tactics
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/serp-features-guide"
+              title="Google Maps Marketing: The Full Guide"
+            >
+              Google Maps Marketing: The Full Guide
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/google-search-algorithm"
+              title="How to Write Explosive Content: The Do's and Don'ts of Marketing"
+            >
+              How to Write Explosive Content: The Do's and Don'ts of Marketing
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/metasearch-engine"
+              title="What Is Content Localization? How to Build a Strategy"
+            >
+              What Is Content Localization? How to Build a Strategy
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/metrics-in-google-analytics"
+              title="Ways to Build Expertise, Authority"
+            >
+              Ways to Build Expertise, Authority
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/bing-search"
+              title="What Is Enterprise SEO and How Is It Different to Traditional SEO?"
+            >
+              What Is Enterprise SEO and How Is It Different to Traditional SEO?
+            </a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots ArticleTitlesList should show a current title 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 bUchdV article-titles-list__ArticleTitlesListStyled-sc-gtead9-0 cRxOVh"
+    data-test="article-titles-list"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0"
+    >
+      <h3
+        class="text-content__TextStyled-sc-1stkrsz-0 frBSzr"
+        data-test="article-titles-list-title"
+      >
+        How to Improve SEO Rankings in 11 Steps
+      </h3>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bSvQZL article-titles-list__ArticleTitlesListListStyled-sc-gtead9-1 iKdEIW"
+      data-test="article-titles-list-list"
+    >
+      <ul
+        class="list__StyledList-sc-8a55c7-0 cHmrMb"
+        data-test="list"
+      >
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/what-is-seo"
+              title="State of Content Ops & Outsourcing Report 2021 — How Businesses Scale"
+            >
+              State of Content Ops & Outsourcing Report 2021 — How Businesses Scale
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/learn-seo"
+              title="4 Ways to Use Your .htaccess File"
+            >
+              4 Ways to Use Your .htaccess File
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/seo-best-practices"
+              title="Content Spam: How to Detect & Combat Negative SEO Tactics"
+            >
+              Content Spam: How to Detect & Combat Negative SEO Tactics
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/serp-features-guide"
+              title="Google Maps Marketing: The Full Guide"
+            >
+              Google Maps Marketing: The Full Guide
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/google-search-algorithm"
+              title="How to Write Explosive Content: The Do's and Don'ts of Marketing"
+            >
+              How to Write Explosive Content: The Do's and Don'ts of Marketing
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/metasearch-engine"
+              title="What Is Content Localization? How to Build a Strategy"
+            >
+              What Is Content Localization? How to Build a Strategy
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/metrics-in-google-analytics"
+              title="Ways to Build Expertise, Authority"
+            >
+              Ways to Build Expertise, Authority
+            </a>
+          </div>
+        </li>
+        <li
+          data-test="list-item"
+        >
+          <span
+            data-list="bullet"
+          >
+            bullet
+          </span>
+          <div
+            data-list="text"
+          >
+            <a
+              href="/blog/bing-search"
+              title="What Is Enterprise SEO and How Is It Different to Traditional SEO?"
+            >
+              What Is Enterprise SEO and How Is It Different to Traditional SEO?
+            </a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots ArticleTitlesList without pages 1`] = `<DocumentFragment />`;

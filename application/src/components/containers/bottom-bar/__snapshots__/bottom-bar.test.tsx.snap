@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots BottomBar default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 cusNbo bottom-bar__BarStyled-sc-i452z5-0 fRbEzd"
+  data-test="bottom-bar"
+>
+  <span>
+    content
+  </span>
+</div>
+`;

@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots SubcategoryHeading default 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 subcategory-heading__SubcategoryHeadingStyled-sc-1cceahb-0 grLIrD"
+    data-test="subcategory-heading"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 iymPtp"
+      >
+        <h1
+          class="text-content__TextStyled-sc-1stkrsz-0 cpsJko subcategory-heading__TitleStyled-sc-1cceahb-2 CBOnN"
+          data-test="subcategory-heading-name"
+        >
+          What Is SEO
+        </h1>
+        <span
+          class="text-content__TextStyled-sc-1stkrsz-0 dbRYaR subcategory-heading__TitleStyled-sc-1cceahb-2 CBOnN"
+          data-test="subcategory-heading-description"
+        >
+          Search Engine Optimization is the backbone of any digital marketing strategy. On this page you’ll find top SEO articles built for industry experts by industry experts. Covering all the hot SEO topics of the moment, explore our news, views and in-depth studies.
+        </span>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 lnbOlo subcategory-heading__ImageStyled-sc-1cceahb-1 klhEIg"
+        data-test="subcategory-heading-image"
+      >
+        <img
+          alt="What Is SEO"
+          class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+          data-src="https://static.example.com/blog/uploads/media/d6/6c/d66cd227c24cf1fb9ca43417e3cfda7f/improve-seo.svg"
+          data-test="image"
+          height="240"
+          width="277"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots SubcategoryHeading without description 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 subcategory-heading__SubcategoryHeadingStyled-sc-1cceahb-0 grLIrD"
+    data-test="subcategory-heading"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 iymPtp"
+      >
+        <h1
+          class="text-content__TextStyled-sc-1stkrsz-0 cpsJko subcategory-heading__TitleStyled-sc-1cceahb-2 CBOnN"
+          data-test="subcategory-heading-name"
+        >
+          What Is SEO
+        </h1>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 lnbOlo subcategory-heading__ImageStyled-sc-1cceahb-1 klhEIg"
+        data-test="subcategory-heading-image"
+      >
+        <img
+          alt="What Is SEO"
+          class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+          data-src="https://static.example.com/blog/uploads/media/d6/6c/d66cd227c24cf1fb9ca43417e3cfda7f/improve-seo.svg"
+          data-test="image"
+          height="240"
+          width="277"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots SubcategoryHeading without name 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 subcategory-heading__SubcategoryHeadingStyled-sc-1cceahb-0 grLIrD"
+    data-test="subcategory-heading"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 iymPtp"
+      >
+        <span
+          class="text-content__TextStyled-sc-1stkrsz-0 dbRYaR subcategory-heading__TitleStyled-sc-1cceahb-2 CBOnN"
+          data-test="subcategory-heading-description"
+        >
+          Search Engine Optimization is the backbone of any digital marketing strategy. On this page you’ll find top SEO articles built for industry experts by industry experts. Covering all the hot SEO topics of the moment, explore our news, views and in-depth studies.
+        </span>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 lnbOlo subcategory-heading__ImageStyled-sc-1cceahb-1 klhEIg"
+        data-test="subcategory-heading-image"
+      >
+        <img
+          class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+          data-src="https://static.example.com/blog/uploads/media/d6/6c/d66cd227c24cf1fb9ca43417e3cfda7f/improve-seo.svg"
+          data-test="image"
+          height="240"
+          width="277"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots SubcategoryHeading without previewImage 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 subcategory-heading__SubcategoryHeadingStyled-sc-1cceahb-0 grLIrD"
+    data-test="subcategory-heading"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 iymPtp"
+      >
+        <h1
+          class="text-content__TextStyled-sc-1stkrsz-0 cpsJko subcategory-heading__TitleStyled-sc-1cceahb-2 CBOnN"
+          data-test="subcategory-heading-name"
+        >
+          What Is SEO
+        </h1>
+        <span
+          class="text-content__TextStyled-sc-1stkrsz-0 dbRYaR subcategory-heading__TitleStyled-sc-1cceahb-2 CBOnN"
+          data-test="subcategory-heading-description"
+        >
+          Search Engine Optimization is the backbone of any digital marketing strategy. On this page you’ll find top SEO articles built for industry experts by industry experts. Covering all the hot SEO topics of the moment, explore our news, views and in-depth studies.
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

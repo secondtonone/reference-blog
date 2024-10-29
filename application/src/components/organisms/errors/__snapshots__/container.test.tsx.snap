@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots Container with caption 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 fiLzXF"
+>
+  <h2
+    className="text-content__TextStyled-sc-1stkrsz-0 dRRiqw container__HeadingStyled-sc-orj98h-1 ievuLA"
+    data-test="error-heading"
+  >
+    Heading
+  </h2>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 kuJVxh container__MessageStyled-sc-orj98h-0 goEbG"
+  >
+    <p
+      className="text-content__TextStyled-sc-1stkrsz-0 bUJWgm container__TextContentStyled-sc-orj98h-2 gWtmge"
+      data-test="error-caption"
+    >
+      We can't find the page you're looking for.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots Container with content 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 fiLzXF"
+>
+  <h2
+    className="text-content__TextStyled-sc-1stkrsz-0 dRRiqw container__HeadingStyled-sc-orj98h-1 ievuLA"
+    data-test="error-heading"
+  >
+    Heading
+  </h2>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 kuJVxh container__MessageStyled-sc-orj98h-0 goEbG"
+  >
+    <p
+      className="text-content__TextStyled-sc-1stkrsz-0 bUJWgm container__TextContentStyled-sc-orj98h-2 gWtmge"
+      data-test="error-caption"
+    >
+      We can't find the page you're looking for.
+    </p>
+    <p
+      className="text-content__TextStyled-sc-1stkrsz-0 bUJWgm container__TextContentStyled-sc-orj98h-2 gWtmge"
+      data-test="error-text"
+    >
+      You can visit our 
+      <a
+        data-test="error-link-main"
+        href="/blog"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        homepage
+      </a>
+       
+      or contact our
+       
+      <a
+        data-test="error-link-support"
+        href="https://www.example.com/company/contacts/"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        target="_blank"
+      >
+        support team
+      </a>
+      .
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots Container with heading 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 fiLzXF"
+>
+  <h2
+    className="text-content__TextStyled-sc-1stkrsz-0 dRRiqw container__HeadingStyled-sc-orj98h-1 ievuLA"
+    data-test="error-heading"
+  >
+    Heading
+  </h2>
+</div>
+`;

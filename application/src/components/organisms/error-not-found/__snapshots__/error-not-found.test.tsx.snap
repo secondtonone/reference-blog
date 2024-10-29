@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ErrorNotFound with caption 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 fiLzXF"
+>
+  <h1
+    className="text-content__TextStyled-sc-1stkrsz-0 dRRiqw error-not-found__HeadingStyled-sc-1f8qoay-1 jlRpDg"
+    data-test="error-heading"
+  >
+    Heading
+  </h1>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 kuJVxh error-not-found__MessageStyled-sc-1f8qoay-0 bCiwPl"
+  >
+    <p
+      className="text-content__TextStyled-sc-1stkrsz-0 bUJWgm error-not-found__TextContentStyled-sc-1f8qoay-2 dpYmzX"
+      data-test="error-caption"
+    >
+      We can't find the page you're looking for.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots ErrorNotFound with content 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 fiLzXF"
+>
+  <h1
+    className="text-content__TextStyled-sc-1stkrsz-0 dRRiqw error-not-found__HeadingStyled-sc-1f8qoay-1 jlRpDg"
+    data-test="error-heading"
+  >
+    Heading
+  </h1>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 kuJVxh error-not-found__MessageStyled-sc-1f8qoay-0 bCiwPl"
+  >
+    <p
+      className="text-content__TextStyled-sc-1stkrsz-0 bUJWgm error-not-found__TextContentStyled-sc-1f8qoay-2 dpYmzX"
+      data-test="error-caption"
+    >
+      We can't find the page you're looking for.
+    </p>
+    <p
+      className="text-content__TextStyled-sc-1stkrsz-0 bUJWgm error-not-found__TextContentStyled-sc-1f8qoay-2 dpYmzX"
+      data-test="error-text"
+    >
+      You can visit our 
+      <a
+        data-test="error-link-main"
+        href="/blog"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+      >
+        homepage
+      </a>
+       
+      or contact our
+       
+      <a
+        data-test="error-link-support"
+        href="https://www.example.com/company/contacts/"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        target="_blank"
+      >
+        support team
+      </a>
+      .
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots ErrorNotFound with heading 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 fiLzXF"
+>
+  <h1
+    className="text-content__TextStyled-sc-1stkrsz-0 dRRiqw error-not-found__HeadingStyled-sc-1f8qoay-1 jlRpDg"
+    data-test="error-heading"
+  >
+    Heading
+  </h1>
+</div>
+`;

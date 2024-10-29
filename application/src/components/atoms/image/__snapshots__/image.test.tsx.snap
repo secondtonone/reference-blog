@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots Image default 1`] = `
+<img
+  alt="Picture"
+  className="image__ImageStyled-sc-rj8okk-0 beGhfT test"
+  data-src={null}
+  data-test="picture"
+  src="https://static.example.com/blog-next-static/banners/newsletter.png"
+/>
+`;
+
+exports[`Match snapshots Image with lazy loading 1`] = `
+<img
+  alt="Picture"
+  className="image__ImageStyled-sc-rj8okk-0 hueYwk test lazyload"
+  data-src="https://static.example.com/blogxt-static/banners/newsletter.png"
+  data-test="picture"
+  src={null}
+/>
+`;
+
+exports[`Match snapshots Image with loading eager 1`] = `
+<img
+  alt="Picture"
+  className="image__ImageStyled-sc-rj8okk-0 hueYwk test lazyload"
+  data-src="https://static.example.com/blogxt-static/banners/newsletter.png"
+  data-test="picture"
+  loading="eager"
+  src={null}
+/>
+`;
+
+exports[`Match snapshots Image with loading lazy 1`] = `
+<img
+  alt="Picture"
+  className="image__ImageStyled-sc-rj8okk-0 hueYwk test lazyload"
+  data-src="https://static.example.com/blogxt-static/banners/newsletter.png"
+  data-test="picture"
+  loading="lazy"
+  src={null}
+/>
+`;
+
+exports[`Match snapshots Image with sizes 1`] = `
+<img
+  alt="Picture"
+  className="image__ImageStyled-sc-rj8okk-0 beGhfT"
+  data-src={null}
+  data-test="picture"
+  height="320"
+  src="https://static.example.com/blogxt-static/banners/newsletter.png"
+  width="300"
+/>
+`;

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots RequestContainer default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 fAxvgW"
+/>
+`;
+
+exports[`Match snapshots RequestContainer if bot 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 knChur articles-list__ArticlesStyled-sc-1ql5vrh-0 dvGSGz"
+  data-test="articles-list-more-on-this"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kQBXYR articles-list__TextContentStyled-sc-1ql5vrh-1 icHrtT"
+        data-test="text-content"
+      >
+        <span
+          className="text-content__TextStyled-sc-1stkrsz-0 hLzCBq"
+          data-test="category-title"
+        >
+          More on this
+        </span>
+      </span>
+    </div>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 cUlqna"
+      data-test="columns"
+    />
+  </div>
+</div>
+`;
+
+exports[`Match snapshots RequestContainer without placeholder 1`] = `null`;

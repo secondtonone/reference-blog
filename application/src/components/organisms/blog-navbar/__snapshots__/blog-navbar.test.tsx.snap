@@ -1,0 +1,265 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots BlogNavbar default 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 dVHmfd blog-navbar__NavStyled-sc-dvahvm-4 kheRA blog-header-navbar"
+    data-test="blog-navbar"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 eHqbWL"
+      data-test="container"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 jFXiZu"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 gdFMYn"
+          data-test="logo"
+        >
+          <a
+            aria-label="To example"
+            class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+            data-test="logo-link-main"
+            href="/"
+            rel="noopener"
+            target="_blank"
+          >
+            brandexample
+          </a>
+          <a
+            aria-label="To Blog"
+            class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+            href="/blog/"
+          >
+            <span
+              class="logo__LogoStyled-sc-1o2jhw6-1 eTHmPb"
+              data-test="logo-link-blog"
+            >
+              blog
+            </span>
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 cugvt blog-navbar__NavLinksStyled-sc-dvahvm-5 hwVxMv"
+          data-test="navigation-menu"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 kEmwtx"
+          >
+            <ul>
+              <li />
+              <li />
+              <li />
+              <li />
+              <li />
+              <li />
+              <li />
+            </ul>
+            <ul>
+              <li
+                class="blog-navbar__SearchIconStyled-sc-dvahvm-8"
+              >
+                <a
+                  aria-label="Search"
+                  href="/blog/search"
+                >
+                  search
+                </a>
+              </li>
+              <li>
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 service-menu__SubscribeName-sc-16rp0bq-0 fFGyzn"
+                >
+                  <button
+                    aria-label="Subscribe"
+                    data-test="subscribe-popup-open"
+                    type="button"
+                  >
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 ffuInf"
+                      data-test="text-content"
+                    >
+                      Subscribe
+                    </span>
+                  </button>
+                </div>
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 bqJNXN service-menu__MobileSubscribeName-sc-16rp0bq-1 ioFEgt"
+                >
+                  <button
+                    aria-label="Subscribe"
+                    data-test="subscribe-popup-open"
+                    type="button"
+                  >
+                    Subscribe
+                  </button>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 dzJQsv"
+        >
+          burger
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots BlogNavbar hideSubscribe 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 dVHmfd blog-navbar__NavStyled-sc-dvahvm-4 kheRA blogader-navbar"
+    data-test="blog-navbar"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 eHqbWL"
+      data-test="container"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 jFXiZu"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 gdFMYn"
+          data-test="logo"
+        >
+          <a
+            aria-label="To example"
+            class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+            data-test="logo-link-main"
+            href="/"
+            rel="noopener"
+            target="_blank"
+          >
+            brandexample
+          </a>
+          <a
+            aria-label="To Blog"
+            class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+            href="/blog/"
+          >
+            <span
+              class="logo__LogoStyled-sc-1o2jhw6-1 eTHmPb"
+              data-test="logo-link-blog"
+            >
+              blog
+            </span>
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 cugvt blog-navbar__NavLinksStyled-sc-dvahvm-5 hwVxMv"
+          data-test="navigation-menu"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 kEmwtx"
+          >
+            <ul />
+            <ul>
+              <li
+                class="blog-navbar__SearchIconStyled-sc-dvahvm-8"
+              >
+                <a
+                  aria-label="Search"
+                  href="/blog/search"
+                >
+                  search
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 dzJQsv"
+        >
+          burger
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots BlogNavbar leveled categories 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 dVHmfd blog-navbar__NavStyled-sc-dvahvm-4 kheRA blogader-navbar"
+    data-test="blog-navbar"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 eHqbWL"
+      data-test="container"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 jFXiZu"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 gdFMYn"
+          data-test="logo"
+        >
+          <a
+            aria-label="To example"
+            class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+            data-test="logo-link-main"
+            href="/"
+            rel="noopener"
+            target="_blank"
+          >
+            brandexample
+          </a>
+          <a
+            aria-label="To Blog"
+            class="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+            href="/blog/"
+          >
+            <span
+              class="logo__LogoStyled-sc-1o2jhw6-1 eTHmPb"
+              data-test="logo-link-blog"
+            >
+              blog
+            </span>
+          </a>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 cugvt blog-navbar__NavLinksStyled-sc-dvahvm-5 hwVxMv"
+          data-test="navigation-menu"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 kEmwtx"
+          >
+            <ul>
+              <li />
+              <li />
+              <li />
+              <li />
+              <li />
+              <li />
+              <li />
+            </ul>
+            <ul>
+              <li
+                class="blog-navbar__SearchIconStyled-sc-dvahvm-8"
+              >
+                <a
+                  aria-label="Search"
+                  href="/blog/search"
+                >
+                  search
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 dzJQsv"
+        >
+          burger
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

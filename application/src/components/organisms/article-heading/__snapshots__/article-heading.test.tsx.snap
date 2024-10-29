@@ -1,0 +1,510 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ArticleHeading with category 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gyhqJS article-heading__ArticleHeadingStyled-sc-tmj7yn-2 jeWvxi"
+  data-test="article-heading"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 bcjrbf article-heading__TextContainer-sc-tmj7yn-0 fanvyV"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 gfnULt breadcrumbs__BreadcrumbsStyled-sc-1v67b40-0 buCJEi"
+          data-test="breadcrumbs"
+        >
+          <ul
+            className="text-content__TextStyled-sc-1stkrsz-0 kAbtGH"
+            data-test="breadcrumbs-links"
+          >
+            <li
+              data-test="breadcrumbs-link-level-1"
+            >
+              <a
+                href="/blog/category/seo/advanced-seo/"
+              >
+                Advanced SEO
+              </a>
+            </li>
+          </ul>
+        </div>
+        <h1
+          className="text-content__TextStyled-sc-1stkrsz-0 eMookp article-heading__TitleStyled-sc-tmj7yn-5 eucFWa"
+          data-test="heading-text"
+        >
+          The Ultimate Guide to Google Search Operators and Google Search Commands
+        </h1>
+        <span
+          className="text-content__TextStyled-sc-1stkrsz-0 vNtOM article-heading__MetaStyled-sc-tmj7yn-4 jUGrdQ"
+          data-test="text-content"
+        >
+          <strong
+            className="article-heading__CategoryStyled-sc-tmj7yn-3 iMvGvt"
+            data-test="category"
+          >
+            <a
+              data-test="category-link"
+              href="/blog/category/seo/advanced-seo"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              rel="noopener"
+              target="_blank"
+            >
+              Advanced SEO
+            </a>
+          </strong>
+          <p
+            data-test="author"
+          >
+            <a
+              href="/user/olga-andrienko"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              rel="noopener"
+              target="_blank"
+            >
+              Olga Andrienko
+            </a>
+          </p>
+          <span
+            data-test="date"
+          >
+            Aug 20, 2020
+          </span>
+          <span
+            data-test="time-to-read"
+          >
+            5
+             
+            min read
+          </span>
+        </span>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 gWsxPs article-heading__ImageStyled-sc-tmj7yn-1 kEMusM"
+      >
+        
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots ArticleHeading with hidden author profile 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gyhqJS article-heading__ArticleHeadingStyled-sc-tmj7yn-2 jeWvxi"
+  data-test="article-heading"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 bcjrbf article-heading__TextContainer-sc-tmj7yn-0 fanvyV"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 gfnULt breadcrumbs__BreadcrumbsStyled-sc-1v67b40-0 buCJEi"
+          data-test="breadcrumbs"
+        >
+          <ul
+            className="text-content__TextStyled-sc-1stkrsz-0 kAbtGH"
+            data-test="breadcrumbs-links"
+          >
+            <li
+              data-test="breadcrumbs-link-level-1"
+            >
+              <a
+                href="/blog/category/seo/advanced-seo/"
+              >
+                Advanced SEO
+              </a>
+            </li>
+          </ul>
+        </div>
+        <h1
+          className="text-content__TextStyled-sc-1stkrsz-0 eMookp article-heading__TitleStyled-sc-tmj7yn-5 eucFWa"
+          data-test="heading-text"
+        >
+          The Ultimate Guide to Google Search Operators and Google Search Commands
+        </h1>
+        <span
+          className="text-content__TextStyled-sc-1stkrsz-0 vNtOM article-heading__MetaStyled-sc-tmj7yn-4 jUGrdQ"
+          data-test="text-content"
+        >
+          <p
+            data-test="author"
+          >
+            Mr. Hidden
+          </p>
+          <span
+            data-test="date"
+          >
+            Aug 20, 2020
+          </span>
+          <span
+            data-test="time-to-read"
+          >
+            5
+             
+            min read
+          </span>
+        </span>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 gWsxPs article-heading__ImageStyled-sc-tmj7yn-1 kEMusM"
+      >
+        
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots ArticleHeading with image 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gyhqJS article-heading__ArticleHeadingStyled-sc-tmj7yn-2 jeWvxi"
+  data-test="article-heading"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 bcjrbf article-heading__TextContainer-sc-tmj7yn-0 fanvyV"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 gfnULt breadcrumbs__BreadcrumbsStyled-sc-1v67b40-0 buCJEi"
+          data-test="breadcrumbs"
+        >
+          <ul
+            className="text-content__TextStyled-sc-1stkrsz-0 kAbtGH"
+            data-test="breadcrumbs-links"
+          >
+            <li
+              data-test="breadcrumbs-link-level-1"
+            >
+              <a
+                href="/blog/category/seo/advanced-seo/"
+              >
+                Advanced SEO
+              </a>
+            </li>
+          </ul>
+        </div>
+        <h1
+          className="text-content__TextStyled-sc-1stkrsz-0 eMookp article-heading__TitleStyled-sc-tmj7yn-5 eucFWa"
+          data-test="heading-text"
+        >
+          The Ultimate Guide to Google Search Operators and Google Search Commands
+        </h1>
+        <span
+          className="text-content__TextStyled-sc-1stkrsz-0 vNtOM article-heading__MetaStyled-sc-tmj7yn-4 jUGrdQ"
+          data-test="text-content"
+        >
+          <p
+            data-test="author"
+          >
+            <a
+              href="/user/olga-andrienko"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              rel="noopener"
+              target="_blank"
+            >
+              Olga Andrienko
+            </a>
+          </p>
+          <span
+            data-test="date"
+          >
+            Aug 20, 2020
+          </span>
+          <span
+            data-test="time-to-read"
+          >
+            5
+             
+            min read
+          </span>
+        </span>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 gWsxPs article-heading__ImageStyled-sc-tmj7yn-1 kEMusM"
+      >
+        <img
+          alt="altPreviewImage"
+          className="image__ImageStyled-sc-rj8okk-0 beGhfT"
+          data-src={null}
+          data-test="image"
+          height="248"
+          src="/test-image.jpg"
+          width="340"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots ArticleHeading with image dark 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gyhqJS article-heading__ArticleHeadingStyled-sc-tmj7yn-2 jeWvxi"
+  data-test="article-heading"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 bcjrbf article-heading__TextContainer-sc-tmj7yn-0 fanvyV"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 gfnULt breadcrumbs__BreadcrumbsStyled-sc-1v67b40-0 buCJEi"
+          data-test="breadcrumbs"
+        >
+          <ul
+            className="text-content__TextStyled-sc-1stkrsz-0 kAbtGH"
+            data-test="breadcrumbs-links"
+          >
+            <li
+              data-test="breadcrumbs-link-level-1"
+            >
+              <a
+                href="/blog/category/seo/advanced-seo/"
+              >
+                Advanced SEO
+              </a>
+            </li>
+          </ul>
+        </div>
+        <h1
+          className="text-content__TextStyled-sc-1stkrsz-0 eMookp article-heading__TitleStyled-sc-tmj7yn-5 eucFWa"
+          data-test="heading-text"
+        >
+          The Ultimate Guide to Google Search Operators and Google Search Commands
+        </h1>
+        <span
+          className="text-content__TextStyled-sc-1stkrsz-0 vNtOM article-heading__MetaStyled-sc-tmj7yn-4 jUGrdQ"
+          data-test="text-content"
+        >
+          <p
+            data-test="author"
+          >
+            <a
+              href="/user/olga-andrienko"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              rel="noopener"
+              target="_blank"
+            >
+              Olga Andrienko
+            </a>
+          </p>
+          <span
+            data-test="date"
+          >
+            Aug 20, 2020
+          </span>
+          <span
+            data-test="time-to-read"
+          >
+            5
+             
+            min read
+          </span>
+        </span>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 gWsxPs article-heading__ImageStyled-sc-tmj7yn-1 kEMusM"
+      >
+        <img
+          alt="altPreviewImage"
+          className="image__ImageStyled-sc-rj8okk-0 beGhfT"
+          data-src={null}
+          data-test="image"
+          height="248"
+          src="/test-image.jpg"
+          width="340"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots ArticleHeading with text 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gyhqJS article-heading__ArticleHeadingStyled-sc-tmj7yn-2 jeWvxi"
+  data-test="article-heading"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 bcjrbf article-heading__TextContainer-sc-tmj7yn-0 fanvyV"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 gfnULt breadcrumbs__BreadcrumbsStyled-sc-1v67b40-0 buCJEi"
+          data-test="breadcrumbs"
+        >
+          <ul
+            className="text-content__TextStyled-sc-1stkrsz-0 kAbtGH"
+            data-test="breadcrumbs-links"
+          >
+            <li
+              data-test="breadcrumbs-link-level-1"
+            >
+              <a
+                href="/blog/category/seo/advanced-seo/"
+              >
+                Advanced SEO
+              </a>
+            </li>
+          </ul>
+        </div>
+        <h1
+          className="text-content__TextStyled-sc-1stkrsz-0 eMookp article-heading__TitleStyled-sc-tmj7yn-5 eucFWa"
+          data-test="heading-text"
+        >
+          The Ultimate Guide to Google Search Operators and Google Search Commands
+        </h1>
+        <span
+          className="text-content__TextStyled-sc-1stkrsz-0 vNtOM article-heading__MetaStyled-sc-tmj7yn-4 jUGrdQ"
+          data-test="text-content"
+        >
+          <p
+            data-test="author"
+          >
+            <a
+              href="/user/olga-andrienko"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              rel="noopener"
+              target="_blank"
+            >
+              Olga Andrienko
+            </a>
+          </p>
+          <span
+            data-test="date"
+          >
+            Aug 20, 2020
+          </span>
+          <span
+            data-test="time-to-read"
+          >
+            5
+             
+            min read
+          </span>
+        </span>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 gWsxPs article-heading__ImageStyled-sc-tmj7yn-1 kEMusM"
+      >
+        
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots ArticleHeading with text dark 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gyhqJS article-heading__ArticleHeadingStyled-sc-tmj7yn-2 jeWvxi"
+  data-test="article-heading"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 bcjrbf article-heading__TextContainer-sc-tmj7yn-0 fanvyV"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 gfnULt breadcrumbs__BreadcrumbsStyled-sc-1v67b40-0 buCJEi"
+          data-test="breadcrumbs"
+        >
+          <ul
+            className="text-content__TextStyled-sc-1stkrsz-0 kAbtGH"
+            data-test="breadcrumbs-links"
+          >
+            <li
+              data-test="breadcrumbs-link-level-1"
+            >
+              <a
+                href="/blog/category/seo/advanced-seo/"
+              >
+                Advanced SEO
+              </a>
+            </li>
+          </ul>
+        </div>
+        <h1
+          className="text-content__TextStyled-sc-1stkrsz-0 eMookp article-heading__TitleStyled-sc-tmj7yn-5 eucFWa"
+          data-test="heading-text"
+        >
+          The Ultimate Guide to Google Search Operators and Google Search Commands
+        </h1>
+        <span
+          className="text-content__TextStyled-sc-1stkrsz-0 vNtOM article-heading__MetaStyled-sc-tmj7yn-4 jUGrdQ"
+          data-test="text-content"
+        >
+          <p
+            data-test="author"
+          >
+            <a
+              href="/user/olga-andrienko"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              rel="noopener"
+              target="_blank"
+            >
+              Olga Andrienko
+            </a>
+          </p>
+          <span
+            data-test="date"
+          >
+            Aug 20, 2020
+          </span>
+          <span
+            data-test="time-to-read"
+          >
+            5
+             
+            min read
+          </span>
+        </span>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 gWsxPs article-heading__ImageStyled-sc-tmj7yn-1 kEMusM"
+      >
+        
+      </div>
+    </div>
+  </div>
+</div>
+`;

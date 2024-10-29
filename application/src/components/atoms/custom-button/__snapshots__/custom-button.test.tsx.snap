@@ -1,0 +1,591 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot Ghost Button match snapshot animated 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 animated-button__AnimatedButton-sc-cwpr3f-0 dGmWiH PcQft dxpuxf"
+  data-test="button-secondary"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        Ghost
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Ghost Button match snapshot default 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft"
+  data-test="button-secondary"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        Ghost
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Ghost Button match snapshot disabled 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft"
+  data-test="button-secondary"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ __disabled_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+    data-ui-name="Button"
+    disabled={true}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={-1}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        Ghost disabled
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Ghost Button match snapshot internal 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft"
+  data-test="button-secondary"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        Ghost Internal
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Ghost Button match snapshot loading 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft"
+  data-test="button-secondary"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        <div
+          className="icon-loading__SpinStyled-sc-1n7o5mk-0 kdsfJp"
+          data-test="icon-loading"
+        />
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Ghost Button match snapshot loading disabled 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft"
+  data-test="button-secondary"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ __disabled_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+    data-ui-name="Button"
+    disabled={true}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={-1}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        <div
+          className="icon-loading__SpinStyled-sc-1n7o5mk-0 kdsfJp"
+          data-test="icon-loading"
+        />
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Ghost Button match snapshot selected 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 selected-button__SelectedButton-sc-1jiaz0d-0 dGmWiH fPOCVU"
+  data-test="button-selected"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        Ghost selected
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Ghost Button match snapshot with border 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft"
+  data-test="button-secondary"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        Ghost border
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Main Button match snapshot active 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 primary-button__PrimaryButton-sc-1gi77ac-0 dGmWiH bZuBBR"
+  data-test="button-primary"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_primary-info_rkzvx_gg_ __active_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        Active
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Main Button match snapshot default 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 primary-button__PrimaryButton-sc-1gi77ac-0 dGmWiH bZuBBR"
+  data-test="button-primary"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_primary-info_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        Default
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Main Button match snapshot disabled 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 primary-button__PrimaryButton-sc-1gi77ac-0 dGmWiH bZuBBR"
+  data-test="button-primary"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ __disabled_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_primary-info_rkzvx_gg_"
+    data-ui-name="Button"
+    disabled={true}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={-1}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        Disabled
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Main Button match snapshot empty 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 primary-button__PrimaryButton-sc-1gi77ac-0 dGmWiH bZuBBR"
+  data-test="button-primary"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ __disabled_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_primary-info_rkzvx_gg_"
+    data-ui-name="Button"
+    disabled={true}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={-1}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      />
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Main Button match snapshot internal 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 internal-button__InternalButton-sc-6tgax4-0 dGmWiH btMXHM"
+  data-test="button-secondary"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_primary-info_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        Internal
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Main Button match snapshot loading 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 primary-button__PrimaryButton-sc-1gi77ac-0 dGmWiH bZuBBR"
+  data-test="button-loading"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_primary-info_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        <div
+          className="icon-loading__SpinStyled-sc-1n7o5mk-0 dSDojr"
+          data-test="icon-loading"
+        />
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Main Button match snapshot loading disabled 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 primary-button__PrimaryButton-sc-1gi77ac-0 dGmWiH bZuBBR"
+  data-test="button-loading"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ __disabled_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_primary-info_rkzvx_gg_"
+    data-ui-name="Button"
+    disabled={true}
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={-1}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        <div
+          className="icon-loading__SpinStyled-sc-1n7o5mk-0 dSDojr"
+          data-test="icon-loading"
+        />
+      </span>
+    </span>
+  </button>
+</span>
+`;
+
+exports[`Match snapshot Main Button match snapshot selected 1`] = `
+<span
+  className="base-button__BaseButton-sc-1hqbwl-0 selected-button__SelectedButton-sc-1jiaz0d-0 dGmWiH fPOCVU"
+  data-test="button-selected"
+  size="xl"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="xl"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="xl"
+        style={Object {}}
+      >
+        Selected
+      </span>
+    </span>
+  </button>
+</span>
+`;

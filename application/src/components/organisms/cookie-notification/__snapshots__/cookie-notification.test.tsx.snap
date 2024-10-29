@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots CookieNotification hidden 1`] = `null`;
+
+exports[`Match snapshots CookieNotification visible 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 cusNbo bottom-bar__BarStyled-sc-i452z5-0 fRbEzd cookie-notification__CookieNotificationStyled-sc-1t974cv-0 PgCwf"
+  data-test="cookie-notifications"
+>
+  <span
+    className="text-content__TextStyled-sc-1stkrsz-0 eeNJja"
+    data-test="cookie-caption"
+  >
+    We use cookies to give you the best online experience. By using this website you agree with 
+    <a
+      href="https://www.example.com/company/legal/privacy-policy/#3.3.3"
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+      target="_blank"
+    >
+      our cookie policy
+    </a>
+    .
+  </span>
+  <span
+    className="text-content__TextStyled-sc-1stkrsz-0 bUJWgm cookie-notification__ButtonTextStyled-sc-1t974cv-1 bvhSuM"
+    data-test="cookie-close"
+  >
+    <span
+      className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 kbdzNY PcQft"
+      data-test="button-secondary"
+      size="xl"
+    >
+      <button
+        className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        size="xl"
+        style={Object {}}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+          style={Object {}}
+        >
+          <span
+            className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+            size="xl"
+            style={Object {}}
+          >
+            <span
+              className="text-content__TextStyled-sc-1stkrsz-0 jRSTzH"
+              data-test="text-content"
+            >
+              I accept cookies
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </span>
+</div>
+`;

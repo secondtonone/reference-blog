@@ -1,0 +1,782 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots SearchPage no result 1`] = `
+<DocumentFragment>
+  <div
+    class="page-section__SectionStyled-sc-rosswz-0 eurBdM search-page__Section-sc-14cejbt-0 gxTkQs"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bJvAHE"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+        data-test="container"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 bicuau"
+        >
+          <span
+            class="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+            data-test="button-icon-close"
+          >
+            <button
+              class="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+              data-ui-name="Button"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="___SInner_rkzvx_gg_"
+                data-ui-name="Box"
+              >
+                <span
+                  class="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                  data-ui-name="Button.Text"
+                >
+                  <span>
+                    close
+                  </span>
+                </span>
+              </span>
+            </button>
+          </span>
+        </div>
+        <h1
+          class="text-content__TextStyled-sc-1stkrsz-0 hQhGcl"
+          data-test="text-content"
+        >
+          No results found for
+        </h1>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iHvvAB"
+        >
+          <form
+            class="search-form__Form-sc-105lab1-0 hwaIMG"
+            data-test="search-form"
+            style="flex: 1;"
+          >
+            <span
+              class="field-container__Container-sc-qv1os7-0 GPijM"
+              data-test="field-container"
+            >
+              <span>
+                <div
+                  class="___SInput_ig413_gg_ _size_xl_ig413_gg_ __focused_ig413_gg_ _state_normal_ig413_gg_"
+                  data-test="search-input"
+                  data-ui-name="Input"
+                >
+                  <input
+                    class="___SValue_ig413_gg_ _size_xl_ig413_gg_"
+                    data-ui-name="Input.Value"
+                    name="request"
+                    placeholder=""
+                    value="fff"
+                  />
+                  <div
+                    class="___SOutline_ig413_gg_"
+                  />
+                </div>
+              </span>
+            </span>
+          </form>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 euddlo"
+          >
+            <span
+              class="base-button__BaseButton-sc-1hqbwl-0 primary-button__PrimaryButton-sc-1gi77ac-0 dGmWiH bZuBBR"
+              data-test="button-primary"
+            >
+              <button
+                class="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_primary-info_rkzvx_gg_"
+                data-ui-name="Button"
+                style="width: 90px;"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                >
+                  <span
+                    class="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                  >
+                    Search
+                  </span>
+                </span>
+              </button>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 ioqbyi"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+        data-test="container"
+      >
+        <h2
+          class="text-content__TextStyled-sc-1stkrsz-0 bbBHtp"
+          data-test="text-content"
+        >
+          Suggestions:
+        </h2>
+        <ul
+          class="list__StyledList-sc-8a55c7-0 ckDNnM"
+          data-test="suggestions-list"
+        >
+          <li
+            data-test="suggestions-list-item"
+          >
+            <span
+              data-list="bullet"
+            />
+            <div
+              data-list="text"
+            >
+              Ensure words are spelled correctly.
+            </div>
+          </li>
+          <li
+            data-test="suggestions-list-item"
+          >
+            <span
+              data-list="bullet"
+            />
+            <div
+              data-list="text"
+            >
+              Try rephrasing keywords or using synonyms.
+            </div>
+          </li>
+          <li
+            data-test="suggestions-list-item"
+          >
+            <span
+              data-list="bullet"
+            />
+            <div
+              data-list="text"
+            >
+              Try more general keywords.
+            </div>
+          </li>
+          <li
+            data-test="suggestions-list-item"
+          >
+            <span
+              data-list="bullet"
+            />
+            <div
+              data-list="text"
+            >
+              Make your queries as concise as possible.
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots SearchPage with result 1`] = `
+<DocumentFragment>
+  <div
+    class="page-section__SectionStyled-sc-rosswz-0 eurBdM search-page__Section-sc-14cejbt-0 gxTkQs"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 bJvAHE"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+        data-test="container"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 bicuau"
+        >
+          <span
+            class="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+            data-test="button-icon-close"
+          >
+            <button
+              class="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+              data-ui-name="Button"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="___SInner_rkzvx_gg_"
+                data-ui-name="Box"
+              >
+                <span
+                  class="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+                  data-ui-name="Button.Text"
+                >
+                  <span>
+                    close
+                  </span>
+                </span>
+              </span>
+            </button>
+          </span>
+        </div>
+        <h1
+          class="text-content__TextStyled-sc-1stkrsz-0 hQhGcl"
+          data-test="text-content"
+        >
+          Search results for
+        </h1>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 iHvvAB"
+        >
+          <form
+            class="search-form__Form-sc-105lab1-0 hwaIMG"
+            data-test="search-form"
+            style="flex: 1;"
+          >
+            <span
+              class="field-container__Container-sc-qv1os7-0 GPijM"
+              data-test="field-container"
+            >
+              <span>
+                <div
+                  class="___SInput_ig413_gg_ _size_xl_ig413_gg_ __focused_ig413_gg_ _state_normal_ig413_gg_"
+                  data-test="search-input"
+                  data-ui-name="Input"
+                >
+                  <input
+                    class="___SValue_ig413_gg_ _size_xl_ig413_gg_"
+                    data-ui-name="Input.Value"
+                    name="request"
+                    placeholder=""
+                    value="google"
+                  />
+                  <div
+                    class="___SOutline_ig413_gg_"
+                  />
+                </div>
+              </span>
+            </span>
+          </form>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 euddlo"
+          >
+            <span
+              class="base-button__BaseButton-sc-1hqbwl-0 primary-button__PrimaryButton-sc-1gi77ac-0 dGmWiH bZuBBR"
+              data-test="button-primary"
+            >
+              <button
+                class="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_primary-info_rkzvx_gg_"
+                data-ui-name="Button"
+                style="width: 90px;"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                >
+                  <span
+                    class="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                  >
+                    Search
+                  </span>
+                </span>
+              </button>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 lnYexL"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 knChur articles-list__ArticlesStyled-sc-1ql5vrh-0"
+        data-test="articles-list-horizontal"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+          data-test="container"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0"
+          />
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dSDZBu"
+            data-test="columns"
+          >
+            <div
+              class="column__ColumnStyled-sc-xt4v4z-0 dzXbhj"
+              data-test="post-card-horizontal"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 ejYGEx"
+                data-test="post-card-item-en"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 lesazw post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+                  data-test="image"
+                >
+                  <a
+                    data-test="image-link"
+                    href="/white-hat-seo"
+                  >
+                    <img
+                      alt="Article Image"
+                      class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                      data-src="https://storage.googleapis.com/blog-rc/testing/article-list/1.jpg"
+                      height="190"
+                      width="158"
+                    />
+                  </a>
+                </div>
+                <article
+                  class="post-card-content__ContentStyled-sc-gda4z3-1 eCkoQz"
+                  data-test="content-en"
+                >
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0"
+                  >
+                    <h3
+                      class="text-content__TextStyled-sc-1stkrsz-0 hiKBbj"
+                      data-test="text-content"
+                      style="word-break: break-word;"
+                    >
+                      <a
+                        class="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                        data-test="title"
+                        href="/white-hat-seo"
+                      >
+                        The Ultimate Guide to Google Search Operators and Google Search Commands
+                      </a>
+                    </h3>
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 cwaFih post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                      data-test="description"
+                    >
+                      In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+                    </span>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 cGxrni post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                      data-test="meta"
+                    >
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 isyibR"
+                      >
+                        <div
+                          class="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+                        >
+                          <p
+                            class="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                            data-test="category"
+                          >
+                            <a
+                              href="/blog/category/advertising"
+                              target="_blank"
+                            >
+                              Advertising
+                            </a>
+                          </p>
+                          <div
+                            class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                          />
+                        </div>
+                      </div>
+                      <span
+                        class="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                        data-test="date"
+                      >
+                        Aug 20, 2020
+                      </span>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <div
+              class="column__ColumnStyled-sc-xt4v4z-0 dzXbhj"
+              data-test="post-card-horizontal"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 ejYGEx"
+                data-test="post-card-item-en"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 lesazw post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+                  data-test="image"
+                >
+                  <a
+                    data-test="image-link"
+                    href="/how-to-rank-a-youtube-video"
+                  >
+                    <img
+                      alt="Article Image"
+                      class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                      data-src="https://storage.googleapis.com/blog/testing/article-list/3.jpg"
+                      height="190"
+                      width="158"
+                    />
+                  </a>
+                </div>
+                <article
+                  class="post-card-content__ContentStyled-sc-gda4z3-1 eCkoQz"
+                  data-test="content-en"
+                >
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0"
+                  >
+                    <h3
+                      class="text-content__TextStyled-sc-1stkrsz-0 hiKBbj"
+                      data-test="text-content"
+                      style="word-break: break-word;"
+                    >
+                      <a
+                        class="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                        data-test="title"
+                        href="/how-to-rank-a-youtube-video"
+                      >
+                        Some article text with captions and tool words and third party keys and other stuff
+                      </a>
+                    </h3>
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 cwaFih post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                      data-test="description"
+                    >
+                      In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+                    </span>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 cGxrni post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                      data-test="meta"
+                    >
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 isyibR"
+                      >
+                        <div
+                          class="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+                        >
+                          <div
+                            class="box-adaptive__BoxStyled-sc-g2wy39-0 dzytji post-card-category__IconStyled-sc-yr5537-1 bLpcYW"
+                          >
+                            <span>
+                              ogonek
+                            </span>
+                          </div>
+                          <p
+                            class="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                            data-test="category"
+                          >
+                            <a
+                              href="/blog/category/seo"
+                              target="_blank"
+                            >
+                              Seo
+                            </a>
+                          </p>
+                          <div
+                            class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                          />
+                        </div>
+                      </div>
+                      <span
+                        class="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                        data-test="date"
+                      >
+                        Aug 20, 2020
+                      </span>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <div
+              class="column__ColumnStyled-sc-xt4v4z-0 dzXbhj"
+              data-test="post-card-horizontal"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 ejYGEx"
+                data-test="post-card-item-en"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 lesazw post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+                  data-test="image"
+                >
+                  <a
+                    data-test="image-link"
+                    href="/improve-seo"
+                  >
+                    <img
+                      alt="Article Image"
+                      class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                      data-src="https://storage.googleapis.com/blog/testing/article-list/4.jpg"
+                      height="190"
+                      width="158"
+                    />
+                  </a>
+                </div>
+                <article
+                  class="post-card-content__ContentStyled-sc-gda4z3-1 eCkoQz"
+                  data-test="content-en"
+                >
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0"
+                  >
+                    <h3
+                      class="text-content__TextStyled-sc-1stkrsz-0 hiKBbj"
+                      data-test="text-content"
+                      style="word-break: break-word;"
+                    >
+                      <a
+                        class="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                        data-test="title"
+                        href="/improve-seo"
+                      >
+                        A article text with captions and tool words and third party keys and other stuff
+                      </a>
+                    </h3>
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 cwaFih post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                      data-test="description"
+                    >
+                      In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+                    </span>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 cGxrni post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                      data-test="meta"
+                    >
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 isyibR"
+                      >
+                        <div
+                          class="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+                        >
+                          <p
+                            class="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                            data-test="category"
+                          >
+                            <a
+                              href="/blog/category/seo"
+                              target="_blank"
+                            >
+                              Seo
+                            </a>
+                          </p>
+                          <div
+                            class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                          />
+                        </div>
+                      </div>
+                      <span
+                        class="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                        data-test="date"
+                      >
+                        Aug 20, 2020
+                      </span>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <div
+              class="column__ColumnStyled-sc-xt4v4z-0 dzXbhj"
+              data-test="post-card-horizontal"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 ejYGEx"
+                data-test="post-card-item-en"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 lesazw post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+                  data-test="image"
+                >
+                  <a
+                    data-test="image-link"
+                    href="/improve-seo"
+                  >
+                    <img
+                      alt="Article Image"
+                      class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                      data-src="https://storage.googleapis.com/blog/testing/article-list/2.jpg"
+                      height="190"
+                      width="158"
+                    />
+                  </a>
+                </div>
+                <article
+                  class="post-card-content__ContentStyled-sc-gda4z3-1 eCkoQz"
+                  data-test="content-en"
+                >
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0"
+                  >
+                    <h3
+                      class="text-content__TextStyled-sc-1stkrsz-0 hiKBbj"
+                      data-test="text-content"
+                      style="word-break: break-word;"
+                    >
+                      <a
+                        class="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                        data-test="title"
+                        href="/improve-seo"
+                      >
+                        A article text with captions and tool words and third party keys and other stuff
+                      </a>
+                    </h3>
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 cwaFih post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                      data-test="description"
+                    >
+                      In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+                    </span>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 cGxrni post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                      data-test="meta"
+                    >
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 isyibR"
+                      >
+                        <div
+                          class="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+                        >
+                          <p
+                            class="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                            data-test="category"
+                          >
+                            <a
+                              href="/blog/category/social-media"
+                              target="_blank"
+                            >
+                              Social Media
+                            </a>
+                          </p>
+                          <div
+                            class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                          />
+                        </div>
+                      </div>
+                      <span
+                        class="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                        data-test="date"
+                      >
+                        Aug 20, 2020
+                      </span>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <div
+              class="column__ColumnStyled-sc-xt4v4z-0 dzXbhj"
+              data-test="post-card-horizontal"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 ejYGEx"
+                data-test="post-card-item-en"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 lesazw post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+                  data-test="image"
+                >
+                  <a
+                    data-test="image-link"
+                    href="/improve-seo"
+                  >
+                    <img
+                      alt="Article Image"
+                      class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                      data-src="https://storage.googleapis.com/blog/testing/article-list/3.jpg"
+                      height="190"
+                      width="158"
+                    />
+                  </a>
+                </div>
+                <article
+                  class="post-card-content__ContentStyled-sc-gda4z3-1 eCkoQz"
+                  data-test="content-en"
+                >
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0"
+                  >
+                    <h3
+                      class="text-content__TextStyled-sc-1stkrsz-0 hiKBbj"
+                      data-test="text-content"
+                      style="word-break: break-word;"
+                    >
+                      <a
+                        class="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                        data-test="title"
+                        href="/improve-seo"
+                      >
+                        A article text with captions and tool words and third party keys and other stuff
+                      </a>
+                    </h3>
+                    <span
+                      class="text-content__TextStyled-sc-1stkrsz-0 cwaFih post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                      data-test="description"
+                    >
+                      In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+                    </span>
+                    <div
+                      class="box-adaptive__BoxStyled-sc-g2wy39-0 cGxrni post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                      data-test="meta"
+                    >
+                      <div
+                        class="box-adaptive__BoxStyled-sc-g2wy39-0 isyibR"
+                      >
+                        <div
+                          class="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+                        >
+                          <p
+                            class="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                            data-test="category"
+                          >
+                            <a
+                              href="/blog/category/market-research"
+                              target="_blank"
+                            >
+                              Market Research
+                            </a>
+                          </p>
+                          <div
+                            class="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                          />
+                        </div>
+                      </div>
+                      <span
+                        class="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                        data-test="date"
+                      >
+                        Aug 20, 2020
+                      </span>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+          </div>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 dpNVKQ"
+          >
+            <span
+              class="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 animated-link__AnimatedButton-sc-1rf1fnd-0 khoRUy bLzqQC eLlNnj"
+              data-test="button-link-animated"
+            >
+              <a
+                class="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+                data-test="load-more"
+                href="?page=undefined"
+              >
+                More articles
+              </a>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

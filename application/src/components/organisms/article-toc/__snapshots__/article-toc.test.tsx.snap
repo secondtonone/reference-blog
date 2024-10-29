@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ArticleToc default 1`] = `
+<ArticleToc
+  headings={
+    Array [
+      Object {
+        "id": "lead-generation-strategies-for-marketing-agencies",
+        "tagName": "H2",
+        "textContent": "Lead Generation Strategies for Marketing Agencies",
+      },
+      Object {
+        "id": "social-media",
+        "tagName": "H3",
+        "textContent": "Social Media",
+      },
+      Object {
+        "id": "linkedin",
+        "tagName": "H4",
+        "textContent": "LinkedIn",
+      },
+      Object {
+        "id": "email",
+        "tagName": "H2",
+        "textContent": "Chatbots",
+      },
+    ]
+  }
+  isExpanded={true}
+>
+  <HierarchyList
+    list={
+      Object {
+        "0": Object {
+          "child": 1,
+          "id": "lead-generation-strategies-for-marketing-agencies",
+          "level": 2,
+          "next": 3,
+          "parent": null,
+          "text": "Lead Generation Strategies for Marketing Agencies",
+        },
+        "1": Object {
+          "child": 2,
+          "id": "social-media",
+          "level": 3,
+          "next": null,
+          "parent": 0,
+          "text": "Social Media",
+        },
+        "2": Object {
+          "child": null,
+          "id": "linkedin",
+          "level": 4,
+          "next": null,
+          "parent": 1,
+          "text": "LinkedIn",
+        },
+        "3": Object {
+          "child": null,
+          "id": "email",
+          "level": 2,
+          "next": null,
+          "parent": null,
+          "text": "Chatbots",
+        },
+      }
+    }
+    wrapper={[Function]}
+  >
+    <ul>
+      <li
+        key="item-0"
+      >
+        <a
+          href="#lead-generation-strategies-for-marketing-agencies"
+        >
+          Lead Generation Strategies for Marketing Agencies
+        </a>
+        <ul>
+          <li
+            key="item-1"
+          >
+            <a
+              href="#social-media"
+            >
+              Social Media
+            </a>
+            <ul>
+              <li
+                key="item-2"
+              >
+                <a
+                  href="#linkedin"
+                >
+                  LinkedIn
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li
+        key="item-3"
+      >
+        <a
+          href="#email"
+        >
+          Chatbots
+        </a>
+      </li>
+    </ul>
+  </HierarchyList>
+</ArticleToc>
+`;

@@ -1,0 +1,631 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ArticleTocBottom default 1`] = `
+<ArticleTocBottom
+  isEnabled={true}
+  levels={
+    Array [
+      "h2",
+    ]
+  }
+>
+  <ForwardRef
+    onIntersection={[Function]}
+    once={true}
+    position="relative"
+    zIndex="99"
+  >
+    <ForwardRef
+      data-test="intersection-container"
+      position="relative"
+      zIndex="99"
+    >
+      <box-adaptive__BoxStyled
+        data-test="intersection-container"
+        position="relative"
+        zIndex="99"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 bWbGJG"
+          data-test="intersection-container"
+        >
+          <BottomBar
+            isExpanded={false}
+            onClick={[Function]}
+          >
+            <BottomBar
+              data-test="table-of-content"
+              flexDirection="column"
+            >
+              <bottom-bar__BarStyled
+                alignItems={
+                  Object {
+                    "lg": "center",
+                  }
+                }
+                borderRadius={
+                  Object {
+                    "_": "10px 10px 0 0",
+                    "lg": "10px",
+                  }
+                }
+                bottom={
+                  Object {
+                    "_": 0,
+                    "lg": 30,
+                  }
+                }
+                data-test="table-of-content"
+                display={
+                  Object {
+                    "sm": "flex",
+                  }
+                }
+                flexDirection="column"
+                fontSize={
+                  Object {
+                    "_": 1,
+                    "sm": 2,
+                  }
+                }
+                justifyContent={
+                  Object {
+                    "sm": "space-between",
+                  }
+                }
+                left={
+                  Object {
+                    "_": 0,
+                    "lg": 40,
+                  }
+                }
+                lineHeight={1.65}
+                p={
+                  Object {
+                    "_": 5,
+                    "sm": "19.5px 45px",
+                    "x": 6,
+                  }
+                }
+                pb={6}
+                position="fixed"
+                textAlign={
+                  Object {
+                    "_": "center",
+                    "sm": "left",
+                  }
+                }
+                width={
+                  Object {
+                    "_": "100%",
+                    "lg": 635,
+                  }
+                }
+                zIndex={90}
+              >
+                <ForwardRef
+                  alignItems={
+                    Object {
+                      "lg": "center",
+                    }
+                  }
+                  borderRadius={
+                    Object {
+                      "_": "10px 10px 0 0",
+                      "lg": "10px",
+                    }
+                  }
+                  bottom={
+                    Object {
+                      "_": 0,
+                      "lg": 30,
+                    }
+                  }
+                  className="bottom-bar__BarStyled-sc-i452z5-0 fRbEzd"
+                  data-test="table-of-content"
+                  display={
+                    Object {
+                      "sm": "flex",
+                    }
+                  }
+                  flexDirection="column"
+                  fontSize={
+                    Object {
+                      "_": 1,
+                      "sm": 2,
+                    }
+                  }
+                  justifyContent={
+                    Object {
+                      "sm": "space-between",
+                    }
+                  }
+                  left={
+                    Object {
+                      "_": 0,
+                      "lg": 40,
+                    }
+                  }
+                  lineHeight={1.65}
+                  p={
+                    Object {
+                      "_": 5,
+                      "sm": "19.5px 45px",
+                      "x": 6,
+                    }
+                  }
+                  pb={6}
+                  position="fixed"
+                  textAlign={
+                    Object {
+                      "_": "center",
+                      "sm": "left",
+                    }
+                  }
+                  width={
+                    Object {
+                      "_": "100%",
+                      "lg": 635,
+                    }
+                  }
+                  zIndex={90}
+                >
+                  <box-adaptive__BoxStyled
+                    alignItems={
+                      Object {
+                        "lg": "center",
+                      }
+                    }
+                    borderRadius={
+                      Object {
+                        "_": "10px 10px 0 0",
+                        "lg": "10px",
+                      }
+                    }
+                    bottom={
+                      Object {
+                        "_": 0,
+                        "lg": 30,
+                      }
+                    }
+                    className="bottom-bar__BarStyled-sc-i452z5-0 fRbEzd"
+                    data-test="table-of-content"
+                    display={
+                      Object {
+                        "sm": "flex",
+                      }
+                    }
+                    flexDirection="column"
+                    fontSize={
+                      Object {
+                        "_": 1,
+                        "sm": 2,
+                      }
+                    }
+                    justifyContent={
+                      Object {
+                        "sm": "space-between",
+                      }
+                    }
+                    left={
+                      Object {
+                        "_": 0,
+                        "lg": 40,
+                      }
+                    }
+                    lineHeight={1.65}
+                    p={
+                      Object {
+                        "_": 5,
+                        "sm": "19.5px 45px",
+                        "x": 6,
+                      }
+                    }
+                    pb={6}
+                    position="fixed"
+                    textAlign={
+                      Object {
+                        "_": "center",
+                        "sm": "left",
+                      }
+                    }
+                    width={
+                      Object {
+                        "_": "100%",
+                        "lg": 635,
+                      }
+                    }
+                    zIndex={90}
+                  >
+                    <div
+                      className="box-adaptive__BoxStyled-sc-g2wy39-0 kkhnEY bottom-bar__BarStyled-sc-i452z5-0 fRbEzd"
+                      data-test="table-of-content"
+                    >
+                      <bottom-bar__ButtonTextStyled
+                        data-test="table-of-content-toggle"
+                        isExpanded={false}
+                      >
+                        <div
+                          className="bottom-bar__ButtonTextStyled-sc-13ub8up-0 jFAvNM"
+                          data-test="table-of-content-toggle"
+                        >
+                          <CustomButton
+                            internal={true}
+                            onClick={[Function]}
+                            use="secondary"
+                            wide={true}
+                          >
+                            <secondary-button__SecondaryButton
+                              data-test="button-secondary"
+                              size="xl"
+                              wide={true}
+                            >
+                              <span
+                                className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 kbdzNY PcQft"
+                                data-test="button-secondary"
+                                size="xl"
+                              >
+                                <Button
+                                  onClick={[Function]}
+                                  size="xl"
+                                  use="secondary"
+                                >
+                                  <Button
+                                    data-ui-name="Button"
+                                    forwardRef={[Function]}
+                                    keyboardFocused={false}
+                                    onBlur={[Function]}
+                                    onClick={[Function]}
+                                    onFocus={[Function]}
+                                    onKeyDown={[Function]}
+                                    onMouseDown={[Function]}
+                                    size="xl"
+                                    tabIndex={0}
+                                    use="secondary"
+                                  >
+                                    <Box
+                                      Children={[Function]}
+                                      className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                                      data-ui-name="Button"
+                                      forwardRef={[Function]}
+                                      keyboardFocused={false}
+                                      onBlur={[Function]}
+                                      onClick={[Function]}
+                                      onFocus={[Function]}
+                                      onKeyDown={[Function]}
+                                      onMouseDown={[Function]}
+                                      size="xl"
+                                      styles={
+                                        Object {
+                                          "__SAddon": "___SAddon_rkzvx_gg_",
+                                          "__SButton": "___SButton_rkzvx_gg_",
+                                          "__SInner": "___SInner_rkzvx_gg_",
+                                          "__SSpin": "___SSpin_rkzvx_gg_",
+                                          "__SText": "___SText_rkzvx_gg_",
+                                          "_active": "__active_rkzvx_gg_",
+                                          "_disabled": "__disabled_rkzvx_gg_",
+                                          "_keyboardFocused": "__keyboardFocused_rkzvx_gg_",
+                                          "_loading": "__loading_rkzvx_gg_",
+                                          "_neighborLocation_both": "_neighborLocation_both_rkzvx_gg_",
+                                          "_neighborLocation_left": "_neighborLocation_left_rkzvx_gg_",
+                                          "_neighborLocation_right": "_neighborLocation_right_rkzvx_gg_",
+                                          "_size_l": "_size_l_rkzvx_gg_",
+                                          "_size_m": "_size_m_rkzvx_gg_",
+                                          "_size_s": "_size_s_rkzvx_gg_",
+                                          "_size_xl": "_size_xl_rkzvx_gg_",
+                                          "_theme_primary-danger": "_theme_primary-danger_rkzvx_gg_",
+                                          "_theme_primary-info": "_theme_primary-info_rkzvx_gg_",
+                                          "_theme_primary-invert": "_theme_primary-invert_rkzvx_gg_",
+                                          "_theme_primary-success": "_theme_primary-success_rkzvx_gg_",
+                                          "_theme_primary-warning": "_theme_primary-warning_rkzvx_gg_",
+                                          "_theme_secondary-info": "_theme_secondary-info_rkzvx_gg_",
+                                          "_theme_secondary-invert": "_theme_secondary-invert_rkzvx_gg_",
+                                          "_theme_secondary-muted": "_theme_secondary-muted_rkzvx_gg_",
+                                          "_theme_tertiary-info": "_theme_tertiary-info_rkzvx_gg_",
+                                          "_theme_tertiary-invert": "_theme_tertiary-invert_rkzvx_gg_",
+                                          "_theme_tertiary-muted": "_theme_tertiary-muted_rkzvx_gg_",
+                                        }
+                                      }
+                                      tabIndex={0}
+                                      tag="button"
+                                      type="button"
+                                      use="secondary"
+                                      use:theme="secondary-muted"
+                                    >
+                                      <button
+                                        className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+                                        data-ui-name="Button"
+                                        onBlur={[Function]}
+                                        onClick={[Function]}
+                                        onFocus={[Function]}
+                                        onKeyDown={[Function]}
+                                        onMouseDown={[Function]}
+                                        size="xl"
+                                        style={Object {}}
+                                        tabIndex={0}
+                                        type="button"
+                                      >
+                                        <Box
+                                          className="___SInner_rkzvx_gg_"
+                                          data-ui-name="Box"
+                                          tag="span"
+                                        >
+                                          <span
+                                            className="___SInner_rkzvx_gg_"
+                                            data-ui-name="Box"
+                                            style={Object {}}
+                                          >
+                                            <Button.Text>
+                                              <Button.Text
+                                                data-ui-name="Button.Text"
+                                                forwardRef={[Function]}
+                                                size="xl"
+                                                styles={
+                                                  Object {
+                                                    "__SAddon": "___SAddon_rkzvx_gg_",
+                                                    "__SButton": "___SButton_rkzvx_gg_",
+                                                    "__SInner": "___SInner_rkzvx_gg_",
+                                                    "__SSpin": "___SSpin_rkzvx_gg_",
+                                                    "__SText": "___SText_rkzvx_gg_",
+                                                    "_active": "__active_rkzvx_gg_",
+                                                    "_disabled": "__disabled_rkzvx_gg_",
+                                                    "_keyboardFocused": "__keyboardFocused_rkzvx_gg_",
+                                                    "_loading": "__loading_rkzvx_gg_",
+                                                    "_neighborLocation_both": "_neighborLocation_both_rkzvx_gg_",
+                                                    "_neighborLocation_left": "_neighborLocation_left_rkzvx_gg_",
+                                                    "_neighborLocation_right": "_neighborLocation_right_rkzvx_gg_",
+                                                    "_size_l": "_size_l_rkzvx_gg_",
+                                                    "_size_m": "_size_m_rkzvx_gg_",
+                                                    "_size_s": "_size_s_rkzvx_gg_",
+                                                    "_size_xl": "_size_xl_rkzvx_gg_",
+                                                    "_theme_primary-danger": "_theme_primary-danger_rkzvx_gg_",
+                                                    "_theme_primary-info": "_theme_primary-info_rkzvx_gg_",
+                                                    "_theme_primary-invert": "_theme_primary-invert_rkzvx_gg_",
+                                                    "_theme_primary-success": "_theme_primary-success_rkzvx_gg_",
+                                                    "_theme_primary-warning": "_theme_primary-warning_rkzvx_gg_",
+                                                    "_theme_secondary-info": "_theme_secondary-info_rkzvx_gg_",
+                                                    "_theme_secondary-invert": "_theme_secondary-invert_rkzvx_gg_",
+                                                    "_theme_secondary-muted": "_theme_secondary-muted_rkzvx_gg_",
+                                                    "_theme_tertiary-info": "_theme_tertiary-info_rkzvx_gg_",
+                                                    "_theme_tertiary-invert": "_theme_tertiary-invert_rkzvx_gg_",
+                                                    "_theme_tertiary-muted": "_theme_tertiary-muted_rkzvx_gg_",
+                                                  }
+                                                }
+                                              >
+                                                <Text
+                                                  Children={[Function]}
+                                                  Root={
+                                                    Object {
+                                                      "$$typeof": Symbol(react.forward_ref),
+                                                      "props": Object {
+                                                        "Children": [Function],
+                                                        "Root": [Circular],
+                                                        "children": <Children />,
+                                                        "data-ui-name": "Button.Text",
+                                                        "forwardRef": [Function],
+                                                        "size": "xl",
+                                                        "styles": Object {
+                                                          "__SAddon": "___SAddon_rkzvx_gg_",
+                                                          "__SButton": "___SButton_rkzvx_gg_",
+                                                          "__SInner": "___SInner_rkzvx_gg_",
+                                                          "__SSpin": "___SSpin_rkzvx_gg_",
+                                                          "__SText": "___SText_rkzvx_gg_",
+                                                          "_active": "__active_rkzvx_gg_",
+                                                          "_disabled": "__disabled_rkzvx_gg_",
+                                                          "_keyboardFocused": "__keyboardFocused_rkzvx_gg_",
+                                                          "_loading": "__loading_rkzvx_gg_",
+                                                          "_neighborLocation_both": "_neighborLocation_both_rkzvx_gg_",
+                                                          "_neighborLocation_left": "_neighborLocation_left_rkzvx_gg_",
+                                                          "_neighborLocation_right": "_neighborLocation_right_rkzvx_gg_",
+                                                          "_size_l": "_size_l_rkzvx_gg_",
+                                                          "_size_m": "_size_m_rkzvx_gg_",
+                                                          "_size_s": "_size_s_rkzvx_gg_",
+                                                          "_size_xl": "_size_xl_rkzvx_gg_",
+                                                          "_theme_primary-danger": "_theme_primary-danger_rkzvx_gg_",
+                                                          "_theme_primary-info": "_theme_primary-info_rkzvx_gg_",
+                                                          "_theme_primary-invert": "_theme_primary-invert_rkzvx_gg_",
+                                                          "_theme_primary-success": "_theme_primary-success_rkzvx_gg_",
+                                                          "_theme_primary-warning": "_theme_primary-warning_rkzvx_gg_",
+                                                          "_theme_secondary-info": "_theme_secondary-info_rkzvx_gg_",
+                                                          "_theme_secondary-invert": "_theme_secondary-invert_rkzvx_gg_",
+                                                          "_theme_secondary-muted": "_theme_secondary-muted_rkzvx_gg_",
+                                                          "_theme_tertiary-info": "_theme_tertiary-info_rkzvx_gg_",
+                                                          "_theme_tertiary-invert": "_theme_tertiary-invert_rkzvx_gg_",
+                                                          "_theme_tertiary-muted": "_theme_tertiary-muted_rkzvx_gg_",
+                                                        },
+                                                      },
+                                                      "render": [Function],
+                                                    }
+                                                  }
+                                                  data-ui-name="Button.Text"
+                                                  forwardRef={[Function]}
+                                                  size="xl"
+                                                  styles={
+                                                    Object {
+                                                      "__SAddon": "___SAddon_rkzvx_gg_",
+                                                      "__SButton": "___SButton_rkzvx_gg_",
+                                                      "__SInner": "___SInner_rkzvx_gg_",
+                                                      "__SSpin": "___SSpin_rkzvx_gg_",
+                                                      "__SText": "___SText_rkzvx_gg_",
+                                                      "_active": "__active_rkzvx_gg_",
+                                                      "_disabled": "__disabled_rkzvx_gg_",
+                                                      "_keyboardFocused": "__keyboardFocused_rkzvx_gg_",
+                                                      "_loading": "__loading_rkzvx_gg_",
+                                                      "_neighborLocation_both": "_neighborLocation_both_rkzvx_gg_",
+                                                      "_neighborLocation_left": "_neighborLocation_left_rkzvx_gg_",
+                                                      "_neighborLocation_right": "_neighborLocation_right_rkzvx_gg_",
+                                                      "_size_l": "_size_l_rkzvx_gg_",
+                                                      "_size_m": "_size_m_rkzvx_gg_",
+                                                      "_size_s": "_size_s_rkzvx_gg_",
+                                                      "_size_xl": "_size_xl_rkzvx_gg_",
+                                                      "_theme_primary-danger": "_theme_primary-danger_rkzvx_gg_",
+                                                      "_theme_primary-info": "_theme_primary-info_rkzvx_gg_",
+                                                      "_theme_primary-invert": "_theme_primary-invert_rkzvx_gg_",
+                                                      "_theme_primary-success": "_theme_primary-success_rkzvx_gg_",
+                                                      "_theme_primary-warning": "_theme_primary-warning_rkzvx_gg_",
+                                                      "_theme_secondary-info": "_theme_secondary-info_rkzvx_gg_",
+                                                      "_theme_secondary-invert": "_theme_secondary-invert_rkzvx_gg_",
+                                                      "_theme_secondary-muted": "_theme_secondary-muted_rkzvx_gg_",
+                                                      "_theme_tertiary-info": "_theme_tertiary-info_rkzvx_gg_",
+                                                      "_theme_tertiary-invert": "_theme_tertiary-invert_rkzvx_gg_",
+                                                      "_theme_tertiary-muted": "_theme_tertiary-muted_rkzvx_gg_",
+                                                    }
+                                                  }
+                                                >
+                                                  <Box
+                                                    Children={[Function]}
+                                                    Root={
+                                                      Object {
+                                                        "$$typeof": Symbol(react.forward_ref),
+                                                        "props": Object {
+                                                          "Children": [Function],
+                                                          "Root": [Circular],
+                                                          "children": <Children />,
+                                                          "data-ui-name": "Button.Text",
+                                                          "forwardRef": [Function],
+                                                          "size": "xl",
+                                                          "styles": Object {
+                                                            "__SAddon": "___SAddon_rkzvx_gg_",
+                                                            "__SButton": "___SButton_rkzvx_gg_",
+                                                            "__SInner": "___SInner_rkzvx_gg_",
+                                                            "__SSpin": "___SSpin_rkzvx_gg_",
+                                                            "__SText": "___SText_rkzvx_gg_",
+                                                            "_active": "__active_rkzvx_gg_",
+                                                            "_disabled": "__disabled_rkzvx_gg_",
+                                                            "_keyboardFocused": "__keyboardFocused_rkzvx_gg_",
+                                                            "_loading": "__loading_rkzvx_gg_",
+                                                            "_neighborLocation_both": "_neighborLocation_both_rkzvx_gg_",
+                                                            "_neighborLocation_left": "_neighborLocation_left_rkzvx_gg_",
+                                                            "_neighborLocation_right": "_neighborLocation_right_rkzvx_gg_",
+                                                            "_size_l": "_size_l_rkzvx_gg_",
+                                                            "_size_m": "_size_m_rkzvx_gg_",
+                                                            "_size_s": "_size_s_rkzvx_gg_",
+                                                            "_size_xl": "_size_xl_rkzvx_gg_",
+                                                            "_theme_primary-danger": "_theme_primary-danger_rkzvx_gg_",
+                                                            "_theme_primary-info": "_theme_primary-info_rkzvx_gg_",
+                                                            "_theme_primary-invert": "_theme_primary-invert_rkzvx_gg_",
+                                                            "_theme_primary-success": "_theme_primary-success_rkzvx_gg_",
+                                                            "_theme_primary-warning": "_theme_primary-warning_rkzvx_gg_",
+                                                            "_theme_secondary-info": "_theme_secondary-info_rkzvx_gg_",
+                                                            "_theme_secondary-invert": "_theme_secondary-invert_rkzvx_gg_",
+                                                            "_theme_secondary-muted": "_theme_secondary-muted_rkzvx_gg_",
+                                                            "_theme_tertiary-info": "_theme_tertiary-info_rkzvx_gg_",
+                                                            "_theme_tertiary-invert": "_theme_tertiary-invert_rkzvx_gg_",
+                                                            "_theme_tertiary-muted": "_theme_tertiary-muted_rkzvx_gg_",
+                                                          },
+                                                        },
+                                                        "render": [Function],
+                                                      }
+                                                    }
+                                                    className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+                                                    data-ui-name="Button.Text"
+                                                    forwardRef={[Function]}
+                                                    size="xl"
+                                                    styles={
+                                                      Object {
+                                                        "__SAddon": "___SAddon_rkzvx_gg_",
+                                                        "__SButton": "___SButton_rkzvx_gg_",
+                                                        "__SInner": "___SInner_rkzvx_gg_",
+                                                        "__SSpin": "___SSpin_rkzvx_gg_",
+                                                        "__SText": "___SText_rkzvx_gg_",
+                                                        "_active": "__active_rkzvx_gg_",
+                                                        "_disabled": "__disabled_rkzvx_gg_",
+                                                        "_keyboardFocused": "__keyboardFocused_rkzvx_gg_",
+                                                        "_loading": "__loading_rkzvx_gg_",
+                                                        "_neighborLocation_both": "_neighborLocation_both_rkzvx_gg_",
+                                                        "_neighborLocation_left": "_neighborLocation_left_rkzvx_gg_",
+                                                        "_neighborLocation_right": "_neighborLocation_right_rkzvx_gg_",
+                                                        "_size_l": "_size_l_rkzvx_gg_",
+                                                        "_size_m": "_size_m_rkzvx_gg_",
+                                                        "_size_s": "_size_s_rkzvx_gg_",
+                                                        "_size_xl": "_size_xl_rkzvx_gg_",
+                                                        "_theme_primary-danger": "_theme_primary-danger_rkzvx_gg_",
+                                                        "_theme_primary-info": "_theme_primary-info_rkzvx_gg_",
+                                                        "_theme_primary-invert": "_theme_primary-invert_rkzvx_gg_",
+                                                        "_theme_primary-success": "_theme_primary-success_rkzvx_gg_",
+                                                        "_theme_primary-warning": "_theme_primary-warning_rkzvx_gg_",
+                                                        "_theme_secondary-info": "_theme_secondary-info_rkzvx_gg_",
+                                                        "_theme_secondary-invert": "_theme_secondary-invert_rkzvx_gg_",
+                                                        "_theme_secondary-muted": "_theme_secondary-muted_rkzvx_gg_",
+                                                        "_theme_tertiary-info": "_theme_tertiary-info_rkzvx_gg_",
+                                                        "_theme_tertiary-invert": "_theme_tertiary-invert_rkzvx_gg_",
+                                                        "_theme_tertiary-muted": "_theme_tertiary-muted_rkzvx_gg_",
+                                                      }
+                                                    }
+                                                    tag="span"
+                                                  >
+                                                    <span
+                                                      className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+                                                      data-ui-name="Button.Text"
+                                                      size="xl"
+                                                      style={Object {}}
+                                                    >
+                                                      <Children>
+                                                        <TextContent
+                                                          fontSize={
+                                                            Object {
+                                                              "_": 1,
+                                                              "sm": 2,
+                                                            }
+                                                          }
+                                                          width={
+                                                            Object {
+                                                              "_": 204,
+                                                              "sm": 139,
+                                                            }
+                                                          }
+                                                        >
+                                                          <text-content__TextStyled
+                                                            data-test="text-content"
+                                                            display="inline-block"
+                                                            fontFamily="Inter"
+                                                            fontSize={
+                                                              Object {
+                                                                "_": 1,
+                                                                "sm": 2,
+                                                              }
+                                                            }
+                                                            width={
+                                                              Object {
+                                                                "_": 204,
+                                                                "sm": 139,
+                                                              }
+                                                            }
+                                                          >
+                                                            <span
+                                                              className="text-content__TextStyled-sc-1stkrsz-0 jRSTzH"
+                                                              data-test="text-content"
+                                                            >
+                                                              Table of contents
+                                                            </span>
+                                                          </text-content__TextStyled>
+                                                        </TextContent>
+                                                      </Children>
+                                                    </span>
+                                                  </Box>
+                                                </Text>
+                                              </Button.Text>
+                                            </Button.Text>
+                                          </span>
+                                        </Box>
+                                      </button>
+                                    </Box>
+                                  </Button>
+                                </Button>
+                              </span>
+                            </secondary-button__SecondaryButton>
+                          </CustomButton>
+                        </div>
+                      </bottom-bar__ButtonTextStyled>
+                    </div>
+                  </box-adaptive__BoxStyled>
+                </ForwardRef>
+              </bottom-bar__BarStyled>
+            </BottomBar>
+          </BottomBar>
+        </div>
+      </box-adaptive__BoxStyled>
+    </ForwardRef>
+  </ForwardRef>
+</ArticleTocBottom>
+`;

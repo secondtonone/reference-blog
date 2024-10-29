@@ -1,0 +1,266 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ArticlesList with items 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 knChur articles-list__ArticlesStyled-sc-1ql5vrh-0"
+  data-test="articles-list"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0"
+    />
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 dSDZBu"
+      data-test="columns"
+    >
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 fJIbVv"
+        data-test="post-card-large"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 fQcxgu"
+          data-test="post-card-item-en"
+        >
+          <div
+            className="box-adaptive__BoxStyled-sc-g2wy39-0 eBllGr post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+            data-test="image"
+          >
+            <a
+              data-test="image-link"
+              href="/article"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              <img
+                alt="Alt preview"
+                className="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                data-src="http://placehold.it/485x280"
+                height="250"
+                src={null}
+                width="310"
+              />
+            </a>
+          </div>
+          <article
+            className="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+            data-test="content-en"
+          >
+            <div
+              className="box-adaptive__BoxStyled-sc-g2wy39-0 jDLZGW"
+            >
+              <div
+                className="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+              >
+                <p
+                  className="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                  data-test="category"
+                >
+                  <a
+                    href="/blog/category/seo/advanced-seo"
+                    onClick={[Function]}
+                    onMouseEnter={[Function]}
+                    target="_blank"
+                  >
+                    Advanced SEO
+                  </a>
+                </p>
+                <div
+                  className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                >
+                  <span
+                    className="text-content__TextStyled-sc-1stkrsz-0 eljVVb"
+                    data-test="time-to-read"
+                  >
+                    5
+                     
+                    min read
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div
+              className="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+            >
+              <h3
+                className="text-content__TextStyled-sc-1stkrsz-0 jWcwpr"
+                data-test="text-content"
+                style={
+                  Object {
+                    "wordBreak": "break-word",
+                  }
+                }
+              >
+                <a
+                  className="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                  data-test="title"
+                  href="/article"
+                  onClick={[Function]}
+                  onMouseEnter={[Function]}
+                >
+                  The Ultimate Guide to Google Search Operators and Google Search Commands
+                </a>
+              </h3>
+              <span
+                className="text-content__TextStyled-sc-1stkrsz-0 dVIgJO post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                data-test="description"
+              >
+                In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+              </span>
+              <div
+                className="box-adaptive__BoxStyled-sc-g2wy39-0 dqCWsC post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                data-test="meta"
+              >
+                <a
+                  data-test="author-name"
+                  href="/user/olga-andrienko"
+                  onClick={[Function]}
+                  onMouseEnter={[Function]}
+                  target="_blank"
+                >
+                  <span
+                    className="text-content__TextStyled-sc-1stkrsz-0 izRvWD post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                    data-test="text-content"
+                  >
+                    Olga Andrienko
+                  </span>
+                </a>
+                <span
+                  className="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                  data-test="date"
+                >
+                  Aug 20, 2020
+                </span>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+      <div
+        className="column__ColumnStyled-sc-xt4v4z-0 fJIbVv"
+        data-test="post-card-large"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 fQcxgu"
+          data-test="post-card-item-en"
+        >
+          <div
+            className="box-adaptive__BoxStyled-sc-g2wy39-0 eBllGr post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+            data-test="image"
+          >
+            <a
+              data-test="image-link"
+              href="/article"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              <img
+                alt="Some article text with captions and tool words and third party keys and other stuff"
+                className="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                data-src="http://placehold.it/486x280"
+                height="250"
+                src={null}
+                width="310"
+              />
+            </a>
+          </div>
+          <article
+            className="post-card-content__ContentStyled-sc-gda4z3-1 cBpLBb"
+            data-test="content-en"
+          >
+            <div
+              className="box-adaptive__BoxStyled-sc-g2wy39-0 jDLZGW"
+            >
+              <div
+                className="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+              >
+                <p
+                  className="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+                  data-test="category"
+                >
+                  <a
+                    href="/blog/category/marketing"
+                    onClick={[Function]}
+                    onMouseEnter={[Function]}
+                    target="_blank"
+                  >
+                    Marketing
+                  </a>
+                </p>
+                <div
+                  className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+                >
+                  <span
+                    className="text-content__TextStyled-sc-1stkrsz-0 eljVVb"
+                    data-test="time-to-read"
+                  >
+                    5
+                     
+                    min read
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div
+              className="box-adaptive__BoxStyled-sc-g2wy39-0 csiPyy"
+            >
+              <h3
+                className="text-content__TextStyled-sc-1stkrsz-0 jWcwpr"
+                data-test="text-content"
+                style={
+                  Object {
+                    "wordBreak": "break-word",
+                  }
+                }
+              >
+                <a
+                  className="post-card-content__HeadingLinkStyled-sc-gda4z3-0 iOoMty"
+                  data-test="title"
+                  href="/article"
+                  onClick={[Function]}
+                  onMouseEnter={[Function]}
+                >
+                  Some article text with captions and tool words and third party keys and other stuff
+                </a>
+              </h3>
+              <span
+                className="text-content__TextStyled-sc-1stkrsz-0 dVIgJO post-card-content__CaptionStyled-sc-gda4z3-3 iLbRjP"
+                data-test="description"
+              >
+                In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+              </span>
+              <div
+                className="box-adaptive__BoxStyled-sc-g2wy39-0 dqCWsC post-card-content__MetaStyled-sc-gda4z3-4 cgjjhY"
+                data-test="meta"
+              >
+                <a
+                  data-test="author-name"
+                  href="/user/ivan-petrov"
+                  onClick={[Function]}
+                  onMouseEnter={[Function]}
+                  target="_blank"
+                >
+                  <span
+                    className="text-content__TextStyled-sc-1stkrsz-0 izRvWD post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                    data-test="text-content"
+                  >
+                    Ivan Petrov
+                  </span>
+                </a>
+                <span
+                  className="text-content__TextStyled-sc-1stkrsz-0 kHbJxs post-card-content__NoWrapStyled-sc-gda4z3-2 jqrfVT"
+                  data-test="date"
+                >
+                  Aug 20, 2020
+                </span>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

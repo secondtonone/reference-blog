@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`article meta tags renders correctly by page and de domain 1`] = `null`;
+
+exports[`article meta tags renders correctly by page and en domain 1`] = `null`;
+
+exports[`article meta tags renders correctly by page and es domain 1`] = `null`;
+
+exports[`article meta tags renders correctly by page and fr domain 1`] = `null`;
+
+exports[`article meta tags renders correctly by page and it domain 1`] = `null`;
+
+exports[`article meta tags renders correctly by page and pt domain 1`] = `null`;
+
+exports[`article meta tags renders correctly by page with default en domain 1`] = `null`;

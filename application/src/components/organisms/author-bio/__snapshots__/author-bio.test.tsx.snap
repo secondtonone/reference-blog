@@ -1,0 +1,266 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots AuthorBio default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 EvmxK"
+  data-test="author-bio"
+>
+  <svg
+    data-test="author-photo"
+    height={150}
+    role="img"
+    viewBox="0 0 150 150"
+    width={150}
+  >
+    <title>
+      Author Photo
+    </title>
+    <defs>
+      <clipPath
+        clipPathUnits="userSpaceOnUse"
+        id="star"
+      >
+        <path
+          d="M127.666 40.7385C122.995 25.259 113.653 10.4831 101.158 0.280727C100.808 -0.0710794 100.224 -0.0710794 99.7565 0.163458L79.4375 9.4277C61.454 6.0269 43.3537 5.32329 25.9541 11.7731C25.4869 12.0076 25.1366 12.4767 25.1366 12.9458L23.7353 38.7449C11.7074 51.5272 2.2485 67.593 0.0297585 85.0661C-0.0870176 85.5352 0.146535 86.0043 0.613639 86.3561L22.334 101.601C27.005 116.963 36.2303 131.739 48.7254 141.941C49.1925 142.293 49.7764 142.293 50.2435 142.059C54.0971 139.713 67.9934 132.325 70.5625 133.029C88.6628 136.43 106.646 137.133 124.163 130.566C124.63 130.332 124.98 129.863 124.98 129.394L126.265 103.712C138.293 90.9296 147.751 74.8637 149.97 57.5079C150.087 57.0388 149.853 56.4525 149.386 56.218C146 53.8726 131.286 44.3738 127.666 40.7385Z"
+        />
+      </clipPath>
+    </defs>
+    <image
+      clipPath="url(#star)"
+      height={150}
+      width={150}
+      x={0}
+      xlinkHref="https://storage.googleapis.com/blog-rc/testing/user/olga.jpg"
+      y={0}
+    />
+  </svg>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 NLIEr"
+    data-test="author-info"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 holRgB"
+    >
+      <h1
+        className="text-content__TextStyled-sc-1stkrsz-0 xKQVq"
+        data-test="author-name"
+      >
+        Olga Andrienko
+      </h1>
+    </div>
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 hdeoQC author-bio__TextUppercaseStyled-sc-1xqn0ac-1 dQGWth"
+      data-test="author-job"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 bUJWgm author-bio__TextColored-sc-1xqn0ac-3 xJeDK"
+        data-test="text-content"
+      >
+        super seo specialist
+         
+        AT
+         
+        <a
+          href="https://example.com"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          rel="nofollow"
+          target="_blank"
+        >
+          Yandex
+        </a>
+      </span>
+    </span>
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 cjFnhQ author-bio__TextColored-sc-1xqn0ac-3 xJeDK"
+      data-test="author-caption"
+    >
+      Olga Andrienko is a Super seo specialist at Yandex, where she develops SEO and content strategies for ecommerce and technology clients. Her career dream is to make SEO more accessible for marketers of all experience levels. She believes wholeheartedly that better search results are better for everyone.
+    </span>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 kJtdWw"
+      data-test="author-socials"
+    />
+  </div>
+</div>
+`;
+
+exports[`Match snapshots AuthorBio in block 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 itmwtb"
+  data-test="author-bio"
+>
+  <span
+    className="author-bio__Hovered-sc-1xqn0ac-2 gBPzFk"
+  >
+    <span
+      className="author-bio__AvatarStyled-sc-1xqn0ac-0 fMLMgd"
+    >
+      <a
+        data-test="author-link"
+        href="/user/222"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        target="_blank"
+      >
+        <svg
+          data-test="author-photo"
+          height={90}
+          role="img"
+          viewBox="0 0 150 150"
+          width={90}
+        >
+          <title>
+            Author Photo
+          </title>
+          <defs>
+            <clipPath
+              clipPathUnits="userSpaceOnUse"
+              id="star"
+            >
+              <path
+                d="M127.666 40.7385C122.995 25.259 113.653 10.4831 101.158 0.280727C100.808 -0.0710794 100.224 -0.0710794 99.7565 0.163458L79.4375 9.4277C61.454 6.0269 43.3537 5.32329 25.9541 11.7731C25.4869 12.0076 25.1366 12.4767 25.1366 12.9458L23.7353 38.7449C11.7074 51.5272 2.2485 67.593 0.0297585 85.0661C-0.0870176 85.5352 0.146535 86.0043 0.613639 86.3561L22.334 101.601C27.005 116.963 36.2303 131.739 48.7254 141.941C49.1925 142.293 49.7764 142.293 50.2435 142.059C54.0971 139.713 67.9934 132.325 70.5625 133.029C88.6628 136.43 106.646 137.133 124.163 130.566C124.63 130.332 124.98 129.863 124.98 129.394L126.265 103.712C138.293 90.9296 147.751 74.8637 149.97 57.5079C150.087 57.0388 149.853 56.4525 149.386 56.218C146 53.8726 131.286 44.3738 127.666 40.7385Z"
+              />
+            </clipPath>
+          </defs>
+          <image
+            clipPath="url(#star)"
+            height={150}
+            width={150}
+            x={0}
+            xlinkHref="https://storage.googleapis.com/blog/testing/user/ivan.jpg"
+            y={0}
+          />
+        </svg>
+      </a>
+    </span>
+  </span>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 eCWzBp"
+    data-test="author-info"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 dhRRXo"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kvwrvN"
+        data-test="author-name"
+      >
+        <span
+          className="author-bio__AvatarStyled-sc-1xqn0ac-0 fMLMgd"
+        >
+          <a
+            data-test="author-link"
+            href="/user/222"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+            target="_blank"
+          >
+            <span
+              className="text-content__TextStyled-sc-1stkrsz-0 bUJWgm author-bio__TextUppercaseStyled-sc-1xqn0ac-1 dQGWth"
+              data-test="text-content"
+            >
+              Ivan Petrov
+            </span>
+          </a>
+        </span>
+      </span>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 kYCzlO"
+        data-test="author-socials"
+      />
+    </div>
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 drsHar author-bio__TextColored-sc-1xqn0ac-3 xJeDK"
+      data-test="author-caption"
+    >
+      Ivan Petrov is a Super seo specialist at Google, where she develops SEO and content strategies for ecommerce and technology clients. Her career dream is to make SEO more accessible for marketers of all experience levels. She believes wholeheartedly that better search results are better for everyone.
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots AuthorBio with empty avatar 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 EvmxK"
+  data-test="author-bio"
+>
+  <svg
+    data-test="author-photo"
+    height={150}
+    role="img"
+    viewBox="0 0 150 150"
+    width={150}
+  >
+    <title>
+      Author Photo
+    </title>
+    <defs>
+      <clipPath
+        clipPathUnits="userSpaceOnUse"
+        id="star"
+      >
+        <path
+          d="M127.666 40.7385C122.995 25.259 113.653 10.4831 101.158 0.280727C100.808 -0.0710794 100.224 -0.0710794 99.7565 0.163458L79.4375 9.4277C61.454 6.0269 43.3537 5.32329 25.9541 11.7731C25.4869 12.0076 25.1366 12.4767 25.1366 12.9458L23.7353 38.7449C11.7074 51.5272 2.2485 67.593 0.0297585 85.0661C-0.0870176 85.5352 0.146535 86.0043 0.613639 86.3561L22.334 101.601C27.005 116.963 36.2303 131.739 48.7254 141.941C49.1925 142.293 49.7764 142.293 50.2435 142.059C54.0971 139.713 67.9934 132.325 70.5625 133.029C88.6628 136.43 106.646 137.133 124.163 130.566C124.63 130.332 124.98 129.863 124.98 129.394L126.265 103.712C138.293 90.9296 147.751 74.8637 149.97 57.5079C150.087 57.0388 149.853 56.4525 149.386 56.218C146 53.8726 131.286 44.3738 127.666 40.7385Z"
+        />
+      </clipPath>
+    </defs>
+    <image
+      clipPath="url(#star)"
+      height={150}
+      width={150}
+      x={0}
+      xlinkHref="https://static.example.com/blogxt-static/authors/author-empty.jpeg"
+      y={0}
+    />
+  </svg>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 NLIEr"
+    data-test="author-info"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 holRgB"
+    >
+      <h1
+        className="text-content__TextStyled-sc-1stkrsz-0 xKQVq"
+        data-test="author-name"
+      >
+        Olga Andrienko
+      </h1>
+    </div>
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 hdeoQC author-bio__TextUppercaseStyled-sc-1xqn0ac-1 dQGWth"
+      data-test="author-job"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 bUJWgm author-bio__TextColored-sc-1xqn0ac-3 xJeDK"
+        data-test="text-content"
+      >
+        super seo specialist
+         
+        AT
+         
+        <a
+          href="https://example.com"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          rel="nofollow"
+          target="_blank"
+        >
+          Yandex
+        </a>
+      </span>
+    </span>
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 cjFnhQ author-bio__TextColored-sc-1xqn0ac-3 xJeDK"
+      data-test="author-caption"
+    >
+      Olga Andrienko is a Super seo specialist at Yandex, where she develops SEO and content strategies for ecommerce and technology clients. Her career dream is to make SEO more accessible for marketers of all experience levels. She believes wholeheartedly that better search results are better for everyone.
+    </span>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 kJtdWw"
+      data-test="author-socials"
+    />
+  </div>
+</div>
+`;

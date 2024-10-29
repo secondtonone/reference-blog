@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots PostCardCategory default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 isyibR"
+>
+  <div
+    className="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+  >
+    <p
+      className="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+      data-test="category"
+    >
+      <a
+        href="/blog/category/slug"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        target="_blank"
+      >
+        name
+      </a>
+    </p>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+    >
+      0
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots PostCardCategory hot 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 isyibR"
+>
+  <div
+    className="post-card-category__DetailsStyled-sc-yr5537-2 bhQdVr"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 dzytji post-card-category__IconStyled-sc-yr5537-1 bLpcYW"
+    >
+      <span>
+        svg-icon-ogonek
+      </span>
+    </div>
+    <p
+      className="text-content__TextStyled-sc-1stkrsz-0 kszZkd post-card-category__CategoryStyled-sc-yr5537-3 lnUjcU"
+      data-test="category"
+    >
+      <a
+        href="/blog/category/slug"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        target="_blank"
+      >
+        name
+      </a>
+    </p>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 eZa-dHq post-card-category__TimeToReadStyled-sc-yr5537-0 fZVgVc"
+    >
+      0
+    </div>
+  </div>
+</div>
+`;

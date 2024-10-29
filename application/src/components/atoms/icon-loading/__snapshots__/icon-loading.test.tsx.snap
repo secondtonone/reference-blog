@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot IconLoading default 1`] = `
+<div
+  className="icon-loading__SpinStyled-sc-1n7o5mk-0 kdsfJp"
+  data-test="icon-loading"
+/>
+`;

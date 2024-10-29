@@ -1,0 +1,572 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ArticlePreview horizontal layout 1`] = `
+<article
+  className="article-preview__ArticleStyled-sc-1u27i03-0 article-preview__ArticlePreviewStyled-sc-1u27i03-1 eJiLdO ckfAuc"
+  data-test="article-preview"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 bXHKQl article-preview__ArticleStyled-sc-1u27i03-0 guofav"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 wbfkM"
+      >
+        <a
+          className="article-preview__LinkStyled-sc-1u27i03-3 dWYVZU"
+          data-test="heading-image-link"
+          href="/article"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <img
+            alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+            data-test="image"
+            height={250}
+            src="/test-image.jpg"
+            width={310}
+          />
+        </a>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 cGJWMu"
+      >
+        <h2
+          className="text-content__TextStyled-sc-1stkrsz-0 gHGhqZ"
+          data-test="heading-text"
+        >
+          <a
+            data-test="heading-link"
+            href="/article"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            The Ultimate Guide to Google Search Operators and Google Search Commands
+          </a>
+        </h2>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 dfNHyp"
+        >
+          <span
+            data-test="date"
+          >
+             
+            Aug 20, 2020
+          </span>
+          <strong
+            className="article-preview__CategoryStyled-sc-1u27i03-2 kWXywq"
+            data-test="category"
+          >
+            <a
+              data-test="category-link"
+              href="/blog/category/seo/advanced-seo"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              target="_blank"
+            >
+              Advanced SEO
+            </a>
+          </strong>
+           
+          <span
+            data-test="time-to-read"
+          >
+            5
+             
+            min read
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+`;
+
+exports[`Match snapshots ArticlePreview in card 1`] = `
+<article
+  className="article-preview__ArticleStyled-sc-1u27i03-0 article-preview__ArticlePreviewStyled-sc-1u27i03-1 guofav bGodKJ"
+  data-test="article-preview"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 dpoQZX article-preview__ArticleStyled-sc-1u27i03-0 eJiLdO"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 gmtRFX"
+      >
+        <a
+          className="article-preview__LinkStyled-sc-1u27i03-3 dWYVZU"
+          data-test="heading-image-link"
+          href="/article"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <img
+            alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+            data-test="image"
+            height={250}
+            src="/test-image.jpg"
+            width={310}
+          />
+        </a>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 dWgrgk"
+      >
+        <h2
+          className="text-content__TextStyled-sc-1stkrsz-0 hqhQTw"
+          data-test="heading-text"
+        >
+          <a
+            data-test="heading-link"
+            href="/article"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            The Ultimate Guide to Google Search Operators and Google Search Commands
+          </a>
+        </h2>
+        <p
+          className="text-content__TextStyled-sc-1stkrsz-0 jGYpim"
+          data-test="preview-text"
+        >
+          In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+        </p>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 kqiOeL"
+        >
+          <span
+            data-test="date"
+          >
+             
+            Aug 20, 2020
+          </span>
+          <strong
+            className="article-preview__CategoryStyled-sc-1u27i03-2 kWXywq"
+            data-test="category"
+          >
+            <a
+              data-test="category-link"
+              href="/blog/category/seo/advanced-seo"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              target="_blank"
+            >
+              Advanced SEO
+            </a>
+          </strong>
+           
+          <span
+            data-test="time-to-read"
+          >
+            5
+             
+            min read
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+`;
+
+exports[`Match snapshots ArticlePreview with image 1`] = `
+<article
+  className="article-preview__ArticleStyled-sc-1u27i03-0 article-preview__ArticlePreviewStyled-sc-1u27i03-1 eJiLdO ckfAuc"
+  data-test="article-preview"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 bQVcAj article-preview__ArticleStyled-sc-1u27i03-0 guofav"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 gmtRFX"
+      >
+        <a
+          className="article-preview__LinkStyled-sc-1u27i03-3 dWYVZU"
+          data-test="heading-image-link"
+          href="/article"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <img
+            alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+            data-test="image"
+            height={250}
+            src="/test-image.jpg"
+            width={310}
+          />
+        </a>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 dWgrgk"
+      >
+        <h2
+          className="text-content__TextStyled-sc-1stkrsz-0 hxfXXq"
+          data-test="heading-text"
+        >
+          <a
+            data-test="heading-link"
+            href="/article"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            The Ultimate Guide to Google Search Operators and Google Search Commands
+          </a>
+        </h2>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 FmeNc"
+        >
+          <span
+            data-test="date"
+          >
+             
+            Aug 20, 2020
+          </span>
+          <strong
+            className="article-preview__CategoryStyled-sc-1u27i03-2 kWXywq"
+            data-test="category"
+          >
+            <a
+              data-test="category-link"
+              href="/blog/category/seo/advanced-seo"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              target="_blank"
+            >
+              Advanced SEO
+            </a>
+          </strong>
+           
+          <span
+            data-test="time-to-read"
+          >
+            5
+             
+            min read
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+`;
+
+exports[`Match snapshots ArticlePreview with image dark 1`] = `
+<article
+  className="article-preview__ArticleStyled-sc-1u27i03-0 article-preview__ArticlePreviewStyled-sc-1u27i03-1 eJiLdO ckfAuc"
+  data-test="article-preview"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 bQVcAj article-preview__ArticleStyled-sc-1u27i03-0 guofav"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 gmtRFX"
+      >
+        <a
+          className="article-preview__LinkStyled-sc-1u27i03-3 dWYVZU"
+          data-test="heading-image-link"
+          href="/article"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <img
+            alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+            data-test="image"
+            height={250}
+            src="/test-image.jpg"
+            width={310}
+          />
+        </a>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 dWgrgk"
+      >
+        <h2
+          className="text-content__TextStyled-sc-1stkrsz-0 hxfXXq"
+          data-test="heading-text"
+        >
+          <a
+            data-test="heading-link"
+            href="/article"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            The Ultimate Guide to Google Search Operators and Google Search Commands
+          </a>
+        </h2>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 FmeNc"
+        >
+          <span
+            data-test="date"
+          >
+             
+            Aug 20, 2020
+          </span>
+          <strong
+            className="article-preview__CategoryStyled-sc-1u27i03-2 kWXywq"
+            data-test="category"
+          >
+            <a
+              data-test="category-link"
+              href="/blog/category/seo/advanced-seo"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              target="_blank"
+            >
+              Advanced SEO
+            </a>
+          </strong>
+           
+          <span
+            data-test="time-to-read"
+          >
+            5
+             
+            min read
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+`;
+
+exports[`Match snapshots ArticlePreview with preview 1`] = `
+<article
+  className="article-preview__ArticleStyled-sc-1u27i03-0 article-preview__ArticlePreviewStyled-sc-1u27i03-1 eJiLdO ckfAuc"
+  data-test="article-preview"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 bQVcAj article-preview__ArticleStyled-sc-1u27i03-0 guofav"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 gmtRFX"
+      >
+        <a
+          className="article-preview__LinkStyled-sc-1u27i03-3 dWYVZU"
+          data-test="heading-image-link"
+          href="/article"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <img
+            alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+            data-test="image"
+            height={250}
+            src="/test-image.jpg"
+            width={310}
+          />
+        </a>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 dWgrgk"
+      >
+        <h2
+          className="text-content__TextStyled-sc-1stkrsz-0 efFAUv"
+          data-test="heading-text"
+        >
+          <a
+            data-test="heading-link"
+            href="/article"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            The Ultimate Guide to Google Search Operators and Google Search Commands
+          </a>
+        </h2>
+        <p
+          className="text-content__TextStyled-sc-1stkrsz-0 jGYpim"
+          data-test="preview-text"
+        >
+          In this guide, we’ll delve deep into the basics of search operators and search commands, helping you understand how to wield these powerful tools effectively and move on to advanced commands and operators.
+        </p>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 FmeNc"
+        >
+          <span
+            data-test="date"
+          >
+             
+            Aug 20, 2020
+          </span>
+          <strong
+            className="article-preview__CategoryStyled-sc-1u27i03-2 kWXywq"
+            data-test="category"
+          >
+            <a
+              data-test="category-link"
+              href="/blog/category/seo/advanced-seo"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              target="_blank"
+            >
+              Advanced SEO
+            </a>
+          </strong>
+           
+          <span
+            data-test="time-to-read"
+          >
+            5
+             
+            min read
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+`;
+
+exports[`Match snapshots ArticlePreview with text 1`] = `
+<article
+  className="article-preview__ArticleStyled-sc-1u27i03-0 article-preview__ArticlePreviewStyled-sc-1u27i03-1 eJiLdO ckfAuc"
+  data-test="article-preview"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 bQVcAj article-preview__ArticleStyled-sc-1u27i03-0 guofav"
+    >
+      
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 dWgrgk"
+      >
+        <h2
+          className="text-content__TextStyled-sc-1stkrsz-0 hxfXXq"
+          data-test="heading-text"
+        >
+          <a
+            data-test="heading-link"
+            href="/article"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            The Ultimate Guide to Google Search Operators and Google Search Commands
+          </a>
+        </h2>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 FmeNc"
+        >
+          <span
+            data-test="date"
+          >
+             
+            Aug 20, 2020
+          </span>
+          <strong
+            className="article-preview__CategoryStyled-sc-1u27i03-2 kWXywq"
+            data-test="category"
+          >
+            <a
+              data-test="category-link"
+              href="/blog/category/seo/advanced-seo"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              target="_blank"
+            >
+              Advanced SEO
+            </a>
+          </strong>
+           
+          <span
+            data-test="time-to-read"
+          >
+            5
+             
+            min read
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+`;
+
+exports[`Match snapshots ArticlePreview with text dark 1`] = `
+<article
+  className="article-preview__ArticleStyled-sc-1u27i03-0 article-preview__ArticlePreviewStyled-sc-1u27i03-1 eJiLdO ckfAuc"
+  data-test="article-preview"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 bQVcAj article-preview__ArticleStyled-sc-1u27i03-0 guofav"
+    >
+      
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 dWgrgk"
+      >
+        <h2
+          className="text-content__TextStyled-sc-1stkrsz-0 hxfXXq"
+          data-test="heading-text"
+        >
+          <a
+            data-test="heading-link"
+            href="/article"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            The Ultimate Guide to Google Search Operators and Google Search Commands
+          </a>
+        </h2>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 FmeNc"
+        >
+          <span
+            data-test="date"
+          >
+             
+            Aug 20, 2020
+          </span>
+          <strong
+            className="article-preview__CategoryStyled-sc-1u27i03-2 kWXywq"
+            data-test="category"
+          >
+            <a
+              data-test="category-link"
+              href="/blog/category/seo/advanced-seo"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+              target="_blank"
+            >
+              Advanced SEO
+            </a>
+          </strong>
+           
+          <span
+            data-test="time-to-read"
+          >
+            5
+             
+            min read
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+`;

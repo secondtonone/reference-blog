@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots Backdrop default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 hwxTXd backdrop__BackdropStyled-sc-198x6p3-0 iLSmJG"
+  data-test="backdrop"
+>
+  Backdrop
+</div>
+`;
+
+exports[`Match snapshots Backdrop shifted 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gIKMqn backdrop__BackdropStyled-sc-198x6p3-0 iLSmJG"
+  data-test="backdrop"
+>
+  Backdrop
+</div>
+`;

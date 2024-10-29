@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ShareBlock default 1`] = `
+<DocumentFragment>
+  <a
+    class="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+    data-test="share-block-link-text-facebook"
+    href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fen.example.com%2Fblog%2Fgoogle-results-need-change%2F&quote=Why+Google%E2%80%99s+10+Blue+Links+Will+Have+to+Go+%28Eventually%29"
+    rel="noopener noreferrer nofollow"
+    style="margin-right: 10px;"
+    target="_blank"
+    title="Share"
+  >
+    <span
+      class="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+      data-test="button-icon-facebook"
+    >
+      <button
+        aria-label="facebook"
+        class="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+        >
+          <span
+            class="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+          >
+            <span>
+              facebook
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </a>
+  <a
+    class="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+    data-test="share-block-link-text-twitter"
+    href="https://twitter.com/intent/tweet?text=Why+Google%E2%80%99s+10+Blue+Links+Will+Have+to+Go+%28Eventually%29&url=https%3A%2F%2Fen.example.com%2Fblog%2Fgoogle-results-need-change%2F"
+    rel="noopener noreferrer nofollow"
+    style="margin-right: 10px;"
+    target="_blank"
+    title="Share"
+  >
+    <span
+      class="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+      data-test="button-icon-twitter"
+    >
+      <button
+        aria-label="twitter"
+        class="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+        >
+          <span
+            class="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+          >
+            <span>
+              twitter
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </a>
+  <a
+    class="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+    data-test="share-block-link-text-mail"
+    href="mailto:?body=Why Google’s 10 Blue Links Will Have to Go (Eventually)%0D%0Ahttps://en.example.com/blog/google-results-need-change/"
+    rel="noopener noreferrer nofollow"
+    style="margin-right: 10px;"
+    target="_blank"
+    title="Share"
+  >
+    <span
+      class="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+      data-test="button-icon-mail"
+    >
+      <button
+        aria-label="mail"
+        class="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+        >
+          <span
+            class="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+          >
+            <span>
+              mail
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </a>
+</DocumentFragment>
+`;

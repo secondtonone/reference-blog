@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots EpisodeCard default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 hNXlwn episode-card__BannerStyled-sc-xhvvt5-0 hrzDnG"
+  data-test="episode-card"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 itcnzj"
+  >
+    <p
+      className="text-content__TextStyled-sc-1stkrsz-0 bfeMub episode-card__LabelStyled-sc-xhvvt5-1 hpThZC"
+      data-test="episode-card-label"
+    >
+      Episode 2
+    </p>
+    <p
+      className="text-content__TextStyled-sc-1stkrsz-0 bLWwpP"
+      data-test="episode-card-heading"
+    >
+      SEO Analysis Drives Major Trucking Company Hiring 100s of Drivers
+    </p>
+  </div>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 Akopg"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 cGKpLP"
+    >
+      <span
+        className="base-link__BaseButtonLink-sc-16cbcsq-0 primary-link__PrimaryButtonLink-sc-akzrhv-0 jcuBOd GhuEW"
+        data-test="button-link-primary"
+      >
+        <a
+          className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+          data-test="episode-card-link"
+          href="http://wwww.example.com/blog/example-seo-reality-show/"
+          onClick={[Function]}
+          target="_blank"
+        >
+          Tune-in Now
+        </a>
+      </span>
+    </div>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 laVBiu"
+    >
+      <a
+        className="link-text__StyledLink-sc-a7posi-0 izGVjZ SLink"
+        data-test="link-text"
+        href="http://wwww.example.com/blog/example-seo-reality-show/"
+        onClick={[Function]}
+      >
+        Tune-in Now
+      </a>
+    </div>
+  </div>
+</div>
+`;

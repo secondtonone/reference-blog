@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot Logo default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gdFMYn"
+  data-test="logo"
+>
+  <a
+    aria-label="To example"
+    className="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+    data-test="logo-link-main"
+    href="/"
+    rel="noopener"
+    target="_blank"
+  >
+    <span>
+      brand
+    </span>
+    <span>
+      example
+    </span>
+  </a>
+  <a
+    aria-label="To Blog"
+    className="logo__LinkStyled-sc-1o2jhw6-0 czJLZj"
+    href="/blog/"
+  >
+    <span
+      className="logo__LogoStyled-sc-1o2jhw6-1 eTHmPb"
+      data-test="logo-link-blog"
+    >
+      <span>
+        blog
+      </span>
+    </span>
+  </a>
+</div>
+`;

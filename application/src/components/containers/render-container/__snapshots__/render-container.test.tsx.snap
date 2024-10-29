@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots RenderContainer default 1`] = `null`;
+
+exports[`Match snapshots RenderContainer no render 1`] = `null`;

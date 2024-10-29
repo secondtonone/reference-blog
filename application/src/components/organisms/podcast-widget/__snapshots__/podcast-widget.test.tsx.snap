@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots PodcastWidget default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 ksvfQw promo-widget-container__PromoWidgetStyled-sc-ebq3ad-2 gpEvYl"
+  data-test="podcast-widget"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 bJDGdU"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 fPxlDI"
+    >
+      <span
+        className="text-content__TextStyled-sc-1stkrsz-0 kTfEK promo-widget-container__LabelStyled-sc-ebq3ad-3 bCJWlB"
+        data-test="podcast-label-new"
+      >
+        New Podcast
+      </span>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 jUILRk"
+      >
+        <p
+          className="text-content__TextStyled-sc-1stkrsz-0 bUOay"
+          data-test="podcast-release-date"
+        >
+          Aug 12, 2020
+        </p>
+        <p
+          className="text-content__TextStyled-sc-1stkrsz-0 kSNxkF"
+          data-test="podcast-duration"
+        >
+          24 min
+        </p>
+      </div>
+    </div>
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 FWuHv promo-widget-image__ImageStyled-sc-1g7qlc4-0 hBVvOy"
+    >
+      <a
+        data-test="podcast-image"
+        href="https://www.example.com/podcast/"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        role="link"
+        target="_blank"
+      >
+        <img
+          alt="How to Earn Links from 931 Unique Domains in a Single Year"
+          className="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+          data-src="https://static.example.com/blog-next-static/podcasts/marketing-scoop.png"
+          height="310"
+          loading="lazy"
+          src={null}
+          width="310"
+        />
+      </a>
+    </div>
+  </div>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 bmuSGC"
+  >
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 gBQxVV promo-widget-container__TextContentStyled-sc-ebq3ad-0 jFYztt"
+      data-test="podcast-title"
+    >
+      How to Earn Links from 931 Unique Domains in a Single Year
+    </span>
+    <span
+      className="text-content__TextStyled-sc-1stkrsz-0 guubZd promo-widget-container__BodyStyled-sc-ebq3ad-4 bweWQP"
+      data-test="podcast-body"
+    >
+      In this episode Amanda Milligan, Marketing Director at growth marketing agency Fractl, is diving into how they earned more than 900 unique backlinks for home improvement marketplace Porch in just one...
+    </span>
+    <div
+      className="promo-widget-container__FooterContent-sc-ebq3ad-1 erEDzD"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 iOdndF podcast-widget__ButtonsStyled-sc-88tnlf-0 iMqBxP"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 kPDEtI podcast-widget__BadgeStyled-sc-88tnlf-1 kPcxnZ"
+          data-test="podcast-badge-apple"
+        >
+          <a
+            data-test="podcast-link-apple"
+            href="https://podcasts.apple.com/us/podcast/marketing-scoop-podcast/id1360863632?mt=2"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+            target="_blank"
+          >
+            <img
+              alt="apple badge"
+              className="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+              data-src="https://static.example.com/blogxt-static/podcasts/podcast-badge-apple.svg"
+              src={null}
+            />
+          </a>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 kPDEtI podcast-widget__BadgeStyled-sc-88tnlf-1 kPcxnZ"
+          data-test="podcast-badge-google"
+        >
+          <a
+            data-test="podcast-link-google"
+            href="https://podcasts.google.com/search/marketing%20scoop"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+            role="link"
+            target="_blank"
+          >
+            <span
+              className="text-content__TextStyled-sc-1stkrsz-0 jFBZYF"
+              data-test="text-content"
+            >
+              <img
+                alt="google badge"
+                className="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+                data-src="https://static.example.com/blogxt-static/podcasts/podcast-badge-google.svg"
+                src={null}
+                width="125"
+              />
+            </span>
+          </a>
+        </div>
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 hVeyfm podcast-widget__BadgeStyled-sc-88tnlf-1 kPcxnZ"
+          data-test="podcast-badge-show-more"
+        >
+          <a
+            data-test="podcast-link-show-more"
+            href="https://www.example.com/podcast/"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+            target="_blank"
+          >
+            <span
+              className="text-content__TextStyled-sc-1stkrsz-0 gcHRri"
+              data-test="text-content"
+            >
+              Show more
+            </span>
+            <img
+              alt="badge"
+              className="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+              data-src="https://static.example.com/blogxt-static/podcasts/podcast-arrow-more.svg"
+              src={null}
+            />
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

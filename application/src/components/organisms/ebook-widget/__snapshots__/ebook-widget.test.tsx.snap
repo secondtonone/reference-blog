@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots EbookWidget default 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0"
+    data-test="intersection-container"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 ksvfQw promo-widget-container__PromoWidgetStyled-sc-ebq3ad-2 gpEvYl"
+      data-test="ebook-widget"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 bJDGdU"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 fPxlDI"
+        >
+          <span
+            class="text-content__TextStyled-sc-1stkrsz-0 gEsLCH promo-widget-container__LabelStyled-sc-ebq3ad-3 bCJWlB"
+            data-test="ebook-label-new"
+          >
+            New Ebook
+          </span>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 jUILRk"
+          >
+            <p
+              class="text-content__TextStyled-sc-1stkrsz-0 bUOay"
+              data-test="ebook-release-date"
+            >
+              July 09, 2021
+            </p>
+            <p
+              class="text-content__TextStyled-sc-1stkrsz-0 cxRBMP"
+              data-test="ebook-downloads"
+            >
+              292 downloads
+            </p>
+          </div>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 chLjLS promo-widget-image__ImageStyled-sc-1g7qlc4-0 hBVvOy"
+        >
+          <a
+            data-test="ebook-preview-url"
+            href="https://www.example.com/ebooks/example-most-accurate-keyword-difficulty/"
+            role="link"
+            target="_blank"
+          >
+            <img
+              alt="example Keyword Difficulty"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+              data-src="https://static.example.com/blog/uploads/files/23/0f/230f4cfa8a86606c45e05018ef1ae4f6/cover-e-book-kd.svg"
+              height="265"
+              loading="lazy"
+              width="190"
+            />
+          </a>
+        </div>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 bmuSGC"
+      >
+        <span
+          class="text-content__TextStyled-sc-1stkrsz-0 gBQxVV promo-widget-container__TextContentStyled-sc-ebq3ad-0 jFYztt"
+          data-test="ebook-title"
+        >
+          <a
+            href="https://www.example.com/ebooks/example-most-accurate-keyword-difficulty/"
+            role="link"
+          >
+            example Keyword Difficulty
+          </a>
+        </span>
+        <span
+          class="text-content__TextStyled-sc-1stkrsz-0 guubZd promo-widget-container__BodyStyled-sc-ebq3ad-4 bweWQP"
+          data-test="ebook-body"
+        >
+          <a
+            href="https://www.example.com/ebooks/example-most-accurate-keyword-difficulty/"
+            role="link"
+          >
+            In order to base your strategy on reliable and consistent data, you need to use the best metrics. In 2021, example introduced an advanced keyword difficulty formula and relaunched the keyword difficulty metric, making it the most accurate for all types of keywords across all of example’s regional...
+          </a>
+        </span>
+        <div
+          class="promo-widget-container__FooterContent-sc-ebq3ad-1 erEDzD"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 cHghga"
+          >
+            <a
+              class="link-text__StyledLink-sc-a7posi-0 izGVjZ SLink"
+              data-test="link-text"
+              href="https://www.example.com/ebooks/example-most-accurate-keyword-difficulty/"
+            >
+              Download now
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

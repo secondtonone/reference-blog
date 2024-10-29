@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots IntersectionContainer default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0"
+  data-test="intersection-container"
+>
+  IntersectionContainer
+</div>
+`;
+
+exports[`Match snapshots IntersectionContainer intersected once 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0"
+  data-test="intersection-container"
+>
+  IntersectionContainer
+</div>
+`;

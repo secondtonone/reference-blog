@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot LinkButton match snapshot default 1`] = `
+<span
+  className="link-button__Container-sc-1vjnhcw-0 eyAOse"
+  data-test="link-button"
+>
+  <button
+    className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+    data-ui-name="Button"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    size="m"
+    style={Object {}}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="___SInner_rkzvx_gg_"
+      data-ui-name="Box"
+      style={Object {}}
+    >
+      <span
+        className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+        data-ui-name="Button.Text"
+        size="m"
+        style={Object {}}
+      >
+        link like button
+      </span>
+    </span>
+  </button>
+</span>
+`;

@@ -1,0 +1,511 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot SocialBlock match snapshot default 1`] = `
+Array [
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+    data-test="link-text"
+    href="https://twitter.com/example/"
+    rel="noopener noreferrer nofollow"
+    style={
+      Object {
+        "marginBottom": "10px",
+        "marginRight": "10px",
+      }
+    }
+    target="_blank"
+  >
+    <span
+      className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+      data-test="button-icon-twitter"
+      size="m"
+    >
+      <button
+        aria-label="twitter"
+        className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        size="m"
+        style={Object {}}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+          style={Object {}}
+        >
+          <span
+            className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+            size="m"
+            style={Object {}}
+          >
+            <span>
+              twitter
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </a>,
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+    data-test="link-text"
+    href="https://facebook.com/example/"
+    rel="noopener noreferrer nofollow"
+    style={
+      Object {
+        "marginBottom": "10px",
+        "marginRight": "10px",
+      }
+    }
+    target="_blank"
+  >
+    <span
+      className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+      data-test="button-icon-facebook"
+      size="m"
+    >
+      <button
+        aria-label="facebook"
+        className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        size="m"
+        style={Object {}}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+          style={Object {}}
+        >
+          <span
+            className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+            size="m"
+            style={Object {}}
+          >
+            <span>
+              facebook
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </a>,
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+    data-test="link-text"
+    href="https://www.linkedin.com/in/example/"
+    rel="noopener noreferrer nofollow"
+    style={
+      Object {
+        "marginBottom": "10px",
+        "marginRight": "10px",
+      }
+    }
+    target="_blank"
+  >
+    <span
+      className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+      data-test="button-icon-linkedin"
+      size="m"
+    >
+      <button
+        aria-label="linkedin"
+        className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        size="m"
+        style={Object {}}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+          style={Object {}}
+        >
+          <span
+            className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+            size="m"
+            style={Object {}}
+          >
+            <span>
+              linkedin
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </a>,
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+    data-test="link-text"
+    href="https://instagram.com/example/"
+    rel="noopener noreferrer nofollow"
+    style={
+      Object {
+        "marginBottom": "10px",
+        "marginRight": "10px",
+      }
+    }
+    target="_blank"
+  >
+    <span
+      className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+      data-test="button-icon-instagram"
+      size="m"
+    >
+      <button
+        aria-label="instagram"
+        className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        size="m"
+        style={Object {}}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+          style={Object {}}
+        >
+          <span
+            className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+            size="m"
+            style={Object {}}
+          >
+            <span>
+              instagram
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </a>,
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+    data-test="link-text"
+    href="https://www.youtube.com/user/exampleHQ/"
+    rel="noopener noreferrer nofollow"
+    style={
+      Object {
+        "marginBottom": "10px",
+        "marginRight": "10px",
+      }
+    }
+    target="_blank"
+  >
+    <span
+      className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 czAHmw"
+      data-test="button-icon-youtube"
+      size="m"
+    >
+      <button
+        aria-label="youtube"
+        className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        size="m"
+        style={Object {}}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+          style={Object {}}
+        >
+          <span
+            className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+            size="m"
+            style={Object {}}
+          >
+            <span>
+              youtube
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </a>,
+]
+`;
+
+exports[`Match snapshot SocialBlock match snapshot with inBlock 1`] = `
+Array [
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+    data-test="link-text"
+    href="https://twitter.com/example/"
+    rel="noopener noreferrer nofollow"
+    style={
+      Object {
+        "marginBottom": 0,
+        "marginRight": "6px",
+      }
+    }
+    target="_blank"
+  >
+    <span
+      className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 dNfjhV"
+      data-test="button-icon-twitter"
+      size="m"
+    >
+      <button
+        aria-label="twitter"
+        className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        size="m"
+        style={Object {}}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+          style={Object {}}
+        >
+          <span
+            className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+            size="m"
+            style={Object {}}
+          >
+            <span>
+              twitter
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </a>,
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+    data-test="link-text"
+    href="https://facebook.com/example/"
+    rel="noopener noreferrer nofollow"
+    style={
+      Object {
+        "marginBottom": 0,
+        "marginRight": "6px",
+      }
+    }
+    target="_blank"
+  >
+    <span
+      className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 dNfjhV"
+      data-test="button-icon-facebook"
+      size="m"
+    >
+      <button
+        aria-label="facebook"
+        className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        size="m"
+        style={Object {}}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+          style={Object {}}
+        >
+          <span
+            className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+            size="m"
+            style={Object {}}
+          >
+            <span>
+              facebook
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </a>,
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+    data-test="link-text"
+    href="https://www.linkedin.com/in/example/"
+    rel="noopener noreferrer nofollow"
+    style={
+      Object {
+        "marginBottom": 0,
+        "marginRight": "6px",
+      }
+    }
+    target="_blank"
+  >
+    <span
+      className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 dNfjhV"
+      data-test="button-icon-linkedin"
+      size="m"
+    >
+      <button
+        aria-label="linkedin"
+        className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        size="m"
+        style={Object {}}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+          style={Object {}}
+        >
+          <span
+            className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+            size="m"
+            style={Object {}}
+          >
+            <span>
+              linkedin
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </a>,
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+    data-test="link-text"
+    href="https://instagram.com/example/"
+    rel="noopener noreferrer nofollow"
+    style={
+      Object {
+        "marginBottom": 0,
+        "marginRight": "6px",
+      }
+    }
+    target="_blank"
+  >
+    <span
+      className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 dNfjhV"
+      data-test="button-icon-instagram"
+      size="m"
+    >
+      <button
+        aria-label="instagram"
+        className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        size="m"
+        style={Object {}}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+          style={Object {}}
+        >
+          <span
+            className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+            size="m"
+            style={Object {}}
+          >
+            <span>
+              instagram
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </a>,
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 bRIQum SLink"
+    data-test="link-text"
+    href="https://www.youtube.com/user/exampleHQ/"
+    rel="noopener noreferrer nofollow"
+    style={
+      Object {
+        "marginBottom": 0,
+        "marginRight": "6px",
+      }
+    }
+    target="_blank"
+  >
+    <span
+      className="base-button__BaseButton-sc-1hqbwl-0 secondary-button__SecondaryButton-sc-1lq79t2-0 dGmWiH PcQft button-icon__ButtonIconStyled-sc-i4ys4z-0 dNfjhV"
+      data-test="button-icon-youtube"
+      size="m"
+    >
+      <button
+        aria-label="youtube"
+        className="___SButton_rkzvx_gg_ _size_m_rkzvx_gg_ _theme_secondary-muted_rkzvx_gg_"
+        data-ui-name="Button"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        size="m"
+        style={Object {}}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="___SInner_rkzvx_gg_"
+          data-ui-name="Box"
+          style={Object {}}
+        >
+          <span
+            className="_size_m_rkzvx_gg_ ___SText_rkzvx_gg_"
+            data-ui-name="Button.Text"
+            size="m"
+            style={Object {}}
+          >
+            <span>
+              youtube
+            </span>
+          </span>
+        </span>
+      </button>
+    </span>
+  </a>,
+]
+`;

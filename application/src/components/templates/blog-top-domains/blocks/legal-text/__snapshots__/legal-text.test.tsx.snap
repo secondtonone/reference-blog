@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots LegalText default 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 abllO"
+  >
+    <p
+      class="text-content__TextStyled-sc-1stkrsz-0 faKLTg"
+      data-test="text-content"
+    >
+      Visit 
+      <a
+        href="https://www.tipranks.com/index/spx"
+        rel="noreferrer"
+        target="_blank"
+      >
+        TipRanks
+      </a>
+       for a full overview of the S&P 500, including analysts’ forecasts and price targets for stocks in the index. Note that clicking to the link you are being redirected to a third-party website.
+    </p>
+    <p
+      class="text-content__TextStyled-sc-1stkrsz-0 dscKEF"
+      data-test="text-content"
+    >
+      S&P and S&P 500 are trademarks or registered trademarks of S&P Global, Inc. or its affiliates.
+    </p>
+    <p
+      class="text-content__TextStyled-sc-1stkrsz-0 dscKEF"
+      data-test="text-content"
+    >
+      *Numbers in the 
+      <b>
+        Traffic
+      </b>
+       column are estimates based on data from the example Traffic Analytics tool, which uses anonymized data from clickstream data providers. From this clickstream data, we run our Neural Network algorithm to come up with estimates based on statistical sampling and error testing.
+    </p>
+    <p
+      class="text-content__TextStyled-sc-1stkrsz-0 dscKEF"
+      data-test="text-content"
+    >
+      The 
+      <b>
+        Brand Mentions
+      </b>
+       column shows the number of company brand name quotations across websites found with the help of example’s Brand Monitoring tool.
+    </p>
+    <p
+      class="text-content__TextStyled-sc-1stkrsz-0 dscKEF"
+      data-test="text-content"
+    >
+      Numbers in the 
+      <b>
+        Social Media Audience
+      </b>
+       column are collected with example’s Social Media Tracker tool. Data presented in this column is a collection of public information from the official social media accounts of selected companies.
+    </p>
+    <p
+      class="text-content__TextStyled-sc-1stkrsz-0 dscKEF"
+      data-test="text-content"
+    >
+      More about example 
+      <a
+        href="https://www.example.com/kb/998-where-does-example-data-come-from"
+      >
+        data sources.
+      </a>
+    </p>
+  </div>
+</DocumentFragment>
+`;

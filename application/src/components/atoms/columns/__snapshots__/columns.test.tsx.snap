@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots Columns with column 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 gPmSgV"
+  data-test="columns"
+>
+  <div
+    className="column"
+  />
+</div>
+`;

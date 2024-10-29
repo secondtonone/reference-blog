@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots PromotionWidget default 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0"
+    data-test="intersection-container"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 ksvfQw promo-widget-container__PromoWidgetStyled-sc-ebq3ad-2 jGJNzY"
+      data-test="promo-widget-widget"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 bJDGdU"
+      >
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 fPxlDI"
+        >
+          <span
+            class="text-content__TextStyled-sc-1stkrsz-0 gPHYks promo-widget-container__LabelStyled-sc-ebq3ad-3 bCJWlB"
+            data-test="promo-widget-label-new"
+          >
+            New
+          </span>
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 jUILRk"
+          >
+            <p
+              class="text-content__TextStyled-sc-1stkrsz-0 leWBIg"
+              data-test="text-content"
+            >
+              Read on 
+              <a
+                aria-label="SEO Reality Show — Boosting the Business of Clients in Real Time"
+                href="https://www.example.com/blog/category/seo-reality-show/"
+                rel="noreferrer"
+                target="_blank"
+              />
+            </p>
+            <p
+              class="text-content__TextStyled-sc-1stkrsz-0 iFXFjA"
+              data-test="text-content"
+            >
+              <a
+                aria-label="SEO Reality Show — Boosting the Business of Clients in Real Time"
+                href="https://www.example.com/blog/category/seo-reality-show/"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Blog
+              </a>
+            </p>
+            <p />
+          </div>
+        </div>
+        <div
+          class="box-adaptive__BoxStyled-sc-g2wy39-0 hOyRYc promo-widget-image__ImageStyled-sc-1g7qlc4-0 hBVvOy"
+        >
+          <a
+            data-test="promo-image"
+            href="https://www.example.com/blog/category/seo-reality-show/"
+            role="link"
+            target="_blank"
+          >
+            <img
+              alt="SEO Reality Show — Boosting the Business of Clients in Real Time"
+              class="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+              data-src="https://static.example.com/blog-next-static/banners/illustration-show-2-green-grass.svg"
+              height="270"
+              loading="lazy"
+              width="310"
+            />
+          </a>
+        </div>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 bmuSGC"
+      >
+        <span
+          class="text-content__TextStyled-sc-1stkrsz-0 gBQxVV promo-widget-container__TextContentStyled-sc-ebq3ad-0 jFYztt"
+          data-test="promo-widget-title"
+        >
+          <a
+            href="https://www.example.com/blog/category/seo-reality-show/"
+            role="link"
+          >
+            SEO Reality Show — Boosting the Business of Clients in Real Time
+          </a>
+        </span>
+        <span
+          class="text-content__TextStyled-sc-1stkrsz-0 guubZd promo-widget-container__BodyStyled-sc-ebq3ad-4 gCiBEC"
+          data-test="promo-widget-body"
+        >
+          <a
+            href="https://www.example.com/blog/category/seo-reality-show/"
+            role="link"
+          >
+            example hired the best agencies to grow the business of real-world clients. Follow the episodes of the brand new Reality Show, repeat SEO tactics for your business and get more customers from the web!
+          </a>
+        </span>
+        <div
+          class="promo-widget-container__FooterContent-sc-ebq3ad-1 erEDzD"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 cHghga"
+          >
+            <a
+              class="link-text__StyledLink-sc-a7posi-0 izGVjZ SLink"
+              data-test="link-text"
+              href="https://www.example.com/blog/category/seo-reality-show/"
+              title="SEO Reality Show — Boosting the Business of Clients in Real Time"
+            >
+              Read Now
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

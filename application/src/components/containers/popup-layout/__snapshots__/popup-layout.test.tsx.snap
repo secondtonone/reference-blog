@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots PopupLayout without context provider 1`] = `
+<DocumentFragment>
+  <div
+    data-popup-layout="page"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 coqjrY render-container__Container-sc-fhfuvr-0 cnDxsC"
+      data-test="render-container"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 dOpNQd backdrop__BackdropStyled-sc-198x6p3-0 fpaMSi"
+        data-test="backdrop"
+      >
+        <div
+          data-test="SUBSCRIBE-popup"
+          style="height: 100%;"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 cTyMcI"
+          >
+            <div
+              class="box-adaptive__BoxStyled-sc-g2wy39-0 hslLIx subscription-popup__Card-sc-13qbshh-0 fEVSIL"
+              data-test="subscribe-popup-container"
+            >
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 gKRWoK"
+              >
+                <span
+                  class="base-button__BaseButton-sc-1hqbwl-0 tertiary-button__TertiaryButton-sc-hxnf0z-0 gkjXHn gUzJrE"
+                  data-test="subscribe-popup-close"
+                >
+                  <button
+                    class="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_tertiary-info_rkzvx_gg_"
+                    data-ui-name="Button"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="___SInner_rkzvx_gg_"
+                      data-ui-name="Box"
+                    >
+                      <span
+                        class="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+                        data-ui-name="Button.Text"
+                      >
+                        svg-icon
+                      </span>
+                    </span>
+                  </button>
+                </span>
+              </div>
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 gjzTAB"
+                data-test="subscribe-popup-image"
+              >
+                <img
+                  alt="Newsletter example banner"
+                  data-test="banner-subscribe-png"
+                  src="https://static.example.com/blog-next-static/banners/newsletter.png"
+                  width="194"
+                />
+              </div>
+              <div
+                class="box-adaptive__BoxStyled-sc-g2wy39-0 hXOPqK"
+              >
+                <form
+                  data-test="marketo-form"
+                  id="mktoForm_1066"
+                  style="display: none;"
+                />
+                <form
+                  class="subscription-form__Form-sc-1yspurb-0 laUxsH"
+                >
+                  <div
+                    class="text-content__TextStyled-sc-1stkrsz-0 bYwOKj"
+                    data-test="subscribe-popup-title"
+                  >
+                    Join our newsletter
+                  </div>
+                  <span
+                    class="field-container__Container-sc-qv1os7-0 trAty"
+                    data-test="field-container"
+                  >
+                    <span>
+                      <div
+                        class="___SInput_ig413_gg_ _size_xl_ig413_gg_ _state_normal_ig413_gg_"
+                        data-test="subscription-input"
+                        data-ui-name="Input"
+                        style="margin-bottom: 12px;"
+                      >
+                        <input
+                          class="___SValue_ig413_gg_ _size_xl_ig413_gg_"
+                          data-ui-name="Input.Value"
+                          name="email"
+                          placeholder="Your email"
+                          value=""
+                        />
+                        <div
+                          class="___SOutline_ig413_gg_"
+                        />
+                      </div>
+                    </span>
+                  </span>
+                  <span
+                    class="base-button__BaseButton-sc-1hqbwl-0 internal-button__InternalButton-sc-6tgax4-0 dGmWiH btMXHM"
+                    data-test="button-secondary"
+                  >
+                    <button
+                      class="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_primary-info_rkzvx_gg_"
+                      data-ui-name="Button"
+                      style="margin-top: 12px; width: 100%;"
+                      tabindex="0"
+                      type="submit"
+                    >
+                      <span
+                        class="___SInner_rkzvx_gg_"
+                        data-ui-name="Box"
+                      >
+                        <span
+                          class="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+                          data-ui-name="Button.Text"
+                        >
+                          Subscribe
+                        </span>
+                      </span>
+                    </button>
+                  </span>
+                  <div
+                    class="box-adaptive__BoxStyled-sc-g2wy39-0 subscription-form__TipStyled-sc-1yspurb-1 eqlqwJ"
+                  >
+                    <div
+                      class="text-content__TextStyled-sc-1stkrsz-0 gMxUeL"
+                      data-test="subscribe-popup-tip"
+                    >
+                      By clicking “Subscribe” you agree to example 
+                      <a
+                        data-test="subscribe-link-privacy"
+                        href="https://www.example.com/company/legal/privacy-policy/"
+                        target="_blank"
+                      >
+                        <span
+                          class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm subscription-popup__PrivacyLink-sc-13qbshh-1 faAkYo"
+                          data-test="text-content"
+                        >
+                          Privacy Policy
+                        </span>
+                      </a>
+                       and consent to example using your contact data for newsletter purposes
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot PageSection empty 1`] = `
+<DocumentFragment>
+  <div
+    class="page-section__SectionStyled-sc-rosswz-0 byJLpF"
+  />
+</DocumentFragment>
+`;
+
+exports[`Match snapshot PageSection with children 1`] = `
+<DocumentFragment>
+  <div
+    class="page-section__SectionStyled-sc-rosswz-0 byJLpF"
+  >
+    <div
+      class="test"
+    />
+  </div>
+</DocumentFragment>
+`;

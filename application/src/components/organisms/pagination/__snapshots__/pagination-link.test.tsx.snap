@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot PaginationLink default 1`] = `
+<a
+  href="/blog/?page=2"
+>
+  Load more
+</a>
+`;

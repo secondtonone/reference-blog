@@ -1,0 +1,458 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputCheckbox match snapshots checked state 1`] = `
+<label
+  className="input-checkbox__InputCheckboxStyled-sc-6im964-0 diXzVM ___SLabel_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+  data-test=""
+  data-ui-name="Checkbox"
+  disabled={false}
+  label=""
+  size="m"
+  style={
+    Object {
+      "--theme_fuo89h": undefined,
+    }
+  }
+>
+  <input
+    checked={true}
+    className="___SControl_1gasn_gg_"
+    data-ui-name="Checkbox.Value"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      Object {
+        "--theme_fuo89h": undefined,
+      }
+    }
+    tabIndex={0}
+    type="checkbox"
+  />
+  <span
+    className="___SFlex_9hzl1_gg_ ___SCheckbox_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+    data-ui-name="Flex"
+    onMouseDown={[Function]}
+    size="m"
+    style={
+      Object {
+        "--theme_fuo89h": "",
+      }
+    }
+  />
+  
+</label>
+`;
+
+exports[`InputCheckbox match snapshots disabled checked state 1`] = `
+<label
+  className="input-checkbox__InputCheckboxStyled-sc-6im964-0 diXzVM ___SLabel_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+  data-test=""
+  data-ui-name="Checkbox"
+  label=""
+  size="m"
+  style={
+    Object {
+      "--theme_fuo89h": undefined,
+    }
+  }
+>
+  <input
+    checked={true}
+    className="__disabled_1gasn_gg_ ___SControl_1gasn_gg_"
+    data-ui-name="Checkbox.Value"
+    disabled={true}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      Object {
+        "--theme_fuo89h": undefined,
+      }
+    }
+    tabIndex={-1}
+    type="checkbox"
+  />
+  <span
+    className="___SFlex_9hzl1_gg_ ___SCheckbox_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+    data-ui-name="Flex"
+    onMouseDown={[Function]}
+    size="m"
+    style={
+      Object {
+        "--theme_fuo89h": "",
+      }
+    }
+  />
+  
+</label>
+`;
+
+exports[`InputCheckbox match snapshots empty state 1`] = `
+<label
+  className="input-checkbox__InputCheckboxStyled-sc-6im964-0 diXzVM ___SLabel_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+  data-test=""
+  data-ui-name="Checkbox"
+  label=""
+  size="m"
+  style={
+    Object {
+      "--theme_fuo89h": undefined,
+    }
+  }
+>
+  <input
+    checked={false}
+    className="___SControl_1gasn_gg_"
+    data-ui-name="Checkbox.Value"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      Object {
+        "--theme_fuo89h": undefined,
+      }
+    }
+    tabIndex={0}
+    type="checkbox"
+  />
+  <span
+    className="___SFlex_9hzl1_gg_ ___SCheckbox_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+    data-ui-name="Flex"
+    onMouseDown={[Function]}
+    size="m"
+    style={
+      Object {
+        "--theme_fuo89h": "",
+      }
+    }
+  />
+  
+</label>
+`;
+
+exports[`InputCheckbox match snapshots with double items 1`] = `
+Array [
+  <label
+    className="input-checkbox__InputCheckboxStyled-sc-6im964-0 cpHIFV ___SLabel_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+    data-test=""
+    data-ui-name="Checkbox"
+    label="I consent to example using my contact data for newsletter purposes"
+    size="m"
+    style={
+      Object {
+        "--theme_fuo89h": undefined,
+      }
+    }
+  >
+    <input
+      checked={true}
+      className="__disabled_1gasn_gg_ ___SControl_1gasn_gg_"
+      data-ui-name="Checkbox.Value"
+      disabled={true}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "--theme_fuo89h": undefined,
+        }
+      }
+      tabIndex={-1}
+      type="checkbox"
+    />
+    <span
+      className="___SFlex_9hzl1_gg_ ___SCheckbox_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+      data-ui-name="Flex"
+      onMouseDown={[Function]}
+      size="m"
+      style={
+        Object {
+          "--theme_fuo89h": "",
+        }
+      }
+    />
+    <span
+      className="___SText_1gasn_gg_ ___SText_1jbni_gg_ _size_100_1jbni_gg_"
+      data-ui-name="Checkbox.Text"
+      size={100}
+      style={
+        Object {
+          "--color_qh0omt": "",
+          "--decoration_qh0omt": undefined,
+          "--fontSize_qh0omt": undefined,
+          "--fontWeight_qh0omt": undefined,
+          "--lineHeight_qh0omt": undefined,
+          "--textAlign_qh0omt": undefined,
+          "--theme_fuo89h": undefined,
+        }
+      }
+    >
+      I consent to example using my contact data for newsletter purposes
+    </span>
+  </label>,
+  <label
+    className="input-checkbox__InputCheckboxStyled-sc-6im964-0 cpHIFV ___SLabel_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+    data-test=""
+    data-ui-name="Checkbox"
+    label="I consent to example using my contact data for newsletter purposes"
+    size="m"
+    style={
+      Object {
+        "--theme_fuo89h": undefined,
+      }
+    }
+  >
+    <input
+      checked={true}
+      className="___SControl_1gasn_gg_"
+      data-ui-name="Checkbox.Value"
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "--theme_fuo89h": undefined,
+        }
+      }
+      tabIndex={0}
+      type="checkbox"
+    />
+    <span
+      className="___SFlex_9hzl1_gg_ ___SCheckbox_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+      data-ui-name="Flex"
+      onMouseDown={[Function]}
+      size="m"
+      style={
+        Object {
+          "--theme_fuo89h": "",
+        }
+      }
+    />
+    <span
+      className="___SText_1gasn_gg_ ___SText_1jbni_gg_ _size_100_1jbni_gg_"
+      data-ui-name="Checkbox.Text"
+      size={100}
+      style={
+        Object {
+          "--color_qh0omt": "",
+          "--decoration_qh0omt": undefined,
+          "--fontSize_qh0omt": undefined,
+          "--fontWeight_qh0omt": undefined,
+          "--lineHeight_qh0omt": undefined,
+          "--textAlign_qh0omt": undefined,
+          "--theme_fuo89h": undefined,
+        }
+      }
+    >
+      I consent to example using my contact data for newsletter purposes
+    </span>
+  </label>,
+]
+`;
+
+exports[`InputCheckbox match snapshots with label disabled state 1`] = `
+<label
+  className="input-checkbox__InputCheckboxStyled-sc-6im964-0 cpHIFV ___SLabel_1gasn_gg_ __disabled_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+  data-test=""
+  data-ui-name="Checkbox"
+  disabled={true}
+  label="I consent to example using my contact data for newsletter purposes"
+  size="m"
+  style={
+    Object {
+      "--theme_fuo89h": undefined,
+    }
+  }
+>
+  <input
+    checked={true}
+    className="__disabled_1gasn_gg_ ___SControl_1gasn_gg_"
+    data-ui-name="Checkbox.Value"
+    disabled={true}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      Object {
+        "--theme_fuo89h": undefined,
+      }
+    }
+    tabIndex={-1}
+    type="checkbox"
+  />
+  <span
+    className="___SFlex_9hzl1_gg_ ___SCheckbox_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+    data-ui-name="Flex"
+    onMouseDown={[Function]}
+    size="m"
+    style={
+      Object {
+        "--theme_fuo89h": "",
+      }
+    }
+  />
+  <span
+    className="___SText_1gasn_gg_ __disabled_1gasn_gg_ ___SText_1jbni_gg_ _size_100_1jbni_gg_"
+    data-ui-name="Checkbox.Text"
+    disabled={true}
+    size={100}
+    style={
+      Object {
+        "--color_qh0omt": "",
+        "--decoration_qh0omt": undefined,
+        "--fontSize_qh0omt": undefined,
+        "--fontWeight_qh0omt": undefined,
+        "--lineHeight_qh0omt": undefined,
+        "--textAlign_qh0omt": undefined,
+        "--theme_fuo89h": undefined,
+      }
+    }
+  >
+    I consent to example using my contact data for newsletter purposes
+  </span>
+</label>
+`;
+
+exports[`InputCheckbox match snapshots with label state 1`] = `
+<label
+  className="input-checkbox__InputCheckboxStyled-sc-6im964-0 cpHIFV ___SLabel_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+  data-test=""
+  data-ui-name="Checkbox"
+  disabled={false}
+  label="I consent to example using my contact data for newsletter purposes"
+  size="m"
+  style={
+    Object {
+      "--theme_fuo89h": undefined,
+    }
+  }
+>
+  <input
+    checked={true}
+    className="___SControl_1gasn_gg_"
+    data-ui-name="Checkbox.Value"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      Object {
+        "--theme_fuo89h": undefined,
+      }
+    }
+    tabIndex={0}
+    type="checkbox"
+  />
+  <span
+    className="___SFlex_9hzl1_gg_ ___SCheckbox_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+    data-ui-name="Flex"
+    onMouseDown={[Function]}
+    size="m"
+    style={
+      Object {
+        "--theme_fuo89h": "",
+      }
+    }
+  />
+  <span
+    className="___SText_1gasn_gg_ ___SText_1jbni_gg_ _size_100_1jbni_gg_"
+    data-ui-name="Checkbox.Text"
+    disabled={false}
+    size={100}
+    style={
+      Object {
+        "--color_qh0omt": "",
+        "--decoration_qh0omt": undefined,
+        "--fontSize_qh0omt": undefined,
+        "--fontWeight_qh0omt": undefined,
+        "--lineHeight_qh0omt": undefined,
+        "--textAlign_qh0omt": undefined,
+        "--theme_fuo89h": undefined,
+      }
+    }
+  >
+    I consent to example using my contact data for newsletter purposes
+  </span>
+</label>
+`;
+
+exports[`InputCheckbox match snapshots with success state 1`] = `
+<label
+  className="input-checkbox__InputCheckboxStyled-sc-6im964-0 gzvJDN ___SLabel_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+  data-test=""
+  data-ui-name="Checkbox"
+  label="I consent to example using my contact data for newsletter purposes"
+  size="m"
+  style={
+    Object {
+      "--theme_fuo89h": undefined,
+    }
+  }
+>
+  <input
+    checked={true}
+    className="___SControl_1gasn_gg_"
+    data-ui-name="Checkbox.Value"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      Object {
+        "--theme_fuo89h": undefined,
+      }
+    }
+    tabIndex={0}
+    type="checkbox"
+  />
+  <span
+    className="___SFlex_9hzl1_gg_ ___SCheckbox_1gasn_gg_ _size_m_1gasn_gg_ _state_normal_1gasn_gg_"
+    data-ui-name="Flex"
+    onMouseDown={[Function]}
+    size="m"
+    style={
+      Object {
+        "--theme_fuo89h": "",
+      }
+    }
+  />
+  <span
+    className="___SText_1gasn_gg_ ___SText_1jbni_gg_ _size_100_1jbni_gg_"
+    data-ui-name="Checkbox.Text"
+    size={100}
+    style={
+      Object {
+        "--color_qh0omt": "",
+        "--decoration_qh0omt": undefined,
+        "--fontSize_qh0omt": undefined,
+        "--fontWeight_qh0omt": undefined,
+        "--lineHeight_qh0omt": undefined,
+        "--textAlign_qh0omt": undefined,
+        "--theme_fuo89h": undefined,
+      }
+    }
+  >
+    I consent to example using my contact data for newsletter purposes
+  </span>
+</label>
+`;

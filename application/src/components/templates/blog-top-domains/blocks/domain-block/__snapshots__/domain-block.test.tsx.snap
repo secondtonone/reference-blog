@@ -1,0 +1,3676 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots DomainBlock default 1`] = `
+<DocumentFragment>
+  <section
+    class="domain-block__StyledRankBlock-sc-9i5e5w-0 bgaBIv"
+  >
+    <div
+      class="block-wrap__StyledBlockWrap-sc-b9t08q-0 borOVq"
+    >
+      <p
+        class="text-content__TextStyled-sc-1stkrsz-0 lkcSkC"
+        data-test="text-content"
+      >
+        Global data, March 2022
+      </p>
+    </div>
+    <div
+      class="tableContainer"
+    >
+      <div
+        class="domain-table__StyledRankTable-sc-12baq2i-1 kbrxQz"
+      >
+        <table
+          class="table"
+        >
+          <thead>
+            <tr
+              class="tableHead"
+            >
+              <th
+                class="tableTh active cell__rank"
+              >
+                Rank
+                <svg
+                  class="___SIcon_130ku_gg_ domain-table__Icon-sc-12baq2i-0 gjMSXE domain-table__Icon-sc-12baq2i-0 gjMSXE"
+                  data-group="xs"
+                  data-name="SortUp"
+                  data-ui-name="SortUp"
+                  disabled=""
+                  height="12"
+                  order="ascending"
+                  tabindex="-1"
+                  viewBox="0 0 12 12"
+                  width="12"
+                >
+                  <polygon
+                    points="6 3 1 8 10.999 8"
+                  />
+                </svg>
+              </th>
+              <th
+                class="tableTh active cell__company"
+              >
+                Company
+                <svg
+                  class="___SIcon_130ku_gg_ domain-table__Icon-sc-12baq2i-0 hgWgqL domain-table__Icon-sc-12baq2i-0 hgWgqL"
+                  data-group="xs"
+                  data-name="SortUp"
+                  data-ui-name="SortUp"
+                  disabled=""
+                  height="12"
+                  order="ascending"
+                  tabindex="-1"
+                  viewBox="0 0 12 12"
+                  width="12"
+                >
+                  <polygon
+                    points="6 3 1 8 10.999 8"
+                  />
+                </svg>
+              </th>
+              <th
+                class="tableTh cell__symbol"
+              >
+                Symbol
+              </th>
+              <th
+                class="tableTh cell__website"
+              >
+                Website
+              </th>
+              <th
+                class="tableTh active cell__traffic"
+              >
+                Traffic
+                <svg
+                  class="___SIcon_130ku_gg_ domain-table__Icon-sc-12baq2i-0 hgWgqL domain-table__Icon-sc-12baq2i-0 hgWgqL"
+                  data-group="xs"
+                  data-name="SortUp"
+                  data-ui-name="SortUp"
+                  disabled=""
+                  height="12"
+                  order="ascending"
+                  tabindex="-1"
+                  viewBox="0 0 12 12"
+                  width="12"
+                >
+                  <polygon
+                    points="6 3 1 8 10.999 8"
+                  />
+                </svg>
+                <span>
+                  (i)
+                </span>
+              </th>
+              <th
+                class="tableTh active cell__brand"
+              >
+                Brand Mentions
+                <svg
+                  class="___SIcon_130ku_gg_ domain-table__Icon-sc-12baq2i-0 hgWgqL domain-table__Icon-sc-12baq2i-0 hgWgqL"
+                  data-group="xs"
+                  data-name="SortUp"
+                  data-ui-name="SortUp"
+                  disabled=""
+                  height="12"
+                  order="ascending"
+                  tabindex="-1"
+                  viewBox="0 0 12 12"
+                  width="12"
+                >
+                  <polygon
+                    points="6 3 1 8 10.999 8"
+                  />
+                </svg>
+                <span>
+                  (i)
+                </span>
+              </th>
+              <th
+                class="tableTh active cell__social"
+              >
+                Social Media Audience
+                <svg
+                  class="___SIcon_130ku_gg_ domain-table__Icon-sc-12baq2i-0 hgWgqL domain-table__Icon-sc-12baq2i-0 hgWgqL"
+                  data-group="xs"
+                  data-name="SortUp"
+                  data-ui-name="SortUp"
+                  disabled=""
+                  height="12"
+                  order="ascending"
+                  tabindex="-1"
+                  viewBox="0 0 12 12"
+                  width="12"
+                >
+                  <polygon
+                    points="6 3 1 8 10.999 8"
+                  />
+                </svg>
+                <span>
+                  (i)
+                </span>
+              </th>
+            </tr>
+          </thead>
+          <tbody
+            class="tableBody"
+          >
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  1
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Apple Inc.
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                AAPL
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/apple.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    apple.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  2.53B
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    5%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  356.34K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    51.13%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  48.66M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.33%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9hcHBsZSIsImNhY2hlVHRsIjowLCJpc3MiOiJzbW0tdG9vbCIsInVzZXJJcCI6IjYyLjc3Ljc5LjEwIiwiZXhwIjoyMTQ1OTE2ODAwLCJ1c2VySWQiOiIyNjg4MzZiYS1lZTFiLTQ4MTAtYWVjNi00YTE2ZGM4Zjk1OTMifQ._7tE8cX7D2KHZNiRIvF8ehYUyBVDN_C-d8f5v0MJy9M"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  2
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Microsoft Corporation
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                MSFT
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/microsoft.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    microsoft.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  977.77M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    2.99%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  231.06K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    20.12%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  28.44M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.73%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9taWNyb3NvZnQiLCJjYWNoZVR0bCI6MCwiaXNzIjoic21tLXRvb2wiLCJ1c2VySXAiOiI2Mi43Ny43OS4xMCIsImV4cCI6MjE0NTkxNjgwMCwidXNlcklkIjoiMjY4ODM2YmEtZWUxYi00ODEwLWFlYzYtNGExNmRjOGY5NTkzIn0.W0_y_X-EmaE5MUWxQRcYF6oOG_TTh8IiQ4PAfOAx-_8"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  3
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Amazon.com Inc.
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                AMZN
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/amazon.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    amazon.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  3.28B
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    8.49%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  342.25K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    50.25%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  37.57M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.21%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9hbWF6b24iLCJjYWNoZVR0bCI6MCwiaXNzIjoic21tLXRvb2wiLCJ1c2VySXAiOiI2Mi43Ny43OS4xMCIsImV4cCI6MjE0NTkxNjgwMCwidXNlcklkIjoiMjY4ODM2YmEtZWUxYi00ODEwLWFlYzYtNGExNmRjOGY5NTkzIn0.UoGEZXHliIw-3fnUmJcBAvI10jbo97KBQPtjBVJkqgk"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  4
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Alphabet Inc. Class A
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                GOOGL
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/google.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    google.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  45.04B
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    15.22%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  530.11K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    25.01%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  66.19M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.31%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9nb29nbGUiLCJjYWNoZVR0bCI6MCwiaXNzIjoic21tLXRvb2wiLCJ1c2VySXAiOiI2Mi43Ny43OS4xMCIsImV4cCI6MjE0NTkxNjgwMCwidXNlcklkIjoiMjY4ODM2YmEtZWUxYi00ODEwLWFlYzYtNGExNmRjOGY5NTkzIn0.2L4lRrx_R8Cqy3UFo53jz5MAiNnl2vm66RUJq9WFjxM"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  5
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Facebook Inc. Class A
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                FB
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/facebook.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    facebook.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  10.23B
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    9.6%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  526.55K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    3.09%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  88.16M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    1.97%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9tZXRhLyIsImNhY2hlVHRsIjowLCJpc3MiOiJzbW0tdG9vbCIsInVzZXJJcCI6IjYyLjc3Ljc5LjEwIiwiZXhwIjoyMTQ1OTE2ODAwLCJ1c2VySWQiOiIyNjg4MzZiYS1lZTFiLTQ4MTAtYWVjNi00YTE2ZGM4Zjk1OTMifQ.3lEYv3xsxgr0riApTvijNZEvuiGVRGoNh9yKQ_-DHmI"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  6
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Alphabet Inc. Class C
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                GOOG
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/google.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    google.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  45.04B
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    15.22%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  530.11K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    25.01%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  66.19M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.31%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9nb29nbGUiLCJjYWNoZVR0bCI6MCwiaXNzIjoic21tLXRvb2wiLCJ1c2VySXAiOiI2Mi43Ny43OS4xMCIsImV4cCI6MjE0NTkxNjgwMCwidXNlcklkIjoiMjY4ODM2YmEtZWUxYi00ODEwLWFlYzYtNGExNmRjOGY5NTkzIn0.2L4lRrx_R8Cqy3UFo53jz5MAiNnl2vm66RUJq9WFjxM"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  7
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Tesla Inc
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                TSLA
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/tesla.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    tesla.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  40.71M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    32.21%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  61.81K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    44.23%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  23.23M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    1.68%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS90ZXNsYW1vdG9ycyIsImNhY2hlVHRsIjowLCJpc3MiOiJzbW0tdG9vbCIsInVzZXJJcCI6IjYyLjc3Ljc5LjEwIiwiZXhwIjoyMTQ1OTE2ODAwLCJ1c2VySWQiOiIyNjg4MzZiYS1lZTFiLTQ4MTAtYWVjNi00YTE2ZGM4Zjk1OTMifQ.ldv5daG7yzr4apwHMXjk4eC9T7dwLAlsQKl4ajczdYs"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  8
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                NVIDIA Corporation
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                NVDA
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/nvidia.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    nvidia.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  55.99M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    12.22%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  38.62K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    36.88%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  6.15M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.14%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9udmlkaWEiLCJjYWNoZVR0bCI6MCwiaXNzIjoic21tLXRvb2wiLCJ1c2VySXAiOiI2Mi43Ny43OS4xMCIsImV4cCI6MjE0NTkxNjgwMCwidXNlcklkIjoiMjY4ODM2YmEtZWUxYi00ODEwLWFlYzYtNGExNmRjOGY5NTkzIn0.mqow3adicG47IEKJX7D96oVp_JI8UaBb2CPGnkYwtAI"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  9
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Berkshire Hathaway Inc. Class B
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                BRK.B
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/berkshirehathaway.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    berkshirehathaway.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  561.48K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    27.88%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  9.21K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    29.05%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  122.83K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.7%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9iaGhzcmVhbGVzdGF0ZSIsImNhY2hlVHRsIjowLCJpc3MiOiJzbW0tdG9vbCIsInVzZXJJcCI6IjYyLjc3Ljc5LjEwIiwiZXhwIjoyMTQ1OTE2ODAwLCJ1c2VySWQiOiIyNjg4MzZiYS1lZTFiLTQ4MTAtYWVjNi00YTE2ZGM4Zjk1OTMifQ.uAaEJuQYSPSxzaN1scoHYhUt8fe4V-7UpJl8HbiqdP0"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  10
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                JPMorgan Chase & Co.
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                JPM
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/jpmorganchase.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    jpmorganchase.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  1.55M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    22.63%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  32.01K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    22%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  1.30M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.93%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qcG1vcmdhbiIsImNhY2hlVHRsIjowLCJpc3MiOiJzbW0tdG9vbCIsInVzZXJJcCI6IjYyLjc3Ljc5LjEwIiwiZXhwIjoyMTQ1OTE2ODAwLCJ1c2VySWQiOiIyNjg4MzZiYS1lZTFiLTQ4MTAtYWVjNi00YTE2ZGM4Zjk1OTMifQ.e6b0b0EN5uvcHIeowteN1EuUVmM3OnfbfzxUeR-uaWI"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  11
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Johnson & Johnson
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                JNJ
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/jnj.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    jnj.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  3.21M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    12.83%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  20.29K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    6.19%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  1.37M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.1%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9qbmoiLCJjYWNoZVR0bCI6MCwiaXNzIjoic21tLXRvb2wiLCJ1c2VySXAiOiI2Mi43Ny43OS4xMCIsImV4cCI6MjE0NTkxNjgwMCwidXNlcklkIjoiMjY4ODM2YmEtZWUxYi00ODEwLWFlYzYtNGExNmRjOGY5NTkzIn0.IxzfguFAm8-aVyIlAGvq9xNS2Qq9eV4HLbAIBIhEsVI"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  12
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Visa Inc. Class A
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                V
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/visa.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    visa.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  31.92M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    11.39%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  98.90K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    27.92%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  22.95M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    0.06%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS92aXNhX3VzIiwiY2FjaGVUdGwiOjAsImlzcyI6InNtbS10b29sIiwidXNlcklwIjoiNjIuNzcuNzkuMTAiLCJleHAiOjIxNDU5MTY4MDAsInVzZXJJZCI6IjI2ODgzNmJhLWVlMWItNDgxMC1hZWM2LTRhMTZkYzhmOTU5MyJ9.IB0906OE_GUZl1TnvomfvQxm7UMm71lrGBz5R3TcpMQ"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  13
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                UnitedHealth Group Incorporated
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                UNH
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/unitedhealthgroup.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    unitedhealthgroup.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  2.92M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    0.55%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  3.47K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    9.66%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  87.27K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.54%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS91bml0ZWRoZWFsdGhjYXJlIiwiY2FjaGVUdGwiOjAsImlzcyI6InNtbS10b29sIiwidXNlcklwIjoiNjIuNzcuNzkuMTAiLCJleHAiOjIxNDU5MTY4MDAsInVzZXJJZCI6IjI2ODgzNmJhLWVlMWItNDgxMC1hZWM2LTRhMTZkYzhmOTU5MyJ9.BAmLSZG1C-Aw7ZDIH1vnCQ1H6KXPTGwbp93ifbEkONE"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  14
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Home Depot Inc.
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                HD
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/homedepot.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    homedepot.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  205.16M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    16.34%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  12.51K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    34.16%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  7.03M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.13%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9ob21lZGVwb3QiLCJjYWNoZVR0bCI6MCwiaXNzIjoic21tLXRvb2wiLCJ1c2VySXAiOiI2Mi43Ny43OS4xMCIsImV4cCI6MjE0NTkxNjgwMCwidXNlcklkIjoiMjY4ODM2YmEtZWUxYi00ODEwLWFlYzYtNGExNmRjOGY5NTkzIn0.8SBCiSu5s49xQiNBw6H9s5A47JKsl6gCX5FfGj_vdrE"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  15
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Procter & Gamble Company
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                PG
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/pg.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    pg.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  3.38M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    25.45%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  5.60K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    2.96%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  6.01M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.04%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wcm9jdGVyZ2FtYmxlIiwiY2FjaGVUdGwiOjAsImlzcyI6InNtbS10b29sIiwidXNlcklwIjoiNjIuNzcuNzkuMTAiLCJleHAiOjIxNDU5MTY4MDAsInVzZXJJZCI6IjI2ODgzNmJhLWVlMWItNDgxMC1hZWM2LTRhMTZkYzhmOTU5MyJ9.mAS_q89y_U8rXMy1JQPSc5bnfdkeiUlGCqfY2iggRrY"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  16
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Bank of America Corp
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                BAC
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/bankofamerica.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    bankofamerica.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  100.85M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    11.67%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  35.41K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    19.86%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  3.83M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    1.09%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9iYW5rb2ZhbWVyaWNhIiwiY2FjaGVUdGwiOjAsImlzcyI6InNtbS10b29sIiwidXNlcklwIjoiNjIuNzcuNzkuMTAiLCJleHAiOjIxNDU5MTY4MDAsInVzZXJJZCI6IjI2ODgzNmJhLWVlMWItNDgxMC1hZWM2LTRhMTZkYzhmOTU5MyJ9.sL3u9sw7PDebOy1ePTKZtO3Xld041XsMCLU7SyM55BQ"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  17
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Walt Disney Company
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                DIS
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/thewaltdisneycompany.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    thewaltdisneycompany.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  1.36M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    42.11%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  27.41K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    3.01%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  86.38M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.27%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9kaXNuZXkiLCJjYWNoZVR0bCI6MCwiaXNzIjoic21tLXRvb2wiLCJ1c2VySXAiOiI2Mi43Ny43OS4xMCIsImV4cCI6MjE0NTkxNjgwMCwidXNlcklkIjoiMjY4ODM2YmEtZWUxYi00ODEwLWFlYzYtNGExNmRjOGY5NTkzIn0.6rXbdExizDCMbSrPnzO7GnhhFcTFbnCk3c1XP3OSMEA"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  18
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                PayPal Holdings Inc.
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                PYPL
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/paypal.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    paypal.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  1.09B
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    15.62%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  141.44K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    6.32%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  7.89M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.26%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9wYXlwYWwiLCJjYWNoZVR0bCI6MCwiaXNzIjoic21tLXRvb2wiLCJ1c2VySXAiOiI2Mi43Ny43OS4xMCIsImV4cCI6MjE0NTkxNjgwMCwidXNlcklkIjoiMjY4ODM2YmEtZWUxYi00ODEwLWFlYzYtNGExNmRjOGY5NTkzIn0.hJHJrpm_xAVg_vHGgNSXuv7W2eAtfAYZr_w7wg0DbF8"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  19
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Mastercard Incorporated Class A
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                MA
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/mastercard.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    mastercard.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  14.16M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    14.18%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  57.22K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    51.39%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  16.53M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    0.04%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9tYXN0ZXJjYXJkIiwiY2FjaGVUdGwiOjAsImlzcyI6InNtbS10b29sIiwidXNlcklwIjoiNjIuNzcuNzkuMTAiLCJleHAiOjIxNDU5MTY4MDAsInVzZXJJZCI6IjI2ODgzNmJhLWVlMWItNDgxMC1hZWM2LTRhMTZkYzhmOTU5MyJ9.XdUpI2Np3MAyZqtgSwtzd7IqjViyvOGqYMWE-rf1P_4"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+            <tr
+              class="tableRow"
+            >
+              <td
+                class="cell cell__rank"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  20
+                </span>
+              </td>
+              <td
+                class="cell cell__company"
+              >
+                Netflix Inc.
+              </td>
+              <td
+                class="cell cell__symbol"
+              >
+                NFLX
+              </td>
+              <td
+                class="cell cell__website"
+              >
+                <a
+                  class="cell_ellipsis ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/website/netflix.com/?from_page=blog-sp500"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    netflix.com
+                  </span>
+                </a>
+              </td>
+              <td
+                class="cell cell__traffic"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  872.08M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    1.09%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__brand"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  160.85K
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 eMVlYf"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowDown"
+                      data-ui-name="ArrowDown"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="5 0 5 8.53 2.232 5.759 1 6.995 6.001 12 11 6.995 9.768 5.759 7.001 8.53 7.001 0"
+                      />
+                    </svg>
+                    8.64%
+                  </span>
+                </span>
+              </td>
+              <td
+                class="cell cell__social"
+              >
+                <span
+                  class="text-content__TextStyled-sc-1stkrsz-0 bUJWgm"
+                  data-test="text-content"
+                >
+                  128.14M
+                  <span
+                    class="diff__StyledDiff-sc-1l5mvnz-0 daLFUX"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="xs"
+                      data-name="ArrowUp"
+                      data-ui-name="ArrowUp"
+                      disabled=""
+                      height="12"
+                      style="margin-right: 4px;"
+                      tabindex="-1"
+                      viewBox="0 0 12 12"
+                      width="12"
+                    >
+                      <polygon
+                        points="6 0 1 5.006 2.232 6.24 4.999 3.47 4.999 12 7 12 7 3.47 9.767 6.24 10.999 5.006"
+                      />
+                    </svg>
+                    0.81%
+                  </span>
+                </span>
+                <a
+                  class="sm_tracker_lp ___SLink_jyp83_gg_ __noWrapText_jyp83_gg_ ___SText_1jbni_gg_"
+                  data-ui-name="Link"
+                  href="https://www.example.com/social-media/tracker/competitors/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwcm9maWxlVXJsIjoiaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9uZXRmbGl4IiwiY2FjaGVUdGwiOjAsImlzcyI6InNtbS10b29sIiwidXNlcklwIjoiNjIuNzcuNzkuMTAiLCJleHAiOjIxNDU5MTY4MDAsInVzZXJJZCI6IjI2ODgzNmJhLWVlMWItNDgxMC1hZWM2LTRhMTZkYzhmOTU5MyJ9.cUixKUrjVO0j_PySy43rrdXZcv1ysjPPeYHmxr9iEx8"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="___SText_jyp83_gg_"
+                    data-ui-name="Link.Text"
+                  >
+                    <svg
+                      class="___SIcon_130ku_gg_"
+                      data-group="m"
+                      data-name="Instagram"
+                      data-ui-name="Instagram"
+                      disabled=""
+                      height="22"
+                      tabindex="-1"
+                      viewBox="0 0 22 22"
+                      width="22"
+                    >
+                      <path
+                        d="M16,1 C18.8,1 21,3.2 21,6 L21,16 C21,18.8 18.8,21 16,21 L6,21 C3.2,21 1,18.8 1,16 L1,6 C1,3.2 3.2,1 6,1 L16,1 Z M19,16 L19,6 C19,4.3 17.7,3 16,3 L6,3 C4.3,3 3,4.3 3,6 L3,16 C3,17.7 4.3,19 6,19 L16,19 C17.7,19 19,17.7 19,16 Z M11,6 C13.8,6 16,8.2 16,11 C16,13.8 13.8,16 11,16 C8.2,16 6,13.8 6,11 C6,8.2 8.2,6 11,6 Z M11,14 C12.7,14 14,12.7 14,11 C14,9.3 12.7,8 11,8 C9.3,8 8,9.3 8,11 C8,12.7 9.3,14 11,14 Z M16,5 C16.6,5 17,5.4 17,6 C17,6.6 16.6,7 16,7 C15.4,7 15,6.6 15,6 C15,5.4 15.4,5 16,5 Z"
+                        shape-rendering="geometricPrecision"
+                      />
+                    </svg>
+                  </span>
+                </a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <div
+          class="domain-table__ControlWrapper-sc-12baq2i-3 joAlXO"
+        >
+          <div
+            class="box-adaptive__BoxStyled-sc-g2wy39-0 pagination__PaginationStyled-sc-1gnypgk-0 bzaxrQ"
+            data-test="pagination-controls"
+          >
+            <ul
+              class="rc-pagination"
+              unselectable="unselectable"
+            >
+              <li
+                aria-disabled="true"
+                class="rc-pagination-prev rc-pagination-disabled"
+              />
+              <li
+                class="rc-pagination-item rc-pagination-item-1 rc-pagination-item-active"
+                tabindex="0"
+              >
+                <span
+                  class="base-link__BaseButtonLink-sc-16cbcsq-0 selected-link__SelectedButtonLink-sc-oydr0g-0 jcuBOd jSCFRv pagination-page"
+                  data-test="button-link-selected"
+                >
+                  <a
+                    class="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+                    data-test="pagination-page-selected"
+                    href="/blog/sp-500"
+                    style="min-width: 42px;"
+                  >
+                    1
+                  </a>
+                </span>
+              </li>
+              <li
+                class="rc-pagination-item rc-pagination-item-2"
+                tabindex="0"
+              >
+                <span
+                  class="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC pagination-page"
+                  data-test="button-link-secondary"
+                >
+                  <a
+                    class="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+                    data-test="pagination-page"
+                    href="/blog/sp-500?page=2"
+                    style="min-width: 42px;"
+                  >
+                    2
+                  </a>
+                </span>
+              </li>
+              <li
+                class="rc-pagination-item rc-pagination-item-3"
+                tabindex="0"
+              >
+                <span
+                  class="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC pagination-page"
+                  data-test="button-link-secondary"
+                >
+                  <a
+                    class="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+                    data-test="pagination-page"
+                    href="/blog/sp-500?page=3"
+                    style="min-width: 42px;"
+                  >
+                    3
+                  </a>
+                </span>
+              </li>
+              <li
+                class="rc-pagination-item rc-pagination-item-4"
+                tabindex="0"
+              >
+                <span
+                  class="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC pagination-page"
+                  data-test="button-link-secondary"
+                >
+                  <a
+                    class="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+                    data-test="pagination-page"
+                    href="/blog/sp-500?page=4"
+                    style="min-width: 42px;"
+                  >
+                    4
+                  </a>
+                </span>
+              </li>
+              <li
+                class="rc-pagination-item rc-pagination-item-5 rc-pagination-item-before-jump-next"
+                tabindex="0"
+              >
+                <span
+                  class="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC pagination-page"
+                  data-test="button-link-secondary"
+                >
+                  <a
+                    class="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+                    data-test="pagination-page"
+                    href="/blog/sp-500?page=5"
+                    style="min-width: 42px;"
+                  >
+                    5
+                  </a>
+                </span>
+              </li>
+              <li
+                class="rc-pagination-jump-next"
+                tabindex="0"
+              >
+                <div
+                  class="box-adaptive__BoxStyled-sc-g2wy39-0 fWCcpx pagination__PageEmptyStyled-sc-1gnypgk-1 iHZQIy"
+                  data-test="pagination-page-empty"
+                >
+                  ...
+                </div>
+              </li>
+              <li
+                class="rc-pagination-item rc-pagination-item-26"
+                tabindex="0"
+              >
+                <span
+                  class="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC pagination-page"
+                  data-test="button-link-secondary"
+                >
+                  <a
+                    class="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+                    data-test="pagination-page"
+                    href="/blog/sp-500?page=26"
+                    style="min-width: 42px;"
+                  >
+                    26
+                  </a>
+                </span>
+              </li>
+              <li
+                aria-disabled="false"
+                class="rc-pagination-next"
+                tabindex="0"
+              />
+              <li
+                class="rc-pagination-options"
+              />
+            </ul>
+          </div>
+          <div
+            class="domain-table__PerPageControl-sc-12baq2i-4 joyxbJ"
+          >
+            Rows per page
+            <button
+              class="domain-table__Button-sc-12baq2i-2 iPofyD active"
+            >
+              20
+            </button>
+            <button
+              class="domain-table__Button-sc-12baq2i-2 iPofyD"
+            >
+              50
+            </button>
+            <button
+              class="domain-table__Button-sc-12baq2i-2 iPofyD"
+            >
+              100
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 abllO"
+    >
+      <p
+        class="text-content__TextStyled-sc-1stkrsz-0 faKLTg"
+        data-test="text-content"
+      >
+        Visit 
+        <a
+          href="https://www.tipranks.com/index/spx"
+          rel="noreferrer"
+          target="_blank"
+        >
+          TipRanks
+        </a>
+         for a full overview of the S&P 500, including analysts’ forecasts and price targets for stocks in the index. Note that clicking to the link you are being redirected to a third-party website.
+      </p>
+      <p
+        class="text-content__TextStyled-sc-1stkrsz-0 dscKEF"
+        data-test="text-content"
+      >
+        S&P and S&P 500 are trademarks or registered trademarks of S&P Global, Inc. or its affiliates.
+      </p>
+      <p
+        class="text-content__TextStyled-sc-1stkrsz-0 dscKEF"
+        data-test="text-content"
+      >
+        *Numbers in the 
+        <b>
+          Traffic
+        </b>
+         column are estimates based on data from the example Traffic Analytics tool, which uses anonymized data from clickstream data providers. From this clickstream data, we run our Neural Network algorithm to come up with estimates based on statistical sampling and error testing.
+      </p>
+      <p
+        class="text-content__TextStyled-sc-1stkrsz-0 dscKEF"
+        data-test="text-content"
+      >
+        The 
+        <b>
+          Brand Mentions
+        </b>
+         column shows the number of company brand name quotations across websites found with the help of example’s Brand Monitoring tool.
+      </p>
+      <p
+        class="text-content__TextStyled-sc-1stkrsz-0 dscKEF"
+        data-test="text-content"
+      >
+        Numbers in the 
+        <b>
+          Social Media Audience
+        </b>
+         column are collected with example’s Social Media Tracker tool. Data presented in this column is a collection of public information from the official social media accounts of selected companies.
+      </p>
+      <p
+        class="text-content__TextStyled-sc-1stkrsz-0 dscKEF"
+        data-test="text-content"
+      >
+        More about example 
+        <a
+          href="https://www.example.com/kb/998-where-does-example-data-come-from"
+        >
+          data sources.
+        </a>
+      </p>
+    </div>
+  </section>
+</DocumentFragment>
+`;

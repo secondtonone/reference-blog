@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot Hint match snapshot default 1`] = `
+<span
+  className="hint__Container-sc-g5bd3m-0 dYzZrz"
+>
+  <abbr
+    className="___SHint_15hp4_gg_ ___SText_1jbni_gg_"
+    data-ui-name="Hint"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    style={
+      Object {
+        "--color_qh0omt": "",
+        "--decoration_qh0omt": undefined,
+        "--fontSize_qh0omt": undefined,
+        "--fontWeight_qh0omt": undefined,
+        "--lineHeight_qh0omt": undefined,
+        "--textAlign_qh0omt": undefined,
+      }
+    }
+    tabIndex={0}
+  >
+    <span
+      className="___SText_15hp4_gg_"
+      data-ui-name="Hint.Text"
+      style={Object {}}
+    >
+      hint
+    </span>
+  </abbr>
+</span>
+`;

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots MarketoForm default 1`] = `
+<DocumentFragment>
+  <form
+    data-test="marketo-form"
+    id="mktoForm_1073"
+    style="display: none;"
+  />
+</DocumentFragment>
+`;
+
+exports[`Match snapshots MarketoForm without baseUrl 1`] = `
+<DocumentFragment>
+  <form
+    data-test="marketo-form"
+    id="mktoForm_1073"
+    style="display: none;"
+  />
+</DocumentFragment>
+`;
+
+exports[`Match snapshots MarketoForm without fromId 1`] = `
+<DocumentFragment>
+  <form
+    data-test="marketo-form"
+    id="mktoForm_"
+    style="display: none;"
+  />
+</DocumentFragment>
+`;
+
+exports[`Match snapshots MarketoForm without munchkinId 1`] = `
+<DocumentFragment>
+  <form
+    data-test="marketo-form"
+    id="mktoForm_1073"
+    style="display: none;"
+  />
+</DocumentFragment>
+`;

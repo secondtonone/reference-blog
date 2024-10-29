@@ -1,0 +1,11 @@
+const RedisTTL = {
+  CATEGORY: 600,
+  SEO_SHOW: 7200, // 2 hours
+  POWER_PAGES: 7200,
+  ARTICLE: 7200,
+  AUTHOR: 7200,
+  AUTHOR_ARTICLES_LIST: 7200,
+  CATEGORY_TREE: 604800, // 1 week
+};
+
+export default RedisTTL;

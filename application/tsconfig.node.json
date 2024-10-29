@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "noEmit": false,
+    "isolatedModules": false,
+    "outDir": "server"
+  },
+  "include": [
+    "index.ts",
+    "redis.ts",
+  ]
+}

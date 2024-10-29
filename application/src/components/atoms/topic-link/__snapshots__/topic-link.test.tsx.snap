@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots TopicLink default 1`] = `
+<span
+  className="topic-link__LinkStyled-sc-1hu0012-0 bhRQiG"
+  data-test="topic-link"
+>
+  <a
+    href="link"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+  >
+    text
+  </a>
+</span>
+`;

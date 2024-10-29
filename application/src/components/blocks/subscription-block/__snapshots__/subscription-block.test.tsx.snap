@@ -1,0 +1,407 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots SubscriptionBlock default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 fENLpO block__BlockStyled-sc-h0mnyi-0 gMzVTU"
+  data-test="subscription-block"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 hoIJKK"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 hrMNQR"
+        data-test="subscription-content"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 gtIEcS"
+        >
+          <form
+            data-test="marketo-form"
+            id="mktoForm_1066"
+            style={
+              Object {
+                "display": "none",
+              }
+            }
+          />
+          <form
+            className="subscription-form__Form-sc-1yspurb-0 laUxsH"
+            onSubmit={[Function]}
+          >
+            <div
+              className="box-adaptive__BoxStyled-sc-g2wy39-0 ctwgcf"
+            >
+              <div
+                className="text-content__TextStyled-sc-1stkrsz-0 ecHJBr"
+                data-test="subscription-title"
+              >
+                Join our newsletter
+              </div>
+            </div>
+            <span
+              className="field-container__Container-sc-qv1os7-0 trAty"
+              data-test="field-container"
+            >
+              <span>
+                <div
+                  className="___SInput_ig413_gg_ _size_xl_ig413_gg_ _state_normal_ig413_gg_"
+                  data-test="subscription-input"
+                  data-ui-name="Input"
+                  size="xl"
+                  style={
+                    Object {
+                      "marginBottom": "12px",
+                    }
+                  }
+                >
+                  <input
+                    className="___SValue_ig413_gg_ _size_xl_ig413_gg_"
+                    data-ui-name="Input.Value"
+                    name="email"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    placeholder="Your email"
+                    size="xl"
+                    style={Object {}}
+                    value=""
+                  />
+                  <div
+                    className="___SOutline_ig413_gg_"
+                  />
+                </div>
+              </span>
+            </span>
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 internal-button__InternalButton-sc-6tgax4-0 dGmWiH btMXHM"
+              data-test="button-secondary"
+            >
+              <button
+                className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_primary-info_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="xl"
+                style={
+                  Object {
+                    "marginTop": 12,
+                    "width": "100%",
+                  }
+                }
+                tabIndex={0}
+                type="submit"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="xl"
+                    style={Object {}}
+                  >
+                    Subscribe
+                  </span>
+                </span>
+              </button>
+            </span>
+            <div
+              className="box-adaptive__BoxStyled-sc-g2wy39-0 subscription-form__TipStyled-sc-1yspurb-1 eqlqwJ"
+            >
+              <div
+                className="text-content__TextStyled-sc-1stkrsz-0 gMxUeL"
+                data-test="subscription-tip"
+              >
+                By clicking the button you consent to example using your contact data for newsletter purposes
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 hCVLEd block__ImageStyled-sc-h0mnyi-1 glxix"
+        data-test="subscription-image"
+      >
+        <span>
+          image
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots SubscriptionBlock in block 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 wyXQw block__BlockStyled-sc-h0mnyi-0 gMzVTU"
+  data-test="subscription-block"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 hoIJKK"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 jUfRPh"
+      data-test="subscription-content"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 gtIEcS"
+      >
+        <form
+          data-test="marketo-form"
+          id="mktoForm_1066"
+          style={
+            Object {
+              "display": "none",
+            }
+          }
+        />
+        <form
+          className="subscription-form__Form-sc-1yspurb-0 laUxsH"
+          onSubmit={[Function]}
+        >
+          <div
+            className="box-adaptive__BoxStyled-sc-g2wy39-0 ctwgcf"
+          >
+            <div
+              className="text-content__TextStyled-sc-1stkrsz-0 ubsrR"
+              data-test="subscription-title"
+            >
+              Join our newsletter
+            </div>
+          </div>
+          <span
+            className="field-container__Container-sc-qv1os7-0 trAty"
+            data-test="field-container"
+          >
+            <span>
+              <div
+                className="___SInput_ig413_gg_ _size_xl_ig413_gg_ _state_normal_ig413_gg_"
+                data-test="subscription-input"
+                data-ui-name="Input"
+                size="xl"
+                style={
+                  Object {
+                    "marginBottom": "12px",
+                  }
+                }
+              >
+                <input
+                  className="___SValue_ig413_gg_ _size_xl_ig413_gg_"
+                  data-ui-name="Input.Value"
+                  name="email"
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  placeholder="Your email"
+                  size="xl"
+                  style={Object {}}
+                  value=""
+                />
+                <div
+                  className="___SOutline_ig413_gg_"
+                />
+              </div>
+            </span>
+          </span>
+          <span
+            className="base-button__BaseButton-sc-1hqbwl-0 internal-button__InternalButton-sc-6tgax4-0 dGmWiH btMXHM"
+            data-test="button-secondary"
+          >
+            <button
+              className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_primary-info_rkzvx_gg_"
+              data-ui-name="Button"
+              onBlur={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onMouseDown={[Function]}
+              size="xl"
+              style={
+                Object {
+                  "marginTop": 12,
+                  "width": "100%",
+                }
+              }
+              tabIndex={0}
+              type="submit"
+            >
+              <span
+                className="___SInner_rkzvx_gg_"
+                data-ui-name="Box"
+                style={Object {}}
+              >
+                <span
+                  className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+                  data-ui-name="Button.Text"
+                  size="xl"
+                  style={Object {}}
+                >
+                  Subscribe
+                </span>
+              </span>
+            </button>
+          </span>
+          <div
+            className="box-adaptive__BoxStyled-sc-g2wy39-0 subscription-form__TipStyled-sc-1yspurb-1 eqlqwJ"
+          >
+            <div
+              className="text-content__TextStyled-sc-1stkrsz-0 gMxUeL"
+              data-test="subscription-tip"
+            >
+              By clicking the button you consent to example using your contact data for newsletter purposes
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Match snapshots SubscriptionBlock with png 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 fENLpO block__BlockStyled-sc-h0mnyi-0 gMzVTU"
+  data-test="subscription-block"
+>
+  <div
+    className="box-adaptive__BoxStyled-sc-g2wy39-0 djPBEv"
+    data-test="container"
+  >
+    <div
+      className="box-adaptive__BoxStyled-sc-g2wy39-0 hoIJKK"
+    >
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 hrMNQR"
+        data-test="subscription-content"
+      >
+        <div
+          className="box-adaptive__BoxStyled-sc-g2wy39-0 gtIEcS"
+        >
+          <form
+            data-test="marketo-form"
+            id="mktoForm_1066"
+            style={
+              Object {
+                "display": "none",
+              }
+            }
+          />
+          <form
+            className="subscription-form__Form-sc-1yspurb-0 laUxsH"
+            onSubmit={[Function]}
+          >
+            <div
+              className="box-adaptive__BoxStyled-sc-g2wy39-0 ctwgcf"
+            >
+              <div
+                className="text-content__TextStyled-sc-1stkrsz-0 ecHJBr"
+                data-test="subscription-title"
+              >
+                Join our newsletter
+              </div>
+            </div>
+            <span
+              className="field-container__Container-sc-qv1os7-0 trAty"
+              data-test="field-container"
+            >
+              <span>
+                <div
+                  className="___SInput_ig413_gg_ _size_xl_ig413_gg_ _state_normal_ig413_gg_"
+                  data-test="subscription-input"
+                  data-ui-name="Input"
+                  size="xl"
+                  style={
+                    Object {
+                      "marginBottom": "12px",
+                    }
+                  }
+                >
+                  <input
+                    className="___SValue_ig413_gg_ _size_xl_ig413_gg_"
+                    data-ui-name="Input.Value"
+                    name="email"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    placeholder="Your email"
+                    size="xl"
+                    style={Object {}}
+                    value=""
+                  />
+                  <div
+                    className="___SOutline_ig413_gg_"
+                  />
+                </div>
+              </span>
+            </span>
+            <span
+              className="base-button__BaseButton-sc-1hqbwl-0 internal-button__InternalButton-sc-6tgax4-0 dGmWiH btMXHM"
+              data-test="button-secondary"
+            >
+              <button
+                className="___SButton_rkzvx_gg_ _size_xl_rkzvx_gg_ _theme_primary-info_rkzvx_gg_"
+                data-ui-name="Button"
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                size="xl"
+                style={
+                  Object {
+                    "marginTop": 12,
+                    "width": "100%",
+                  }
+                }
+                tabIndex={0}
+                type="submit"
+              >
+                <span
+                  className="___SInner_rkzvx_gg_"
+                  data-ui-name="Box"
+                  style={Object {}}
+                >
+                  <span
+                    className="_size_xl_rkzvx_gg_ ___SText_rkzvx_gg_"
+                    data-ui-name="Button.Text"
+                    size="xl"
+                    style={Object {}}
+                  >
+                    Subscribe
+                  </span>
+                </span>
+              </button>
+            </span>
+            <div
+              className="box-adaptive__BoxStyled-sc-g2wy39-0 subscription-form__TipStyled-sc-1yspurb-1 eqlqwJ"
+            >
+              <div
+                className="text-content__TextStyled-sc-1stkrsz-0 gMxUeL"
+                data-test="subscription-tip"
+              >
+                By clicking the button you consent to example using your contact data for newsletter purposes
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div
+        className="box-adaptive__BoxStyled-sc-g2wy39-0 hCVLEd block__ImageStyled-sc-h0mnyi-1 glxix"
+        data-test="subscription-image"
+      >
+        <img
+          alt="Trial example banner"
+          data-test="banner-subscribe-dark-png"
+          src="/blog/banners/banner-find-dark.png"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

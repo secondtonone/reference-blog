@@ -1,0 +1,452 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RadioButton match snapshots checked state 1`] = `
+<label
+  className="radio-button__RadioButtonStyled-sc-hwi2fo-0 hfGeCz ___SRadio_12oe0_gg_ _size_l_12oe0_gg_"
+  data-test="radio-label"
+  data-ui-name="Radio"
+  disabled={false}
+  label=""
+  size="l"
+  style={
+    Object {
+      "--theme_ahqhbl": undefined,
+    }
+  }
+>
+  <input
+    checked={true}
+    className="___SControl_12oe0_gg_"
+    data-ui-name="Radio.Value"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      Object {
+        "--theme_ahqhbl": undefined,
+      }
+    }
+    tabIndex={0}
+    type="radio"
+  />
+  <div
+    className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+    data-ui-name="Box"
+    onMouseDown={[Function]}
+    size="l"
+    style={
+      Object {
+        "--theme_ahqhbl": "",
+      }
+    }
+  />
+  
+</label>
+`;
+
+exports[`RadioButton match snapshots disabled checked state 1`] = `
+<label
+  className="radio-button__RadioButtonStyled-sc-hwi2fo-0 hfGeCz ___SRadio_12oe0_gg_ _size_l_12oe0_gg_"
+  data-test="radio-label"
+  data-ui-name="Radio"
+  label=""
+  size="l"
+  style={
+    Object {
+      "--theme_ahqhbl": undefined,
+    }
+  }
+>
+  <input
+    checked={true}
+    className="__disabled_12oe0_gg_ ___SControl_12oe0_gg_"
+    data-ui-name="Radio.Value"
+    disabled={true}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      Object {
+        "--theme_ahqhbl": undefined,
+      }
+    }
+    tabIndex={-1}
+    type="radio"
+  />
+  <div
+    className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+    data-ui-name="Box"
+    onMouseDown={[Function]}
+    size="l"
+    style={
+      Object {
+        "--theme_ahqhbl": "",
+      }
+    }
+  />
+  
+</label>
+`;
+
+exports[`RadioButton match snapshots empty state 1`] = `
+<label
+  className="radio-button__RadioButtonStyled-sc-hwi2fo-0 hfGeCz ___SRadio_12oe0_gg_ _size_l_12oe0_gg_"
+  data-test="radio-label"
+  data-ui-name="Radio"
+  label=""
+  size="l"
+  style={
+    Object {
+      "--theme_ahqhbl": undefined,
+    }
+  }
+>
+  <input
+    checked={false}
+    className="___SControl_12oe0_gg_"
+    data-ui-name="Radio.Value"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      Object {
+        "--theme_ahqhbl": undefined,
+      }
+    }
+    tabIndex={0}
+    type="radio"
+  />
+  <div
+    className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+    data-ui-name="Box"
+    onMouseDown={[Function]}
+    size="l"
+    style={
+      Object {
+        "--theme_ahqhbl": "",
+      }
+    }
+  />
+  
+</label>
+`;
+
+exports[`RadioButton match snapshots with double items 1`] = `
+Array [
+  <label
+    className="radio-button__RadioButtonStyled-sc-hwi2fo-0 hfGeCz ___SRadio_12oe0_gg_ _size_l_12oe0_gg_"
+    data-test="radio-label"
+    data-ui-name="Radio"
+    label="Search the blog"
+    size="l"
+    style={
+      Object {
+        "--theme_ahqhbl": undefined,
+      }
+    }
+  >
+    <input
+      checked={false}
+      className="___SControl_12oe0_gg_"
+      data-ui-name="Radio.Value"
+      disabled={false}
+      name="radio"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "--theme_ahqhbl": undefined,
+        }
+      }
+      tabIndex={0}
+      type="radio"
+      value="1"
+    />
+    <div
+      className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+      data-ui-name="Box"
+      onMouseDown={[Function]}
+      size="l"
+      style={
+        Object {
+          "--theme_ahqhbl": "",
+        }
+      }
+    />
+    <span
+      className="___SText_12oe0_gg_ ___SText_1jbni_gg_ _size_200_1jbni_gg_"
+      data-ui-name="Radio.Text"
+      size={200}
+      style={
+        Object {
+          "--color_qh0omt": "",
+          "--decoration_qh0omt": undefined,
+          "--fontSize_qh0omt": undefined,
+          "--fontWeight_qh0omt": undefined,
+          "--lineHeight_qh0omt": undefined,
+          "--textAlign_qh0omt": undefined,
+          "--theme_ahqhbl": undefined,
+        }
+      }
+    >
+      Search the blog
+    </span>
+  </label>,
+  <label
+    className="radio-button__RadioButtonStyled-sc-hwi2fo-0 hfGeCz ___SRadio_12oe0_gg_ _size_l_12oe0_gg_"
+    data-test="radio-label"
+    data-ui-name="Radio"
+    label="Search example.com"
+    size="l"
+    style={
+      Object {
+        "--theme_ahqhbl": undefined,
+      }
+    }
+  >
+    <input
+      checked={true}
+      className="___SControl_12oe0_gg_"
+      data-ui-name="Radio.Value"
+      disabled={false}
+      name="radio"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "--theme_ahqhbl": undefined,
+        }
+      }
+      tabIndex={0}
+      type="radio"
+      value="2"
+    />
+    <div
+      className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+      data-ui-name="Box"
+      onMouseDown={[Function]}
+      size="l"
+      style={
+        Object {
+          "--theme_ahqhbl": "",
+        }
+      }
+    />
+    <span
+      className="___SText_12oe0_gg_ ___SText_1jbni_gg_ _size_200_1jbni_gg_"
+      data-ui-name="Radio.Text"
+      size={200}
+      style={
+        Object {
+          "--color_qh0omt": "",
+          "--decoration_qh0omt": undefined,
+          "--fontSize_qh0omt": undefined,
+          "--fontWeight_qh0omt": undefined,
+          "--lineHeight_qh0omt": undefined,
+          "--textAlign_qh0omt": undefined,
+          "--theme_ahqhbl": undefined,
+        }
+      }
+    >
+      Search example.com
+    </span>
+  </label>,
+]
+`;
+
+exports[`RadioButton match snapshots with label disabled state 1`] = `
+<label
+  className="radio-button__RadioButtonStyled-sc-hwi2fo-0 hfGeCz ___SRadio_12oe0_gg_ __disabled_12oe0_gg_ _size_l_12oe0_gg_"
+  data-test="radio-label"
+  data-ui-name="Radio"
+  disabled={true}
+  label="Search the blog"
+  size="l"
+  style={
+    Object {
+      "--theme_ahqhbl": undefined,
+    }
+  }
+>
+  <input
+    checked={true}
+    className="__disabled_12oe0_gg_ ___SControl_12oe0_gg_"
+    data-ui-name="Radio.Value"
+    disabled={true}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      Object {
+        "--theme_ahqhbl": undefined,
+      }
+    }
+    tabIndex={-1}
+    type="radio"
+  />
+  <div
+    className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+    data-ui-name="Box"
+    onMouseDown={[Function]}
+    size="l"
+    style={
+      Object {
+        "--theme_ahqhbl": "",
+      }
+    }
+  />
+  <span
+    className="___SText_12oe0_gg_ ___SText_1jbni_gg_ _size_200_1jbni_gg_"
+    data-ui-name="Radio.Text"
+    size={200}
+    style={
+      Object {
+        "--color_qh0omt": "",
+        "--decoration_qh0omt": undefined,
+        "--fontSize_qh0omt": undefined,
+        "--fontWeight_qh0omt": undefined,
+        "--lineHeight_qh0omt": undefined,
+        "--textAlign_qh0omt": undefined,
+        "--theme_ahqhbl": undefined,
+      }
+    }
+  >
+    Search the blog
+  </span>
+</label>
+`;
+
+exports[`RadioButton match snapshots with label state 1`] = `
+<label
+  className="radio-button__RadioButtonStyled-sc-hwi2fo-0 hfGeCz ___SRadio_12oe0_gg_ _size_l_12oe0_gg_"
+  data-test="radio-label"
+  data-ui-name="Radio"
+  disabled={false}
+  label="Search the blog"
+  size="l"
+  style={
+    Object {
+      "--theme_ahqhbl": undefined,
+    }
+  }
+>
+  <input
+    checked={true}
+    className="___SControl_12oe0_gg_"
+    data-ui-name="Radio.Value"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      Object {
+        "--theme_ahqhbl": undefined,
+      }
+    }
+    tabIndex={0}
+    type="radio"
+  />
+  <div
+    className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+    data-ui-name="Box"
+    onMouseDown={[Function]}
+    size="l"
+    style={
+      Object {
+        "--theme_ahqhbl": "",
+      }
+    }
+  />
+  <span
+    className="___SText_12oe0_gg_ ___SText_1jbni_gg_ _size_200_1jbni_gg_"
+    data-ui-name="Radio.Text"
+    size={200}
+    style={
+      Object {
+        "--color_qh0omt": "",
+        "--decoration_qh0omt": undefined,
+        "--fontSize_qh0omt": undefined,
+        "--fontWeight_qh0omt": undefined,
+        "--lineHeight_qh0omt": undefined,
+        "--textAlign_qh0omt": undefined,
+        "--theme_ahqhbl": undefined,
+      }
+    }
+  >
+    Search the blog
+  </span>
+</label>
+`;
+
+exports[`RadioButton match snapshots with success state 1`] = `
+<label
+  className="radio-button__RadioButtonStyled-sc-hwi2fo-0 hfGeCz ___SRadio_12oe0_gg_ _size_l_12oe0_gg_"
+  data-test="radio-label"
+  data-ui-name="Radio"
+  label="Search the blog"
+  size="l"
+  style={
+    Object {
+      "--theme_ahqhbl": undefined,
+    }
+  }
+>
+  <input
+    checked={true}
+    className="___SControl_12oe0_gg_"
+    data-ui-name="Radio.Value"
+    disabled={false}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    style={
+      Object {
+        "--theme_ahqhbl": undefined,
+      }
+    }
+    tabIndex={0}
+    type="radio"
+  />
+  <div
+    className="___SValue_12oe0_gg_ _size_l_12oe0_gg_ _state_normal_12oe0_gg_"
+    data-ui-name="Box"
+    onMouseDown={[Function]}
+    size="l"
+    style={
+      Object {
+        "--theme_ahqhbl": "",
+      }
+    }
+  />
+  <span
+    className="___SText_12oe0_gg_ ___SText_1jbni_gg_ _size_200_1jbni_gg_"
+    data-ui-name="Radio.Text"
+    size={200}
+    style={
+      Object {
+        "--color_qh0omt": "",
+        "--decoration_qh0omt": undefined,
+        "--fontSize_qh0omt": undefined,
+        "--fontWeight_qh0omt": undefined,
+        "--lineHeight_qh0omt": undefined,
+        "--textAlign_qh0omt": undefined,
+        "--theme_ahqhbl": undefined,
+      }
+    }
+  >
+    Search the blog
+  </span>
+</label>
+`;

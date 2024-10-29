@@ -1,0 +1,206 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots ArticleCard default 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+    data-test="article-card"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+    >
+      <a
+        class="article-card__LinkStyled-sc-y8gq77-1 iCrWsI"
+        data-test="article-card-link-image"
+        href="/blog/what-is-seo"
+        rel="noreferrer"
+        target="_blank"
+        title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+      >
+        <img
+          alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+          data-src="https://static.example.com/blog/uploads/media/ec/23/ec23597b206c67f2845e3cc9f7ac7221/go-to-market-strategy-checklist-sm-1.svg"
+          data-test="article-card-image"
+        />
+      </a>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0"
+      >
+        <h3
+          class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+          data-test="text-content"
+        >
+          <a
+            data-test="article-card-link-title"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            The Ultimate Guide to Google Search Operators and Google Search Commands
+          </a>
+        </h3>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+      >
+        <span
+          class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+          data-test="article-card-time-to-read"
+        >
+          16 min read
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots ArticleCard only title 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+    data-test="article-card"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0"
+      >
+        <h3
+          class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+          data-test="text-content"
+        >
+          <a
+            data-test="article-card-link-title"
+            href="/blog"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            The Ultimate Guide to Google Search Operators and Google Search Commands
+          </a>
+        </h3>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots ArticleCard without image 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+    data-test="article-card"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+    >
+      <a
+        class="article-card__LinkStyled-sc-y8gq77-1 iCrWsI"
+        data-test="article-card-link-image"
+        href="/blog/what-is-seo"
+        rel="noreferrer"
+        target="_blank"
+        title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+      >
+        <img
+          alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+          data-src="https://static.example.com/blog/uploads/media/ec/23/ec23597b206c67f2845e3cc9f7ac7221/go-to-market-strategy-checklist-sm-1.svg"
+          data-test="article-card-image"
+        />
+      </a>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0"
+      >
+        <h3
+          class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+          data-test="text-content"
+        >
+          <a
+            data-test="article-card-link-title"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            The Ultimate Guide to Google Search Operators and Google Search Commands
+          </a>
+        </h3>
+      </div>
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0 dkxOHA"
+      >
+        <span
+          class="text-content__TextStyled-sc-1stkrsz-0 eIXFwk"
+          data-test="article-card-time-to-read"
+        >
+          16 min read
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Match snapshots ArticleCard without timeToRead 1`] = `
+<DocumentFragment>
+  <div
+    class="box-adaptive__BoxStyled-sc-g2wy39-0 hahMJK article-card__ArticleCardStyled-sc-y8gq77-0 kwJGUf"
+    data-test="article-card"
+  >
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 ioNFRR"
+    >
+      <a
+        class="article-card__LinkStyled-sc-y8gq77-1 iCrWsI"
+        data-test="article-card-link-image"
+        href="/blog/what-is-seo"
+        rel="noreferrer"
+        target="_blank"
+        title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+      >
+        <img
+          alt="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          class="image__ImageStyled-sc-rj8okk-0 hueYwk article-card__ImageStyled-sc-y8gq77-2 kIvFcz lazyload"
+          data-src="https://static.example.com/blog/uploads/media/ec/23/ec23597b206c67f2845e3cc9f7ac7221/go-to-market-strategy-checklist-sm-1.svg"
+          data-test="article-card-image"
+        />
+      </a>
+    </div>
+    <div
+      class="box-adaptive__BoxStyled-sc-g2wy39-0 iOPQQT"
+    >
+      <div
+        class="box-adaptive__BoxStyled-sc-g2wy39-0"
+      >
+        <h3
+          class="text-content__TextStyled-sc-1stkrsz-0 iXzJab"
+          data-test="text-content"
+        >
+          <a
+            data-test="article-card-link-title"
+            href="/blog/what-is-seo"
+            rel="noreferrer"
+            target="_blank"
+            title="The Ultimate Guide to Google Search Operators and Google Search Commands"
+          >
+            The Ultimate Guide to Google Search Operators and Google Search Commands
+          </a>
+        </h3>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

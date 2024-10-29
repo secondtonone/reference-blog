@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# testing
+coverage
+backstop_data
+
+# next.js
+.next
+out
+
+# production
+build

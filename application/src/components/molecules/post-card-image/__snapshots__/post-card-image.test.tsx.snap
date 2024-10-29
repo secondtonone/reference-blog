@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots PostCardContent default 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 VYInM post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+  data-test="image"
+>
+  <a
+    data-test="image-link"
+    href="url"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+  >
+    <img
+      className="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+      data-src="img"
+      height="190"
+      src={null}
+      width="158"
+    />
+  </a>
+</div>
+`;
+
+exports[`Match snapshots PostCardContent horizontal 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 lesazw post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+  data-test="image"
+>
+  <a
+    data-test="image-link"
+    href="url"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+  >
+    <img
+      className="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+      data-src="img"
+      height="190"
+      src={null}
+      width="158"
+    />
+  </a>
+</div>
+`;
+
+exports[`Match snapshots PostCardContent isLarge 1`] = `
+<div
+  className="box-adaptive__BoxStyled-sc-g2wy39-0 eBllGr post-card-image__ImageStyled-sc-r39eru-0 fHpPev"
+  data-test="image"
+>
+  <a
+    data-test="image-link"
+    href="url"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+  >
+    <img
+      className="image__ImageStyled-sc-rj8okk-0 hueYwk lazyload"
+      data-src="img"
+      height="250"
+      src={null}
+      width="310"
+    />
+  </a>
+</div>
+`;

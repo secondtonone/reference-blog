@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshot Page default 1`] = `
+<span
+  className="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC pagination-page"
+  data-test="button-link-secondary"
+>
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+    data-test="pagination-page"
+    href="/blog/?page=0"
+    onClick={[Function]}
+    style={
+      Object {
+        "minWidth": 42,
+      }
+    }
+  >
+    0
+  </a>
+</span>
+`;
+
+exports[`Match snapshot Page with active state 1`] = `
+<span
+  className="base-link__BaseButtonLink-sc-16cbcsq-0 selected-link__SelectedButtonLink-sc-oydr0g-0 jcuBOd jSCFRv pagination-page"
+  data-test="button-link-selected"
+>
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+    data-test="pagination-page"
+    href="/blog/?page=2"
+    onClick={[Function]}
+    style={
+      Object {
+        "minWidth": 42,
+      }
+    }
+  >
+    2
+  </a>
+</span>
+`;
+
+exports[`Match snapshot Page with page number 1`] = `
+<span
+  className="base-link__BaseButtonLink-sc-16cbcsq-0 secondary-link__SecondaryButtonLink-sc-1oku2gs-0 jcuBOd bLzqQC pagination-page"
+  data-test="button-link-secondary"
+>
+  <a
+    className="link-text__StyledLink-sc-a7posi-0 kCvSzJ SLink"
+    data-test="pagination-page"
+    href="/blog/"
+    onClick={[Function]}
+    style={
+      Object {
+        "minWidth": 42,
+      }
+    }
+  >
+    1
+  </a>
+</span>
+`;

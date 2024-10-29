@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match snapshots TooltipContent default arrow is up 1`] = `
+<div
+  className="tooltip-content__TooltipContentStyled-sc-jyk063-0 csWTkH"
+  data-test="tooltip-content"
+>
+  <span>
+    content
+  </span>
+  svg-arrow
+</div>
+`;
+
+exports[`Match snapshots TooltipContent empty 1`] = `
+<div
+  className="tooltip-content__TooltipContentStyled-sc-jyk063-0 csWTkH"
+  data-test="tooltip-content"
+>
+  <span />
+  svg-arrow
+</div>
+`;
+
+exports[`Match snapshots TooltipContent with content 1`] = `
+<div
+  className="tooltip-content__TooltipContentStyled-sc-jyk063-0 csWTkH"
+  data-test="tooltip-content"
+>
+  <span>
+    content
+  </span>
+  svg-arrow
+</div>
+`;
+
+exports[`Match snapshots TooltipContent with down arrow 1`] = `
+<div
+  className="tooltip-content__TooltipContentStyled-sc-jyk063-0 csWTkH"
+  data-test="tooltip-content"
+>
+  <span>
+    content
+  </span>
+  svg-arrow
+</div>
+`;
+
+exports[`Match snapshots TooltipContent with html 1`] = `
+<div
+  className="tooltip-content__TooltipContentStyled-sc-jyk063-0 csWTkH"
+  data-test="tooltip-content"
+>
+  <span>
+    <p>
+      content
+    </p>
+    <ul>
+      <li>
+        1
+      </li>
+      <li>
+        2
+      </li>
+      <li>
+        3
+      </li>
+      <li>
+        4
+      </li>
+      <li>
+        5
+      </li>
+    </ul>
+  </span>
+  svg-arrow
+</div>
+`;
+
+exports[`Match snapshots TooltipContent with left arrow 1`] = `
+<div
+  className="tooltip-content__TooltipContentStyled-sc-jyk063-0 csWTkH"
+  data-test="tooltip-content"
+>
+  <span>
+    content
+  </span>
+  svg-arrow
+</div>
+`;
+
+exports[`Match snapshots TooltipContent with right arrow 1`] = `
+<div
+  className="tooltip-content__TooltipContentStyled-sc-jyk063-0 csWTkH"
+  data-test="tooltip-content"
+>
+  <span>
+    content
+  </span>
+  svg-arrow
+</div>
+`;
+
+exports[`Match snapshots TooltipContent with up arrow 1`] = `
+<div
+  className="tooltip-content__TooltipContentStyled-sc-jyk063-0 csWTkH"
+  data-test="tooltip-content"
+>
+  <span>
+    content
+  </span>
+  svg-arrow
+</div>
+`;
+
+exports[`Match snapshots TooltipContent with warning color 1`] = `
+<div
+  className="tooltip-content__TooltipContentStyled-sc-jyk063-0 csWTkH"
+  data-test="tooltip-content"
+>
+  <span>
+    content
+  </span>
+  svg-arrow
+</div>
+`;
