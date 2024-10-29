@@ -1,3 +1,13 @@
+### Code examples
+
+All components - [link](https://github.com/secondtonone/reference-blog/tree/main/application/src/components)
+
+Example of Main page with test - [link](https://github.com/secondtonone/reference-blog/tree/main/application/src/components/templates/main-default)
+
+Storybook - [link](https://github.com/secondtonone/reference-blog/tree/main/storybook)
+
+Setup of screenshot tests - [link](https://github.com/secondtonone/reference-blog/tree/main/backstop)
+
 ### dev env
 yarn [workspaces](https://classic.yarnpkg.com/en/docs/workspaces/) supported 
 
